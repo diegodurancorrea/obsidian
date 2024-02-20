@@ -19,28 +19,28 @@ autor:: Regex
 ![[Pasted image 20240204004057.png]]
 Los autómatas pueden variar los motores de expresiones regulares. El nivel al que pueden aspirar es hacia  patrones escalones más arriba en el modelo lingüístico de Noam Chomsky.  El motor <code>re</code> de Python sólo soporta el nivel *regular*. 
 
-## 1.2 Agrupación regular y atómica 
+## 2.1 Agrupación regular y atómica 
 
-#### regular 
+#### 2.2 regular 
 
 > *Los grupos regulares que no capturan permiten que el motor vuelva a ingresar al grupo e intente hacer coincidir algo diferente (como una alternancia diferente, o hacer coincidir menos caracteres cuando se usa un cuantificador)*
 
 Los grupos regulares que no capturan tienen el formato ``(?:...)`` con un ``?:``
 
 Es decir, en la agrupación regular el motor de búsqueda tiene en cuenta los estados anteriores de coincidencia y puede recordarlos para hacer coincidir con la consulta. En el artículo *[[attencion is all you need]]* se destaca la importancia de revisar los estados anteriores. 
-#### Atómica
+#### 2.3 Atómica
 
 > *Los grupos atómicos difieren de los grupos regulares que no capturan, ya que está prohibido el retroceso. Una vez que el grupo sale, toda la información de seguimiento se descarta, por lo que no se pueden intentar coincidencias alternativas*
 
 Los grupos atómicos tienen el formato  ``(?>...)``  con un ``?>``
 
-## 1.3 Caracteres de ancla
+## 3.1 Caracteres de ancla
 
 > *Una gran cantidad de motores de expresiones regulares utilizan un modo "multilínea" para buscar varias líneas en un archivo de forma independiente. Por lo tanto, al usar $ , estos motores coincidirán con los finales de todas las líneas. Sin embargo, los motores que no utilizan este tipo de modo multilínea solo coincidirán con la última posición de la cadena proporcionada para la búsqueda.*
 
 ``g$`` 
 
-## 1.4 Clases y negación 
+## 4.1 Clases y negación 
 
 > *La clase de personaje se denota por <code>[]</code> . El contenido dentro de una clase de caracteres se trata como un <code>single character separately</code>*. 
 
@@ -57,7 +57,7 @@ Los grupos atómicos tienen el formato  ``(?>...)``  con un ``?>``
 		• -2
 		• 3-
 
-## 1.5 Cuantificadores posesivos
+## 5.1 Cuantificadores posesivos
 
 | cuantificador |                                                                                                                                              codicioso                                                                                                                                               |                                                                                                 perezoso                                                                                                  |                                                                                                                                                           posesivo                                                                                                                                                           |
 | ------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -77,7 +77,7 @@ El uso de la clase de caracteres negados reduce el problema del seguimiento y pu
 
 
 
-## 1.6 Escapando
+## 6.1 Escapando
 
 En Python:  `` pattern = r'regex' `` o  `` pattern = r"regex" ``
 ###### ¿Qué es el escape?
@@ -106,6 +106,6 @@ Los delimitadores tienen un impacto en el escape: si el delimitador es / y la ex
 
 
 
-## 1.7 Grupos de captura
+## 7.1 Grupos de captura
 
 `` abc_regex = re.compile("^abc", re.MULTILINE);``

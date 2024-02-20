@@ -19,7 +19,15 @@ Luhmann critica a Parsons, no en su ambición teórica, sino en su freno estruct
 
 ## 2.2 tradición teórica de la organización 
 
-Desde la historiografía teórica de la comprensión de la organización no fue, sino hasta muy temprano, una distinción muy tajante entre organismo, organización u orden. En parte debido a la escasez de estas formas sociales, y al uso recurrente de las metáforas en la comprensión de la sociedad como órganos del cuerpo, véase el esquema jerárquico indio de castas: los roles sociales correspondes a funciones que asemejan al cuerpo. De tal forma es importante distinguir, en el subsecuente estudio de las organizaciones: 
+Desde la historiografía teórica de la comprensión de la organización no fue, sino hasta muy temprano, una distinción muy tajante entre organismo, organización u orden. En parte debido a la escasez de estas formas sociales, y al uso recurrente de las metáforas en la comprensión de la sociedad como órganos del cuerpo, véase el esquema jerárquico indio de castas: los roles sociales correspondes a funciones que asemejan al cuerpo. De tal forma es importante distinguir, en el subsecuente estudio de las organizaciones, los siguientes puntos: 
+
+
+1.  La comprensión de la organización, es decir, la teoría de la organización, es diferente de la teoría de la sociedad, aún cuando ambas formas sociales compartan formas operativas similares
+2. Dentro de los estudios sobre teoría de las organizaciones los esfuerzos investigativos han divergido en la administración de empresas (en la búsqueda de mejores rendimientos reales) y la sociología de las organizaciones, no restringida al estudio de la racionalidad de la empresa comercial, sino a la comprensión global del fenómeno organizativo. 
+3. Incluso desde la investigación organizacional de la economía de la empresa se muestra evidente una premisa teórica alcanzada al temporalizar los sistemas sociales cuya [[autopoiesis]] recae en la [[comunicación]], nos referimos, sin explicitar ahora las razones, a la inexistencia de una decisión óptima única, en términos econométricos, el entorno de las empresas no se rige por el cálculo racional interno de la empresa, es decir, no existe la competencia perfecta. 
+
+## 2.2 Acción y decisión
+
 
 
 
