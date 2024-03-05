@@ -10,7 +10,7 @@ tipo:: resumen
 
 ``` dataview 
 table Fecha_creacion as "Fecha Creación" , Ultima_modificacion as "Última Modificación" , tipo
-from !"Templates" 
+from !"Templates" & !"Imagenes" 
 ```
 # RESEÑAS
 
