@@ -1,9 +1,9 @@
 ---
-Fecha_creacion:: 2024-02-11
-Ultima_modificacion:: NaN
+"Fecha_creacion:": 2024-02-11
+"Ultima_modificacion:": NaN
 Nombre_documento: Comunicación artificial
-tipo:: Reseña corta
-autor:: Ester Espósito
+"tipo:": Reseña corta
+"autor:": Ester Espósito
 ---
 
 # 1.1  contingencia virtual 
