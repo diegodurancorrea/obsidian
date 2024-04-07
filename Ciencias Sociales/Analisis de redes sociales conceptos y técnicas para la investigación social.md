@@ -6,6 +6,7 @@ Nombre_documento: Análisis de redes sociales conceptos y técnicas para la inve
 "autor:": Édison Gabriel Brand Monsalve
 ---
 # Primera parte
+## primer capítulo
 
 El ARS (análisis de redes sociales) se introduce en el campo de la investigación social al diferenciarse de los tradicionales métodos cualitativos y cuantitativos. La perspectiva reticular abarca no sólo una propuesta metodológica, plantea una comprensión teórica diferencial de la sociedad. El ARS se enfoca en proporcionar la mejor herramienta metodológica para observar la realidad relacional de cualquier [[elemento social]]. 
 
@@ -38,9 +39,26 @@ Resuelta esta distinción se mencionan las posibles teorías sociales para inter
 + teoría de la acción colectiva 
 + teoría de la dependencia 
 + teoría de los vínculos débiles (importante en las relaciones no afectiva: relaciones inter organizacionales)
+teoría intra organizacional: 
 
 #### Construcción metodológica
 
+El autor aborda dos modelos de construcción en referencia a dos autores: Carlo Sluzky y Noel Tichy. En ambos casos se emplean por lo menos tres columnas de datos donde se aclara el registro de *aquello que pasa por la red* , *las cualidades o naturaleza de los nodos* y *el tipo de relación que inaugura la nueva relación*.  
+## Segundo capítulo
+
+¿Dónde son aplicados los ARS? los análisis en redes sociales son reservados para cualquier problema que involucre una red social: **conjunto específico de vínculos entre un conjunto definido de personas o elementos, con la propiedad adicional de que las características de estos vínculos en su conjunto pueden ser interpretados como un modelo explicativo de la conducta de los elementos**
+
+Estos tipos de análisis también son conocidos como análisis estructurales debido a descripción empírica de la ubicación de un elemento en una organización. Se asume que su comportamiento (que haga lo que se le solicitó fuera realizado) es una consecuencia de su participación en una red social bien definida. Esta clase de análisis cuantifican su objeto, es decir, la red, no mediante formas agregativas  o estadísticas.  
+
+### formulación
+
+El autor propone elementos conceptuales que nos pueden ayudar a identificar cuando hablamos de un problema relacional: 
++ las acciones de los actores y ellos mismos son vistos como unidades autónomas independientes
++ los lazos relacionales entre los autores son canales para la transferencia 
++ el entorno estructural de la red ofrece oportunidades o limitaciones para la acción individual 
++ existencia de patrones duraderos de relaciones entre actores 
++ relaciones entre unidades interactuantes son la unidad de análisis 
+	+ las relaciones no son características intrínsecas de cada parte tomada aisladamente, sino una propiedad emergente de la conexión o ligazón entre unidades de observación
 # Segunda parte: investigar con ARS. Una propuesta técnica
 
 Los **Atributos** pueden ser elementos de análisis en los estudios estructurales; reflejan relaciones solidificadas a través del tiempo. Y pueden ser representados relacionalmente a través de las siguientes herramientas. 
