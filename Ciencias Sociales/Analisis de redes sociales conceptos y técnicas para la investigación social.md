@@ -86,7 +86,7 @@ Los datos ingresados puede ser de dos tipos:  redes lineales (emisor, receptor, 
 |:------------------------:|:-------------------------:| ----------------------- |:------:|
 | Primer nodo identificado | Segundo nodo identificado | contenido transaccional | Lineal |
 
-#### diseño de ficheros 
+#### diseño de ficheros y conceptos
 
 
 | Tipos de fichero   | red o fichero de Network (.net)                                     | Fichero de partición                                                                                                     | Fichero de vectores                                        | Fichero de matrix |
@@ -104,4 +104,53 @@ Los datos ingresados puede ser de dos tipos:  redes lineales (emisor, receptor, 
 | ------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | descripción  | corresponden a relaciones entre un mismo tipo de actores | corresponden a relaciones entre dos tipos de actores                                                                                                                        |
 | notas        |                                                          | Especificar el número total de nodos que tendrá la red, seguido del número de nodos que corresponden al primer tipo de actor de la red, separados por un espacio intermedio |
-densidad : líneas existentes sobre el número de líneas potenciales que pueden existir en la red 
+##### conceptos
+
+**densidad** : líneas existentes sobre el número de líneas potenciales que pueden existir en la red 
+**diada**: mínima relación en un par de actores:
++ nula: no hay relación, pertenencia a diferentes grupos
++ mutua: cada actor elige al otro en la relación
++ asimetría: relación no recíproca
+**Triada**: subconjunto de tres actores con sus posibles vínculos, esto revelaría un interés en la transitividad y equilibrio de las relaciones.
+**Sub-grupo**: sub conjunto de más de tres actores con sus posibles vínculos, determinadas de acuerdo a diferentes criterios, son particiones. 
+Componentes:  son sub redes de la red total donde no  hay ningún punto aislado
++ weak: permite conocer vínculos con relaciones débiles 
++ Strong: permite conocer vértices con conexiones fuertes si cada par de vértices está conectado, como mínimo, por un sendero sin regreso
+**Cliques**: son un sub grupo de la red en el que los actores están más cercanos entre si que con el resto de los actores de la red 
++ un colección de actores que se eligen entre si 
++ grupo de puntos conectados mutuamente 
++ sub grupo con alta densidad en las relaciones
+**comunidades**: grupo de vértices para las cuales la densidad de las líneas dentro de los grupos en mayor que la densidad de las líneas entre los grupos
++ encontrar grupos de actores más simples entre si
+
+# Tercera parte : objeto del ARS 
+
+el objeto de las ARS es la **red social**: conjunto de vínculos o conexiones entre 2 o más partes que tiene lugar a partir de los intercambios materiales y simbólicos en función de los cuales es posible caracterizadas las redes de acuerdo a diferentes criterios: 
+
++ **redes personales**: conjunto de relaciones que hacen parte de la vida cotidiana de una persona y conforman su mundo primario de interacciones, vínculos construidos espontáneamente entre personas que comparten espacios en los mismos periodos de tiempo. 
+	+ se llama estrella de primer orden al conjunto constituido por el individuo encuestado (ego) junto con las personas con quien está en relación directa
+	+ la zona de primer orden incluye las relaciones que los diferentes alter mantienen entre si
+	+ permite acceso a redes más amplias (redes de empleabilidad)
++ **Redes sociales heterogéneas**: conformadas por vínculos del individuo con otros individuos de características diferentes; acceso a información y promoción personal
++ **Redes sociales homogéneas**: conformadas por el  individuo con otros individuos de características iguales o similares; apoyo social 
++ **Redes intra-organizacionales**: estructura relacional existente al interior de las organizaciones, relación entre sus roles, y entre el personal. este tipo de redes sirven para identificar:
+	+ organigrama formal 
+	+ Estructura relacional paralela informal
+		+ realidad relacional: verdaderos intermediarios del flujo real de la información 
+			+ exámenes de patrones de conexiones entre funciones específicas, departamento y unidades de la empresa
+			+ importancia de las relaciones
+			+ cuanto el autor está inserta en el campo social 
+			+ utilidad social de las relaciones 
+			+ modelación estructural de la vida social 
++ **Redes inter organizacionales**: conformada por vínculos entre diferentes organizaciones , de naturaleza pública y privada conformadas por:
+	+ necesidad, asimetría, reciprocidad, eficiencia, estabilidad, legitimidad
+	+ configuran el límite de la acción e influencia organizacional 
+	+ las interdependencias entre las organizaciones no son todas de origen económico
++ **Redes de políticas públicas**: Son relaciones de organizaciones civiles entre si con los entes estatales, también es una red inter organizacional que se traduce en una influencia en la política pública y consolidación de la agenda pública. 
+	+ conjunto de relaciones relativamente estables, de naturaleza no jerárquica e independiente, que vinculan a una variedad de actores que comparten intereses comunes en referencia a una política.
+		+ escuela de gobernanza y escuela de intermediación de recursos
+
+**Consideraciones finales**:
++ el concepto de red social está aún en construcción 
++ una red social no es un objeto ontológico 
++ es una metodología que observa la relación

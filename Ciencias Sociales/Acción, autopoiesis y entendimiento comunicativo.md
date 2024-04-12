@@ -67,9 +67,7 @@ Dada la temporalización del sistema y de los sistemas en el entorno cualquier g
 
 Aún no hemos precisado, más allá de que se trata de un elemento, que son las razones. Las razones son la generalización de la capacidad de conexión de operaciones (temporales y sociales) al interior del sistema. Toma la forma de decisión precisamente para garantizar la generalización, la generalización está orientada a los rendimientos operacionales (o *'convivencia'*), no al establecimiento de una comprensión ni, mucho menos, a la generación del aprecio de la decisión por parte del personal. No obstante, debido a que *'sólo los elementos producidos por el sistema pueden participar en la reproducción del sistema'*, en la dimensión social que observa la diferencia social de su personal y público, la distinciones sociales (consenso/disenso; aprecio/ desprecio ) ayudan a orientar y conducir las razones por un sendero sin obstáculos, es decir, orientan la acción del sistema.
 
-
-observación externa de la razón y quien no adhiere no comprende... 
-desde fuera se juzgan las razones con diferencias no disponibles en el sistema externo que observa. 
+La racionalidad solo puede ser observada como racional para aquel que participa en la reproducción del sistema. La comprensión debe superar esta barrera, desde una perspectiva Habbermaniana quien no adhiere a la comunicación no comprende, esto es cierto, aunque con matices de alcance: usualmente las exigencias son trasmitidas sin tener en cuenta las diferencias no disponible para un observador externo, esto no importa, la razón es sencillamente rechazada y se presiona a buscar otras, esta vez que si sean 'racionales'.
 
 
 
