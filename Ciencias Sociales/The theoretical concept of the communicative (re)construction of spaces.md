@@ -37,70 +37,16 @@ Dada la variabilidad interpretativa de la realidad, es indiscutible la aparició
 ## segundo modelo: redes y constelaciones de gobernanza 
 
 ![[Pasted image 20240412150914.png]]
-La emergencia de la discordancia que hace posible la transformación, es decir, la objetivación de una nueva forma interpretativa del espacio, es trasladad al actor o al grupo. A pesar de la heterogeneidad y complejidad presente en los espacios relacionales, la unidad del espacio relacional son diseñados (imagino que en el marco de las democracias liberales) específicamente para desarrollar procesos de negociación y coordinación entre    
+La emergencia de la discordancia que hace posible la transformación, es decir, la objetivación de una nueva forma interpretativa del espacio, es trasladad al actor o al grupo. A pesar de la heterogeneidad y complejidad presente en los espacios relacionales, la unidad del espacio relacional son diseñados (imagino que en el marco de las democracias liberales) específicamente para desarrollar procesos de negociación y coordinación entre  formas y estrategias de acción de espacios relacionales que no pueden ser ignorados. La constelación de gobernanza apunta a un concreto futuro espacial, y es caracterizado por la continua relación comunicativa entre todas sus partes, usualmente directa mediante reuniones y encuentros 
 
+### esfera pública y discurso
 
-They are designed to develop, by means
-of negotiation and coordination processes, socially binding common modes
-of space- related interpretation and strategies for action with regard to concrete
-future spatial transformations.
-Governance constellations are here characterized, similarly to the networks
-mentioned above, by regular action and communication relationships7 – usually
-in the context of meetings; that is, in situations involving direct communication.
+La esfera pública es el 'lugar'  donde la unidad del espacio relacional y sus interpretaciones y acciones espaciales son observadas, adaptadas y negociadas mutuamente dada la generación en un proceso colectivo. Transformadas en válidas para el contexto social hasta nuevo aviso.  Los actores, grupos redes y constelaciones de gobernanza inicialmente exigen una esfera pública pequeña como parte de su comunicación interna, las relaciones emergen y comienzan a referenciar a otros actores externos, aquí transformamos en una esfera pública de un mayor número. La forma de enlace de los actores , a través de directa o mediada forma de comunicación, determina el alcance de la esfera pública. 
 
-==Spatial transformations as communicative reconstructions==
-==of space: Public spheres and (media) discourses==
+La generación de esta esfera pública es el espacio de la unidad del espacio relacional;  en este espacio el espacio relacional como discurso es ampliamente discutido para configurar sus temáticas o contenido, las temáticas más acuciantes (modo de interpretación) pueden transformarse en la dominantes en un espacio una vez se impongan en un contexto de figuraciones comunicadas , procesos de negociación, cuestionamientos y renegociaciones. El resultado será el establecimiento de ordenes de conocimiento y su insistencia en su implementación en acción para hacer 'visible'  los ordenamientos materiales. Las estrategia vendrán acompañadas de un incremento en la cantidad de *'dispositivos'* que ayudan al establecimiento de discurso del espacio relacional y su implementación en un contexto donde diferentes actores paralelamente están están comunicando sus figuraciones espaciales.  
 
-Typically, the space- related actions and interpretations
-of others are also there observed, mutually adapted, negotiated, and –
-to a certain degree – processed into jointly shared space- related modes of action
-and interpretations of reality which, until further notice, become valid for that
-social context. These collectively generated and socially shared space- related
-ways of acting and interpreting form the reality of Space A- Social Context 1.
+### medios de comunicación
 
-Processes of objectivation in the form of action routines, linguistic definitions,
-institutionalizations, and legitimizations thus lead to increasing consolidation of
-the construction of space in a social context.
+Los medios no son solo un 'medio', sino que aparecen como un específico y poderoso actor debido a que la acción periodista como la selección de noticias y la línea editorial, poseen una considerable influencia en la negociación pública de un específico tópico en el discurso. Aunque  varios discursos pueden traerse al interior de la esfera pública, no es posible abarcar la totalidad de los tópicos. Por lo que la unidad del espacio relacional será siempre parcial, es decir, siempre puede cambiar en referencia a algo previamente no tenido en cuenta. 
 
-Actor groups, networks, and governance
-constellations that initially operate in small public spheres as part of their
-internal communication usually address other actors or local residents with
-their space- related modes of action and interpretation, thus addressing a larger
-public. Depending on the group of actors, network, or governance constellation,this takes place via specific ensembles of – direct and media- based – forms of
-communication.
-
-
-This space- related discourse is a contested field with regard to its themes.
-Prior themes (or space- related modes of interpretation) that may have become
-dominant in Space A in the context of earlier communicative figurations and
-negotiation processes are questioned and renegotiated alongside newly emergent
-ones. to establish corresponding orders of knowledge,
-and to insist on their implementation in action and material arrangements. In addition, they can accrue dispositif structures which, from their perspective,
-can be helpful for the further establishment of ‘their’ space- related discourse
-topics and their practical implementation. Insofar as several different groups of
-actors, networks, and governance constellations act in parallel as communicative
-figurations
-
-==Rather, they appear as specific – powerful – actors
-due to journalistic actions such as news selection and news staging, and they can
-have a considerable influence on the further public negotiation of specific discourse
-topics. Although these various discourse topics are brought into a local
-public sphere through local mass media or social media, not all societal (discourse)
-actors and topics are heard there. What we can thus observe are
-multiple realities of Space Atransformed in the Public Sphere A.==
-
-knowledge that the actors and inhabitants
-cannot have obtained only from direct experience. in this context, these media can point out
-regional, national, or global processes (economic, cultural, social, or religious,
-for instance) that can play a role for Space A. the media provide multiple
-media constructions of other spaces and supra- regional processes that are fed
-by, among other things, the knowledge of experts. Actors and inhabitants of
-Space A process these constructions. Regional,
-national, or global processes are turned into processes that in a certain way
-influence Space A or that may have interdependencies with its processes. Via
-media constructions of other spaces, actors and inhabitants of Space A can
-see their space in a new light. At the level of the delimited public
-sphere, Space A is thus positioned and qualified in relation to other spaces
-within a framework of communicative action. Since other spaces, like Space A,
-are also constantly transforming, and since this is communicatively processed
-in public spheres as well, corresponding communications about this can act as external impulses for new space- related modes of interpretation and action
+Desde la perspectiva de los actores y habitantes, la obtención de información no sólo es posible desde formas directas de interacción. En este contexto, los medios exponen procesos regionales, nacionales y globales que afectan, en alguna manera, la unidad relacional del espacio en cuestión. Aportan múltiples construcciones espaciales de otros lugares, en varias ocasiones, apoyadas por expertos. Los actores y habitantes integran esos procesos constructivos en sus propios procesos constructivos en alguna manera, procurando la dependencia o la interdependencia con el propio proceso local. Solo a través del espacio medial los habitantes pueden observar sus propios procesos en una nueva forma; los propios procesos también se externalizan, generando una forma de posicionamiento de la calidad en relación con otros espacios en una relación comunicativa en constante transformación.  El mutuo intercambio entre espacios actúan como impulsores externos de nuevos modos de acción e interpretación del espacio relacional. 
