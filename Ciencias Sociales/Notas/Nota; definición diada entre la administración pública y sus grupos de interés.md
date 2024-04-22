@@ -14,8 +14,11 @@ Cuando observamos la administración pública salta a la vista que no está conf
 
 ## Un problema de elección 
 
+Dada la compleja realidad social a la que se enfrenta el sistema político, la administración pública se encuentra en un proceso constante de reducción de complejidad mediante decisiones vinculantes. Las decisiones que se suceden día a día no son pocas, y aunque sólo constituyesen un puñado, necesitan ser consistentes entre si, es decir, deben coordinarse entre si para garantizar que una decisión no bloquee a otra. En suma, *la compatibilidad de las decisiones sólo puede consistir  en que determinadas soluciones a problemas bloquean otras tan poco como resulte posible*, y cuando el código para la transmisión de la programación es el dinero, entonces el cálculo económico debe incluirse en la programación, generalmente a través del presupuesto.  (falta hacer un matiz  entre el poder para la temática y el dinero para sus rendimientos). La existencia del recurso en una dependencia implica la no disponibilidad en otra, esta relación a través del código entre los segmentos indica que problemas tienen prioridad sobre otros, y puede ser un indicador de hacia donde se dirigen la programación a fines.  
 
 
-Debido a que la organización supone al delegar a otras organizaciones, este proceso específico se convierte en un problema administrativo: 
+elegida la programación, emerge otro problema... 
+
+Debido a que la organización supone al delegar a otras organizaciones, este proceso específico se convierte en un problema administrativo: debe existir una correspondencia del objeto y una distinción social   
 
 
