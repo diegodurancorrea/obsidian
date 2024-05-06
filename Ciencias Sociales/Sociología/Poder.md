@@ -162,14 +162,33 @@ Otras precondiciones de la acción específica deben buscarse en específico en 
 
 # capítulo 7: los riegos del poder
 
-alto grado de institucionalización si las operaciones del código son visibles socialemente y observar que la selectividad efectivamente ocurre. 
+Comprendemos un alto grado de institucionalización si las operaciones del código son visibles sociablemente y podemos observar que la selectividad efectivamente ocurre. 
 
-Los riesgos conscientes aumentan con una creciente conciencia
-de selección. En primer lugar, se conciben en términos
-generales en el nivel de los procesos de selección y de
-trasmisión, como riesgos de cometer errores. En esta concepción
-del problema, la solución está en imponer normas
-de selección correctas. en el poder, la preocupación del mal uso que hace el portador del poder
+Los riesgos, son en tanto son asociados a esta observación general (visible por todos); estos riesgos conscientes aumentan con una creciente conciencia de selección. En primer lugar, se conciben en términos generales en el nivel de los procesos de selección y de trasmisión, como riesgos de cometer errores. En esta concepción del problema, la solución está en imponer normas de selección correctas. en el poder, la preocupación reside en el mal uso que hace el portador del poder. 
 
+Para comprender mejor, y desprendernos de nociones clásicas sobre legitimidad y soberanía. debemos partir primariamente los riesgos evolutivos del poder.  Desde un perspectiva evolucionista donde sólo lo probable perdura, el tiempo adquiere estructura cuando un suceso deje de ser igualmente probable a otro. Esto implica un desequilibrio temporal, o una ventaja temporal, de la probabilidad; además , de tendencia irreversible, dado que las oportunidades perdidas no se presentan nuevamente. Dada las condiciones 'naturales' para la emergencia de los sistemas sociales , el manejo de la complejidad social presionó desarrollos de los códigos y de la diferenciación los medios simbólicamente generalizados para hacer sostenible en el tiempo las transmisiones societales, de esta primer estrategia asociada íntimamente con el código del poder, se perciben situaciones de demasiado poder y situaciones de demasiado poco poder. 
+
+El riesgo evolucionista es que se desaparezca está estructura simbólica y las estrategias para mitigar el riesgo generar otros riesgos asociados a estás últimas, es decir , a su disolución; por lo tanto entre menos alternativas para romper la  improbabilidad comunicativa existan más un mayor riesgo concentrado. Junto con el desarrollo societal, **el riesgo se desplaza de un problema de probabilidad temporal (parcialmente resuelto) a la corrección circunstancial del éxito de la transmisión y consenso social como estrategia del código sobre el riesgo de perder la improbabilidad ganada.**  
+
+En este punto de desarrollo, la necesidad para la toma de decisiones aumenta más rápidamente con el desarrollo societal: el número de sucesos que requiere de una decisión ha aumentado más que cualquier selección por parte de constante natural de cualquier tipo, hasta el punto donde cualquier selección es observado como una decisión. 
+
+Nuestro foco debe centrarse ahora en los riegos evolutivos en la toma de decisiones. En primer lugar, existen limites sobre la capacidad de tomas de decisiones, no obstante, estas se tornan una fuente de poder en si mismo: 
+1) capacidad para interrumpir u obstaculizar cadenas de poder y evitar sucesos  
+2) y poder para no tomar decisiones en los casos relevantes.  convertida usualmente en una alternativa de evitación 
+Este riesgo hace más probable la transmisión de decisiones negativas más que de positivas. En segundo lugar, el ritmo , la sincronización y la exactitud se tornan problemas en el ejercicio del poder y distorsionan sus preferencias. El tiempo se ve como un terrible factor desorganizador que atrasa las decisiones. 
+
+Por lo tanto, en términos de la circunstancia factual tanto como en términos del tiempo, el poder existente en los sistemas políticos ya no parece capaz de tratar lo que se requiere para llevar a cabo las operaciones de toma de decisiones y de transmisión; en otras palabras,  **poder constituido políticamente como un sustituto técnico unificado para la autoridad, la reputación y el liderazgo, comienza a fallar.** Volver a formas más 'naturales' de generalización de la influencia queda descartada en su inoperancia. en cambio, los sustitutos técnicos para el poder se desarrollan, por ejemplo, en la forma de auto mistificación de los líderes o en la insinuación de éxito, que impresiona a las masas y ocultan los fracasos del poder. 
+
+en un tercer lugar, la formación de una estructura de expectativas respecto a un poder que fracasa, hace posible la emergencia de otro riesgo, a saber, **se hará evidente que el poder no realiza sus propias potencialidades**, es decir, fracasa.  La generalización de los elementos simbólicos de los medios para estar lo suficientemente generalizados y poder aplicarse a diversas situaciones deben emplear idealizaciones o ficciones[[la razón populista]]. Así, la movilización del cuerpo político pueden, como usualmente sucede, movilizarse por una causa fracasada o ambigua. A pesar de esto, la discrepancia entre lo posible y lo real, disponible en el grado de conciencia de la propia selección, afecta en una u otra manera las actitudes, y al ciclo de movilización continúa, es decir, aumenta el riesgo de la desobediencia .No obstante, también las desilusiones corresponden con riesgos estructurales de los medios de comunicación generalizados y su tratamiento debe hacerse por los códigos o subcódigos simbólicos. 
+
+En fin, la discrepancia entre lo posible y lo actual, y esto no sólo en el sentido de aumentar la selectividad en los procesos, sino también en la creación estructural de expectativas exageradas y de exigencias sobre las capacidades de los sistemas de comunicación correspondientes que no pueden desarrollarse en la práctica.
+
+Para estos riesgos, unos que predicen el fracaso, y otros que nacen del fracaso sólo para observar nuevamente el fracaso de un elemento simbólico, existen condiciones para su mitigación, por lo tanto, la estabilización del poder. 
+1) desarrollo actitudes adecuadas : actitudes como el fatalismo o apatía sirven para enfrentar la desilusión, los procesos de selección buscan  disposiciones compatibles con los problemas de la organización 
+2) técnicas de crisis : Corresponde a instrumentos para tratar las crisis que suelen comprometer a las crisis en un tiempo de planificación del poder , es decir, hay un tratamiento anticipado y cálculo de la crisis con posterioridad. La anticipación debe seleccionar que tema activaría una crisis porque no cualquier problema es susceptible de ser tratado como crisis de la organización. 
+3) inflación o deflación del poder : El hecho de cubrir el riesgo de la generalización con el peligro de devaluar los medios de motivación tiene un efecto inflacionario. Por otro lado, el hecho de fracasar en el uso de las oportunidades para la generalización tiene un efecto deflacionario, con la desventaja de que quedan sin uso las posibilidades de trasmisión.
+
+
+# Capítulo 8 : la relevancia del poder para la sociedad 
 
 
