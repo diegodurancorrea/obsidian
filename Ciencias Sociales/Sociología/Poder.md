@@ -191,4 +191,25 @@ Para estos riesgos, unos que predicen el fracaso, y otros que nacen del fracaso 
 
 # Capítulo 8 : la relevancia del poder para la sociedad 
 
+El poder como medio simbólicamente generalizado no es exclusivo de un sistema parcial en particular; en cambio, es generalizado a toda la sociedad, y es esta, la sociedad, su sistema de referencia. Los códigos simbólicamente generalizados están **donde quiera que la gente se esté comunicando entre si**, hacen parte y regulan, entonces,  las **combinaciones posibles de toda la sociedad**, momento donde los elementos del sistema se forman respetando la lógica interna del código, más de las veces binaria.
+
+En específico, el código del poder, existe sobre un mundo que se presenta como supuesto para los que en él participamos; en él el poder es tratado como un [[técnica]]. **Los procesos de evolución societal de diferenciación de los códigos , un aumento en sus rendimientos y la especificación funcional de los códigos han derivado en el desarrollo de sistemas políticos. Como sistema especializado en una función tienden a la diferenciación en un sistema parcial, convirtiéndose en un entorno no evitable para el conjunto de toda la sociedad.** Pero no toda acontecimiento de poder surge dentro de un sistema que especializa y forma formas del poder. Esta cuestión puede plantearse como: *¿Qué manifestaciones del poder puede politizarse y cuales no?* 
+
+Es posible encontrar manifestaciones del poder fuera de referencia del sistema político. si se encuentra la presencia de dos sistemas sistemas políticos de referencia el inevitable conflicto entre sus disposiciones del código (órdenes contradictorias) tenderá a derivar en la obsolescencia  de alguno de los involucrados; por tal, **desarrollos paralelos al sistema de poder, derivan, incluso en su caso extremo, en la obsolescencia**. Los casos no extremos encuentran en la familia y en el colegio los ejemplos más ilustrativos. Ahora, es imposible administrar un colegio sin hacer uso, en alguna medida, del código del poder, como la postulación de sanciones negativas, entonces: ¿Cómo es posible mantener la especificación funcional si para el funcionamiento del sistema es imprescindible el uso del código del poder?  
+
+A través de la **transferencia de los motivos guiados** el poder puede reproducirse en forma simplificada sin que ocurra de nuevo las condiciones de su reproducción.  Esto se garantiza **eliminando el poder en las interacciones no políticas**, es decir, el poder al interior de una organización tiene su margen de maniobra sólo en la indicación de que se está en coordinación con el *contrato social*, por lo que la relación al interior de la interacción sólo admite poder si existe referencia a esta norma externa, por tal, para acceder al poder la relación debe describirse en los términos del sistema de referencia, es decir, como relación política. 
+
+El *contrato social* libera al código del poder de imponerse en las relaciones cara a cara, esta forma de control es reemplazada con la ley, a su vez, garantizada por un portador de poder lejano y ajeno al sistema desde donde se da la referencia. **La ley constituye la mejor forma de diferenciación (cómo único sistema  con la capacidad de producir) e integración (como la forma de interdependencia de entre todas las organizaciones entre si), de esta manera, la ley es una elemento primario del poder político, desde el cual es distribuido, como cápsulas, al resto de la sociedad.**
+
+Hemos obviado parcialmente una realidad abrumadora, las interdependencias de las organizaciones sociales con el recurso jurídico para administrar su poder interno no soluciona completamente la interdependencia de las organizaciones con un tipo particular de relación inevitable: **la participación en la decisión sobre si mismo, decisiones sobre la política sustentadas y posibles  en La Política.** El recurso jurídico puede solucionar ya esta presión sobre las organizaciones, habilitando vehículos políticos donde se garanticen que las quejas sean tomadas en cuenta. De esta forma, o de cualquier otra forma de participación menos formalizada (usual en sistemas pequeños), **la participación toma por objeto la ganancia de visibilidad de asuntos sobre el poder sujeto a comunicaciones y meta comunicaciones.**  Que una comunicación sobre poder sea visible dependerá de la amplitud en cantidad de sus roles , de su impacto en estos y del recurso jurídico disponible.  
+
+Puedo aducir que la presión por la democratización, salvando los roles del público en el sistema político, está motivada por el interés que le suscita la modificación de las alternativas de evitación que aceptó una vez ingreso en la organización. Por esta razón, no menor, junto con otras asociadas con [[Poder#capítulo 7 los riegos del poder|los riesgos del poder]], **aumenta el poder de veto en las organizaciones y, extendidamente, no se puede alterar a la sociedad ampliamente solamente en el uso del medio de comunicación poder.**  
+# Capítulo 9: el poder organizado 
+
+
+
+
+
+
+
 
