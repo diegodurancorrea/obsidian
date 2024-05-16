@@ -6,11 +6,10 @@ tipo:: Reseña larga
 autor:: NIklas Luhmann
 ---
 
- 
+# prefacio
 
 Se parte de una teoría de la sociedad que explique la sociedad como condición del fenómeno del poder. que utiliza un enfoque indirecto de tradición Durkheimiana  
 Tres teoría de la sociedad : teoría de la evolución, teoría de la formación de sistemas y diferenciación de sistemas y teoría de los medios simbólicamente generalizados. estas tres teorías están entrelazada de modo causal. 
-
 # capitulo 1 : el poder como un medio de comunicación
 +  en todo sociedad existen mecanismos mas allá del lenguaje que garantizan la transmisión de las selecciones en la medida apropiada, sujeto a la presión evolutiva de aumento y especialización 
 	+ regulan la motivación para aceptar la selección ofrecida, socialmente efectiva y utilizable
