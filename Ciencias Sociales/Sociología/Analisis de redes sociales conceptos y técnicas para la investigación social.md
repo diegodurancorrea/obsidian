@@ -39,8 +39,6 @@ Resuelta esta distinción se mencionan las posibles teorías sociales para inter
 + teoría de la acción colectiva 
 + teoría de la dependencia 
 + teoría de los vínculos débiles (importante en las relaciones no afectiva: relaciones inter organizacionales)
-teoría intra organizacional: 
-
 #### Construcción metodológica
 
 El autor aborda dos modelos de construcción en referencia a dos autores: Carlo Sluzky y Noel Tichy. En ambos casos se emplean por lo menos tres columnas de datos donde se aclara el registro de *aquello que pasa por la red* , *las cualidades o naturaleza de los nodos* y *el tipo de relación que inaugura la nueva relación*.  
