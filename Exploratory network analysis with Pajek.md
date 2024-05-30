@@ -45,6 +45,42 @@ Pajek habilita varios comandos para lograr una mejor visualización, estos son l
 
 # Part 2 : atributtes and relations
 
+Una parte importante, aunque añadida, de las redes sociales, es su capacidad para combinar los datos relacionales con atributos no relacionales que mejorar las interpretaciones estructurales. Los atributos son las propiedades de los actores que no están basados en su posición estructural al interior de una red social
+## Particiones
+Estos atributos cuantitativos son llamados particiones por Pajek y se definen como la **clasificación que guarda las características discretas de los vértices**, consiste en un número defino de clases que pueden, a través de la extracción de sub redes, reducir su tamaño o complejidad. las particiones, a nivel de archivo, pueden describirse como una lista de números enteros asociados a una lista de vectores; es probable que el orden de estos enteros corresponde con el grado ordinal de la variable, esto depende del investigador. La integración de los atributos es relevante porque permite constatar se existe una correlación entre estos y las características estructurales. 
+
+### sub redes
+
+Las particiones dividen a la red social en un número de conjuntos excluyentes entre si. La primera posibilidad que permiten las particiones es la reducción de la red social en sub redes definida como la **selección de un sub conjunto de sus vértices y de todas las líneas que sólo inciden con los vértices seleccionados.** 
+
+#### Extracciones
+
+las extracciones pueden ser de tres tipos: 
++ vista local:  extraer solo una parte de la red 
++ vista global: agregar todos las partes en un sólo único vértice
++ vista contextual: se selecciona que vértices reducir en una sola agregación y cuales no redecir; funciona para enfocarse en una clase de vértices respecto a unos vínculos agregados
+
+Un vértice agregado y reducido a un sólo vértice consiste **en remplazar un sub conjunto de vértices por un sólo vértice que incide para todas las líneas que lo conectan con vértices que originalmente no incidían dentro del subconjunto seleccionado**. el valor de las líneas que ahora lo conecta corresponde con la suma de todos los valores individuales dentro del sub conjunto.  Cuando agregamos de esta manera las relaciones dentro del propio sub conjunto se representa como un bucle del vértice resultante consigo mismo, el valor de la línea también resulta de la suma de todos las relaciones individuales.
+
+La utilidad de la extracción consiste en proveernos de una vista parcial para comprender mejor estructuras de redes muy complicadas a primera vista. 
+### Un asunto metodológico
+
+Las particiones respetan la misma secuencia de los vértices ingresados en nuestra red social. Por lo que, necesariamente, el número de entradas en la partición debe ser el mismo número de vértices en la red, es decir, compatibilidad. 
+## Vectores
+Los vectores guardan propiedades continuas que pueden tomar cualquier valor en un rango definido. A nivel de archivo se describe como una lista de números reales; a diferencia de las particiones, los vectores no clasifican los vértices en clases. La función del vector es, entonces, asignar un valor numérico a cada vértice en una red social y pueden ser usado en cálculos. Los valores negativos pueden ser usados en cálculos pero no pueden ser representados en un visualización
+### De vector a partición 
+
+Además de los cálculos, podemos transformar nuestros vectores en particiones; existen múltiples opciones que nos ofrece Pajek:
+
++ Remover decimales: se eliminan los decimales de los números reales y los enteros iguales resultantes conformarán una nueva partición 
++ Particiones por intervalos:  agregamos el límite de una nueva partición y luego añadimos el incremento, el resultado es que cada partición tendría la misma diferencia de una a otra 
++ Particiones por selección: agregamos una lista de los límites superiores de cada clase, lo que permite tener un control sobre el tamaño y la diferencia entre cada clase
++ Sub vector de una partición
+#### Estadística
+
+La estadística ofrece técnicas para describir y comparar ==atributos== , de tal manera que si las relaciones estructurales pueden ser convertidas en atributos, estos, a su vez, pueden ser incluidos en análisis estadísticos. En esta línea, los vértices agregados mediante particiones permiten las aplicaciones de las tradicionales medidas estadísticas agregativas. Por tanto, las particiones y los vectores que guardan en si características estructurales de los vértices son el puente entre los análisis de redes sociales y la estadística. 
+
+
 
 
 
