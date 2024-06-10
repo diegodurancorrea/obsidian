@@ -140,7 +140,27 @@ Para comprender estos patrones de afectividad se acude a la teoría del balance,
 
 Pajek ofrece una red especial para expresar las estructuras de afectividad, estos son los grafos señalizados, los cuales tienen **en cada línea un signo positivo o un signo negativo**. Para ingresar el concepto de balance debemos introducir el de ciclo. Cada ciclo es un *path* cerrado diferenciado de otro al no compartir vértices o actores entre sí. Podemos decir entonces que un ciclo está balanceado cuando: 1) existe un número par de líneas negativas o 2) no existe ninguna línea negativa en el ciclo. Las redes señalizadas están mejor diseñadas cuando estas son direccionadas, esto es debido al carácter unidireccional del vínculo afectivo. 
 
-La teoría parte del punto de vista o percepción de una persona 
+La teoría parte del punto de vista o percepción de una persona (P) y lo que piensa acerca de otra persona (O). El balance estructural de una red de sentimientos se interesa por todos los sentimientos de los miembros del grupo hacia cada uno de los miembros del grupo. El balance tendrá en cuenta todos los patrones de los vínculos de afecto en un grupo social.
+
+Los grafos señalizados puede ser : ==balanceados o clusterizables==. Para que un grafo sea balanceado la red puede ser 'partida' en dos clúster de modo que todas las líneas positivas están contenidas en un clúster y todas las líneas negativas están localizadas entre los clúster. Cada uno de los semi ciclos deben estar balanceados. Y un grafo es clusterizable si se cumple las condiciones de una red balanceada con el añadido que pueden existir más de dos clúster. La clusterabilidad se refiere  la capacidad que tiene un ciclo o un semi ciclo de conformar el mismo un clúster. 
+
+### Encontrando el balance
+
+Preguntarnos por el balance nos deriva hacia una cuestión mucho más profunda, a saber, el conflicto y la inestabilidad. Es entonces condición sine qua non de las clúster balanceados su conflictos con otros en esa misma condición, ==la condición del balance es el conflicto==.  No obstante, la teoría del balance hipotetiza que en el transcurso del tiempo las relaciones de afecto tienden a estabilizarse, siendo la estabilización interna producto de un intenso periodo de polarización social.
+
+En redes señalizadas sin particiones previas debemos generar un clúster y escoger la partición donde menos número de líneas no permitidas existan. El número de líneas no permitidas constituyen el grado de balance de una red señalizada, y su uso permite escoger la mejor distribución de particiones. 
+
+#### técnica de optimización
+
+Para encontrar la mejor partición se debe reorganizar los clúster hasta encontrar la mejor solución, en dicho proceso pueden que se encuentren algunas soluciones que encajan igualmente bien, aunque ninguna de ellas sea el mejor orden posible. Dependiendo del número de clúster a encontrar se pueden generar diferentes resultados, es difícil determinar el número de clúster que producirá el menor número de score negativo, teniendo en cuenta que los valores de línea no permitidos, sean negativos o positivos, pueden tener pesos diferentes.  En Pajek la partición ingresada junto con la red indica el número de clúster a encontrar y el primer clúster que el algoritmo intentará descifrar y mejorar. 
+
+
+## Afiliaciones 
+
+
+
+
+
 
 
 
