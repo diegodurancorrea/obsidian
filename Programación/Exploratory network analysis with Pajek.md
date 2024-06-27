@@ -154,7 +154,6 @@ En redes señalizadas sin particiones previas debemos generar un clúster y esco
 
 Para encontrar la mejor partición se debe reorganizar los clúster hasta encontrar la mejor solución, en dicho proceso pueden que se encuentren algunas soluciones que encajan igualmente bien, aunque ninguna de ellas sea el mejor orden posible. Dependiendo del número de clúster a encontrar se pueden generar diferentes resultados, es difícil determinar el número de clúster que producirá el menor número de score negativo, teniendo en cuenta que los valores de línea no permitidos, sean negativos o positivos, pueden tener pesos diferentes.  En Pajek la partición ingresada junto con la red indica el número de clúster a encontrar y el primer clúster que el algoritmo intentará descifrar y mejorar. 
 
-
 ## Afiliaciones 
 
 
