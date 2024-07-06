@@ -128,7 +128,7 @@ Al principio tenía una intuición que podría resumirla así:
 + debido al complex performance se adopta como identidad corporativa un perfil exitoso
 + el perfil exitoso orienta las decisiones organizacionales 
 
-Sobre esto se pueden decir varias cosas: el perfil organizacional se encuentra en la literatura actual como 'marca', es difícil conocer de donde vienen tanta duplicación (su origen) , y parece que no existe una coordinación. No obstante, la forma como se describe el cuerpo político que sostiene la distinción simbólica Medellín (le da forma) tendrá relevancia en el contenido de la 'marca'. Esta auto descripción toma la forma de lo que hemos hecho, lo que  estamos haciendo y lo que queremos hacer, es decir, se adopta la racionalidad fin/medio propia de la programación, su identidad son sus programas. Un trabajo que nos acerca a esta temática es [[Medallo En El Mapa;  Estudio De La Reputación De La Marca Ciudad Medellín Que Se Forman Los Jóvenes A Partir De La Música De Maluma]]
+Sobre esto se pueden decir varias cosas: el perfil organizacional se encuentra en la literatura actual como 'marca', es difícil conocer de donde vienen tanta duplicación (su origen) , y parece que no existe una coordinación. No obstante, la forma como se describe el cuerpo político que sostiene la distinción simbólica Medellín (le da forma) tendrá relevancia en el contenido de la 'marca'. Esta auto descripción toma la forma de lo que hemos hecho, lo que  estamos haciendo y lo que queremos hacer, es decir, se adopta la racionalidad fin/medio propia de la programación, su identidad son sus programas. Un trabajo que nos acerca a esta temática es [[Medallo En El Mapa]]
 
 
 
