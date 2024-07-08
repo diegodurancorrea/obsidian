@@ -1,5 +1,5 @@
 # Repositorio digital 
 
-Aquí podrás encontrar toda la información sistematizada de cada una de los materiales que considero deben ser reseñados.
+Aquí encontrarás un sistema de carpetas y archivos en construcción inspirado en **Zettelkasten**. Para una correcta visualización debe ser descargado y leído en Obsidian. Los carpetas indican distinciones anidadas que me permiten clasificar adecuadamente cualquier archivo en una temática. Las conexiones entre los archivos están referenciados en cada archivo.   
 
 
