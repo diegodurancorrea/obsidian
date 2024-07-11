@@ -6,7 +6,6 @@ Tipo_documento:: Artículo
 tipo:: Reseña corta
 autor:: Mark Grannoveter
 ---
-
 # Introducción 
 El autor se pregunta por la naturaleza del vínculo entre dos actores al que analíticamente divide en dos clases: **vínculos fuertes** y **vínculos débiles**. El vínculo fuerte no es definido con claridad pero se apunta a un enlace que , por lo menos, sea emocionalmente importante y sostenido en el tiempo.  Los vínculos débiles se definen como su contrario.
 
@@ -46,8 +45,15 @@ Paralelamente a esta distinción corre la distinción $(denso/no\enspace denso)$
 Los puentes constituyen el punto de contacto o bisagra entre las dinámicas grupales de pequeña escala y los procesos de movilización inter grupalmente. Deben ser interpretados como los canales más eficientes de difusión en un sistema. Sus alcances serán analizados en el siguiente apartado
 
 # Vínculos débiles en el éxito organizativo
-Usualmente para explicar el éxito organizativo 
+este apartado se refiere a la última sección del artículo
+
+Usualmente para explicar el éxito organizativo se aduce a factores culturales y de personalidad. Pero  el fenómeno sería más aprehensible si acudimos a las características estructurales de la red conformada por  todos los actores de la red. 
+
+Debemos preguntarnos por las posibilidades de éxito que pudiesen estar en estrecha relación con la extensión de contactos de un nodo, asumiendo que una mayor extensión está determinada por la cantidad total de vínculos débiles. Estudios confirman que la **motivación a la acción** cuyo medio de información asociado son los mass media son más exitosos son asociados con **alguien con que se tiene algún vínculo personal**.  Esta capacidad de difusión exitosa también está relacionada con la generación de [[confianza]] que , desde el modo de tratamiento del artículo, se establece cuando **la conducta puede ser predicha e influenciada**. Nuevamente, tal capacidad se desprende de tener algún tipo de contacto directo o indirecto con el líder de la organización. 
+### Etnografía 
+
+Aunque los estudios donde es más factible extraer información sociométrica son las etnografías. Esta forma de abordar el problema impide ver redes interpersonales a gran escala y , por tanto, es imposible ver hasta donde llegan, es decir, cuando se fragmenta para dar paso a otro grupo fuertemente conectado entre si. Cuando hacemos etnografía nos enfocamos en una descripción densa focalizada en un **conjunto único** sin considerar sus fronteras más allá que con la marginalidad. La evidencia empírica apunta a considerar puentes a todos los vínculos con escasa relación con el conjunto único primario. Esta innovación teórico viene acompañada con una aparente contradicción resuelta por la distinción de escalas; en grupos pequeños los lazos fuertes aumentan la cohesiva y coordinación, pero las conexiones inter grupales que existen garantizan la cohesión y coordinación mediante lazos débiles: no es posible tener aprecio o conocer a cada uno de los habitantes de mi barrio, por tanto, **Una comunidad es más unitaria y coordinada en tanto más puentes locales por persona existan**  
 ### Aportación al DHL y conclusiones 
 
-
+Desde un punto de vista empírico y teórico la movilidad fuera del conjunto único reproduce las condiciones de la movilidad.  El principio de transitividad (se transmite la elección para generar un nuevo vínculo fuerte)
 
