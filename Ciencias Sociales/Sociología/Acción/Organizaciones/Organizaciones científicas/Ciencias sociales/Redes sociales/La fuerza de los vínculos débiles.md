@@ -55,5 +55,8 @@ Debemos preguntarnos por las posibilidades de éxito que pudiesen estar en estre
 Aunque los estudios donde es más factible extraer información sociométrica son las etnografías. Esta forma de abordar el problema impide ver redes interpersonales a gran escala y , por tanto, es imposible ver hasta donde llegan, es decir, cuando se fragmenta para dar paso a otro grupo fuertemente conectado entre si. Cuando hacemos etnografía nos enfocamos en una descripción densa focalizada en un **conjunto único** sin considerar sus fronteras más allá que con la marginalidad. La evidencia empírica apunta a considerar puentes a todos los vínculos con escasa relación con el conjunto único primario. Esta innovación teórico viene acompañada con una aparente contradicción resuelta por la distinción de escalas; en grupos pequeños los lazos fuertes aumentan la cohesiva y coordinación, pero las conexiones inter grupales que existen garantizan la cohesión y coordinación mediante lazos débiles: no es posible tener aprecio o conocer a cada uno de los habitantes de mi barrio, por tanto, **Una comunidad es más unitaria y coordinada en tanto más puentes locales por persona existan**  
 ### Aportación al DHL y conclusiones 
 
-Desde un punto de vista empírico y teórico la movilidad fuera del conjunto único reproduce las condiciones de la movilidad.  El principio de transitividad (se transmite la elección para generar un nuevo vínculo fuerte)
+1) Desde un punto de vista empírico y teórico la movilidad fuera del conjunto único reproduce las condiciones de la movilidad.  
+2) El principio de transitividad (se transmite la elección para generar un nuevo vínculo fuerte) es una función que depende de fuerza del vínculo
+
+Estas conclusiones, aparentemente simples, son un sólido paso en la compresión del fenómeno social. No obstante el propio autor advierte su principal limitación: solo se trata de un fragmento de teoría que explaya sólo un aspecto muy estrecho de la realidad social. 
 
