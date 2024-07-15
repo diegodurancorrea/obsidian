@@ -20,5 +20,20 @@ No obstante, evidencia apunta a que no es posible extender este mecanismo de gen
 
 La consideración de diferentes tiempo y formas de observar la configuración del apego develan que este varía según el ciclo vital y las diferentes experiencias vitales. Aunque esto explica el cambio en la configuración del apego , los casos donde las condiciones han permanecido estables la configuración del apego no cambia. En todos los casos, se ha observado que el apego seguro , en cualquier etapa del ciclo vital, proporciona mayor probabilidad de obtener experiencias positivas en las interacciones cotidianas. 
 ## Otras variables
+Aunque la receptividad del cuidador es un factor muy importante en el ajuste psicológico del niño, este no es el único factor que existe. Están presentes también la capacidad para establecer una disciplina efectiva y el temperamento propio del niño. también intervienen los estilos de crianza, que involucra factores como la autonomía , la armonía y el conflicto. Cada uno de estos factores también interactúa con el entorno social donde se inscribe la unidad familiar. Estudios revelan que algunos niños que presentan un ajuste psicológico positivo en ambientes sociales hostiles presentan características*resilientes* desde muy temprana edad. Se ha detectado que estos niños resilientes presentan por lo menos una relación afectuosa con alguna persona adulta receptiva a las necesidades del niño. 
+## Variables estructurales 
+
+Existen aspectos estructurales de la familia, los cuales son: 
+1) número de progenitores en la familia
+2) sexo de los progenitores
+3) su orientación sexual
+4) parentesco genético con los hijos
+5) parentesco gestacional con sus hijos
+
+La pregunta a responder es si una familia que no respete alguno de estos aspectos es lo suficientemente funcional en la crianza para generar un ajuste psicológico positivo en sus hijos. los siguientes capítulos del libro abordan diferentes tipos de nuevas familias donde uno o varios aspectos estructurales de la familia estructural no están presentes, y se discutirá si ello afecta en alguna medida el desarrollo del infante.  ¿son estos aspectos estructurales realmente?    
 # Familias de bebés probetas (FIV)
+
+Técnica inaugurada el 11 de julio de 1978 fue anunciada por los medios como el primer bebé concebido en un laboratorio. ha pasado de un rechazo social generalizado hacia un tratamiento aceptado contra l infertilidad. 
+
+Las familias de bebé probeta hacen uso de la reproducción asistida, por tanto se alejan de los aspectos estructurales en sólo un punto. ¿tiene esto consecuencias para llevar acabo una buena crianza? la evidencia hasta ahora recolectado sugiere que no diferencia entre familias FIV y familias de concepción natural. Los riesgos asociados con las familias FIV viene por saltarse el proceso de una adecuada selección de los espermatozoides durante su recorrido para llegar al óvulo , y por la alta probabilidad de obtener un embarazo múltiple.  Como conclusiones del capítulo, luego de respaldarse en una suficiente cantidad de estudios que constatan la no diferencia en capacidades cognitivas de los niños, las estrategias de crianza, y los problemas conductuales, son la igual funcionalidad de las dos tipos de familia; aunque se advierte que las familias FIV están sometidas a un nivel mayor de estrés debido a los embarazos múltiples, estrés que no afecta de modo significativo la funcionalidad familiar.    
 
