@@ -1,4 +1,5 @@
 
+
 https://katex.org/docs/supported # KaTeX The _fastest_ math typesetting library for the web.
 
 https://auditoresciudadanos.dnp.gov.co/Principal auditores ciudadanos
@@ -18,6 +19,10 @@ hacker resorce: https://www.angusj.com/resourcehacker/#download
 ILSpy: https://github.com/icsharpcode/ILSpy/releases
 
 Ghidra : https://github.com/NationalSecurityAgency/ghidra/releases?page=1
+
+REDES : https://revistes.uab.cat/redes/index
+
+visualizater: https://socnetv.org
 ## links seguimiento presupuestal 
 
 > Plan operativo anual de inversiones POAI : https://www.medellin.gov.co/es/centro-documental/plan-operativo-anual-de-inversiones-poai/

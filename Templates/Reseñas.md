@@ -5,6 +5,7 @@ Nombre_documento:: <% tp.file.title %>
 Tipo_documento:: <% tp.system.suggester((item) => item, ["Artículo", "Libro","Conferencia"]) %> 
 tipo:: <% tp.system.suggester((item) => item, ["Reseña corta", "Reseña larga"]) %>
 autor:: <% tp.system.prompt("Ingrese el nombre del autor") %>
+Link:: <% tp.system.prompt("Ingrese una URL si está disponible") %>
 ---
 
 
