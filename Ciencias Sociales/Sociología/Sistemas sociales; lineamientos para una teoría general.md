@@ -1,3 +1,0 @@
-
-## Estructura y tiempo 
-

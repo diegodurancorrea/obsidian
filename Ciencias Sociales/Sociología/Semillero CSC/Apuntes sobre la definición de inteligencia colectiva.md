@@ -20,8 +20,6 @@ Por tanto, la inteligencia colectiva es cualitativamente diferente que la inteli
 ##### eslóganes o definición de 'cajón'
 + Inteligencia Colectiva: es una estrategia que promueve la alta diversidad participativa de los actores locales para el alcance de objetivos comunes en un territorio específico
 + Inteligencia Colectiva: es una estrategia que promueve la alta diversidad participativa de los actores locales para la toma de decisiones en un territorio específico
-
-
-
-
+###### insight
+ La inteligencia no es una cualidad en tanto una persona tenga o no tenga inteligencia, sino en tanto una organización apliquen un conjunto de pasos o estrategias que pueden estar presentes o no por una presión social ejercida. 
 

@@ -1,0 +1,16 @@
+
+
+Mundos vidas Jóvenes
+
+Aquí observé varios artículos (la gran mayoría) queriendo encontrar el aspecto identitario de las juventudes : los lugares , las maneras y los consumos. Encontré en un primer lugar una caracterización entre la dicotomía entre joven y adulto, encontré, además de una conocida interpretación de Bourdeau: 'Los adultos empujan a los relevos a la juventud'. una generalización (quizá tosca): la disgregación sería el mundo de los jóvenes como un universo hedonista  y el universo adulto como uno de las responsabilidades. 
+
+yendo más a profundidad con los artículos nos encontramos con una caracterización de los jóvenes de clase alta que aunque ello no les confiere una identidad homogénea (no me queda claro si es posible la creación de una identidad en este sentido) si poseen cierto habitus : una relación diferencial respecto al gusto que los restringe (o se auto exiliaron) a sitios de gran exclusividad al que solo pueden llegar mediante un red de relaciones construida a lo largo de la vida: 
+- encuentro de pares 
+- amistades en colegios 
+- y universidades
+
+la influencia teórica es dejada a la vista: la fenomenología de Schuzt , la diferenciación de Bourdeau y los desarrollos posteriores de Bergle y Luckman. los conceptos al parecer se acoplan a la realidad encontrada en el campo. La gran problematíca que termina siendo una urgente premisa en la conclusión, y es la que genera en un primer lugar esta diferenciación social tan agresiva es la ausencia de lugares inter-clase (el lugar de encuentro, es el 'lugar' donde el habitus como tipificación se subjetiviza y pierde la generalidad). 
+
+intentaré hacer una cronología de este fenómeno: en un primer momento se da por sentado una inequidad (que pudiese ser con bases naturalistas o no) que se reconoce en el otro en la mayor expresión de la subjetividad , es decir, en la interacción cara a cara, las diferencias a base de la distinción se reconocen en el hábitus que es formado en el tiempo ejerciendo un gusto, tal gusto promueve a habitar y a consumir los mismos espacios de aquellos que se quieren diferenciar, lo que deriva en la creación de unas redes específicas que se asientan en espacios. Los espacios son apropiados por aquellas personas que buscan diferenciarse y se reconocen entre sí por no 'desentonar', este entone o estilo es configurado y emerge de la propia interacción de la red consigo misma. 
+
+Otro artículo (más aburrido y menos elaborado) habla sobre las culturas juveniles relacionadas con la música alternativa de los 80 y 90. Este artículo tiene de plano una argumentación simple pero con conceptos interesantes para trabajar: el artículo se basa en una explicación de la decadencia de las culturas juveniles por parte de las industrias culturales y la mercantilización. hasta aquí todo normal, lo interesante son las consecuencias que tiene esto en la identidad: la rebeldía y la disidencia son un disfraz que se utilizan en sitios específicos , en este sentido, son disidencia incorporada, una disidencia que ha perdido todo su potencial revolucionario (al parecer la revolución y la juventud para el autor es una cualidad inherente).

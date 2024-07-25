@@ -8,9 +8,10 @@ tipo:: resumen
  
 # TOTAL
 
-``` dataview 
-table Fecha_creacion as "Fecha Creación" , Ultima_modificacion as "Última Modificación" , tipo
-from !"Templates" & !"Imagenes" 
+```dataview 
+table Fecha_creacion as "Fecha Creación" , Ultima_modificacion as "Última Modificación",tipo
+
+From !"Templates" & !"Imagenes" & !"Excalidraw"
 ```
 # RESEÑAS
 

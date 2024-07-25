@@ -9,12 +9,12 @@
 # Resumen 
 ## primera parte
 El artículo tiene la pretensión de distanciarse de una CSS (computacional social science)  a través de una nueva propuesta tanto teórica como metodológica. Las CSS han emergido con la emergencia de los datos masivos sobre fenómeno sociales (en una mirada histórica) que han aparecido gracias a las plataformas digitales. El abordaje de las 'ciencias duras' de estos datos hacen implícito **la correspondencia de los datos con la conducta humana pura**; el análisis y las predicciones posible en y con estos datos ubicarían a la CSS al nivel de rigurosidad de las ciencias naturales. 
-
+### 1.1
 Para analizar y extraer datos han de ser utilizados sofisticadas técnicas computacionales, esta es simplemente una posibilidad que se prioriza por sobre otras, las razones son del mismo orden técnico. Las salidas numéricas y visuales de la técnica apunta a tres cosas:
 + 1) identificación de patrones ocultos en los datos 
 + 2 ) simulación de agentes (de la micro mecánica a la macro dinámica) 
 + 3) y la experimentación en las plataformas digitales.
-
+### 1.2
 El paradigma que marca la distinción en el entorno son los **sistemas complejos** , es quizá la mejor forma de reemplazar los modelos deterministas por gigantes modelos probabilísticos que pueden, mediante esta forma '*libre*' de incluir la diferencia o la desilusión, ser el mejor acercamiento científico al fenómeno social.  Esta forma de concepción copiada de las ciencias naturales que se enfrentan al caos introduce este mismo paradigma naturalista al fenómeno social. La medición ahora hecha posible permite pensar en modelos de ingeniería social orientados a la resolución de problemas específicos. El procesamiento de estos datos se ha convertido, por lo tanto, en la mejor manera de superar la crisis de saber sociológico.
 ## segunda parte
 

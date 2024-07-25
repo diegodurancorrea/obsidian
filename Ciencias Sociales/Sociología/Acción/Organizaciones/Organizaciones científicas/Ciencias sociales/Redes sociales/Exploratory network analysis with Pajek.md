@@ -128,7 +128,7 @@ Los cliqués son conjunto de vértices donde cada vértice está directamente co
 
 En el análisis de redes sociales los vértices que se sobre ponen con más de una sub red completa se les considera las secciones más densas ya que conectan sub redes con otras sub redes, constituyen el esqueleto de la red. Los vértices más densos pueden ser clasificados en diferentes clases y a esta clasificación se le denomina jerarquía. 
 
-### Sugerencia 
+#### Sugerencia 
 
 En Pajek tenemos disponibilidad para hacer uso de diferentes pruebas para detectar  sub grupos cohesionados al interior de una red. No obstante, no podemos concluir que el resultado de una prueba se traduzca en la existencia de una grupo cohesionado en la realidad, se deben contrastar los datos estructurales con los atributos de cada uno de los actores.
 
@@ -153,14 +153,29 @@ En redes señalizadas sin particiones previas debemos generar un clúster y esco
 #### técnica de optimización
 
 Para encontrar la mejor partición se debe reorganizar los clúster hasta encontrar la mejor solución, en dicho proceso pueden que se encuentren algunas soluciones que encajan igualmente bien, aunque ninguna de ellas sea el mejor orden posible. Dependiendo del número de clúster a encontrar se pueden generar diferentes resultados, es difícil determinar el número de clúster que producirá el menor número de score negativo, teniendo en cuenta que los valores de línea no permitidos, sean negativos o positivos, pueden tener pesos diferentes.  En Pajek la partición ingresada junto con la red indica el número de clúster a encontrar y el primer clúster que el algoritmo intentará descifrar y mejorar. 
-
 ## Afiliaciones 
 
+Hasta ahora hemos tratado con redes sociales cuyos actores eran de un sólo tipo: personas o organizaciones. No obstante, para examinar con mayor agudeza algunas 'realidades' sociales es necesario contar con ambos tipos de actores; un ejemplo son las **afiliaciones**, es decir, la pertenencia de un actor a una organización. En base en los desarrollos de George Simmel, podemos llamar **círculo social** al grupo de personas que se reúnen alrededor de una o más organizaciones y eventos. La afiliación es por lo tanto una relación entre personas y organizaciones en el que se manejan varios presupuestos:
++ La afiliación siempre se observará en una membresía en una 'institución' que explicite un rasgo estructural
++ La afiliación como el cómputo total de estas presentes en una organización revelan el *arreglo* institucional, es decir, las decisiones sobre la expedición de membresías expresa el funcionamiento de una organización
++ Una organizaciones expide decisiones sobre afiliaciones y los afiliados interactuarán al interior de la organización unos con otros con igual posibilidad
+	1) Los afiliados en una organización tenderán a compartir similaridad en otros contextos sociales 
+	2) Diferentes organizaciones pueden sobreponerse en sus afiliados debido a que las personas en un círculo social adscriben a más de una organización
+### redes de 2 modos y de 1 modo
+enfocado en el análisis de vaoleres de linea (line value)
 
+Una **red de afiliación** es una con , por lo menos, dos conjuntos de vértices , donde sólo un conjunto de vértices puede interactuar con el otro; de tal forma que las interacciones entre el mismo conjunto de vértices no están habilitadas. Estos dos conjuntos de vértices reciben el nombre habitualmente de *actores y eventos*. Estos tipos de redes son definidas como **red de 2 modos**, formalmente definida como: una red donde *los vértices son divididos en dos conjuntos y los vértices solo pueden ser conectados con otros del conjunto restante*. El primer conjunto es referido como **filas** y el segundo como **columnas**    
 
+#### conceptos red de 2 modos
 
+Algunos conceptos en redes de 2 modos no pueden ser interpretados de la misma manera que en redes de 1 modo. Para el grado del vértice se introducen dos nuevas distinciones: **tamaño del evento** para indicar el número de vecinos de un evento descontando líneas múltiples y bucles, y **puntaje de participación** para indicar el número de vecinos que tiene un actor descontando líneas múltiples y bucles. Debido a la 'naturaleza' muy diferente de estos dos conjuntos de vértices el grado de un actor o evento debe tener formas de interpretación distintas, de la misma forma el modo en que se mide la densidad de una red será distinta. 
 
+Debido a la complejidad asociada a la medición de redes de 2 modos , el abordaje sobre este tipo de redes no se hará conservando la forma de red de 2 modos. En cambio se optará por la transformación de redes de 2 modos a redes de 1 modo, por lo tanto, tendremos como resultado dos redes de 1 modo, la red de 1 modo de los actores y la red de un modo de los eventos. Cada vértice tendrá un valor de bucle que indicará **el grado en la red de 2 modos** , a su vez, los vértices de actores o eventos se transforman en líneas cuyo valor será **el total de vértices que compartían en la red de 2 modos**. Esto deriva en que en cualquier transformación de una red de 2 modos a una red de 1 modo obtendremos una red no simple. Las líneas múltiples generadas serán remplazadas por una línea con el número original de las líneas entre dos vértices. Dada la transformación será responsabilidad del investigador saber  que vectores representa cada unidad en el valor de la línea.   
 
+Como advertencia cabe mencionar que debido a esta poca claridad respecto a las etiquetas de los vértices transformados en unidades en los valores de las líneas, en estructuras rígidas como cliqués no se puede sino concluir que se comparte en dicho cliqué uno o más actores o eventos, no siendo posible, salvo por un análisis manual, conocer el número de actores diferentes en un cliqué. 
 
+### m-Slices o islas
 
+poblemas de interpretación con los cliqués
 
+Introducido por John Scott 
