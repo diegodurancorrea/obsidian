@@ -176,6 +176,67 @@ Como advertencia cabe mencionar que debido a esta poca claridad respecto a las e
 
 ### m-Slices o islas
 
-poblemas de interpretación con los cliqués
+Una vez tenemos una red de 1- modo ya sea con las *filas o columnas* es relevante conocer entre dicha red las grupos de nodos mejor cohesionados entre sí. La técnica de extraer una sub red de otra sub red completa para, por ejemplo, extraer los cliqués y observar una estructura cohesionada. No obstante, al manejar una red reducida añade varias problemas interpretativos que hacen impracticable esta forma de observar la cohesión de un grupo. Debido a la dificultad de conocer las etiquetas de cada línea (antiguo actor) no se puede sino concluir que *en estructuras rígidas como cliqués solo se puede saber en que se comparte uno o más actores o eventos, sin especificar su número*
 
-Introducido por John Scott 
+Ante esta dificultad se desarrolla una nueva noción, introducida por el sociólogo John Scott, se m-Slices o **islas**. Se mantiene el concepto islas en la primera edición del libro y en la última de islas. El concepto de **isla** se refiere a un *grupo cohesivo sobre la base de líneas múltiples en vez de en su número de vecinos*. Formalmente la isla se describe como **la máxima sub red de vértices conectados directa o indirectamente por líneas con un valor mayor que las líneas hacia otros vértices afuera de la isla**. Así una isla es un técnica para descubrir grupos densamente conectados.    
+
+### Comunidades 
+
+Introducidos en la tercera edición se refiere a las 'comunidades' detectables gracias a los *comunity detection methods*. Estas técnicas entiendes una comunidad como *clúster de vértices para los cuales la densidad de las líneas al interior del clúster es mayor que la densidad de las líneas entre los clúster*. 
+
+En Pajek están integrados dos métodos de detección de comunidades: **Louvain method** y **VOS quality method**. Ambos buscan la partición de vértices en clúster con el mayor valor de modularidad (o VOS quality función). La modularidad es una popular medida para comparar líneas y sus valores de línea afuera y dentro del clúster. También existe el **external internal index** que mide, en un rango que va desde $-1$ hasta $1$ , el grado en que se respeta la afirmación : ==en un clúster los vértices están más conectados entre si que entre otros clúster==. 
+
+# Part 3: Brokerage
+
+La relación social es comprendida mediante la **metáfora del canal**. la red de ese canal permite identificar a quien le llega y a quien le tarda en llegar y a quien no le llega en absoluto. Mediante esta red se transmiten información, servicios y clientes. Se analiza la posición que ocupa un nodo en la red donde estar conectado suele ser ventajoso: 
++ sociabilidad: número e intensidad de líneas de una persona 
++ centralidad: nodos cruciales para la transmisión 
+El análisis de redes estudiado y posibilita en Pajek está centrado en el intercambio de información donde la dirección de los vínculos no es importante en la mayoría de los casos 
+## Center and periphery
+
+Aquí se abordan dos conceptos: centralidad y centralización. y refiere a la existencia de actores y organizaciones que son centrales, por tanto, con mejor acceso a la información y mejores oportunidades de esparcir información. La **centralidad** es un acercamiento ego céntrico a la posición de vértices individuales en una red. La **centralización** es una perspectiva socio - céntrica al caracterizar la red en su totalidad. Básicamente, la centralidad se refiere a los actores y la centralización a la red. 
+
+El concepto de centralidad permite el desarrollo de la **distancia** cuando percibimos que la información llega más fácil a aquellos nodos más centrales; este concepto indica el *número de pasos o intermediarios necesarios para alguien para alcanzar otra persona en la red usando la distancia más pequeña entre dos vértices*. La medida de centralidad de un vértice es el grado, es decir, el número de vecinos. ¿ Cual sería , entonces, dado un número de líneas, la estructura más eficiente para intercambios de información de un vértice ? ==esta sería un red donde un vértice está conectado con todos los vértices sin que estos estén conectados entre si== (a este tipo de red se le conoce como *start net* e indica el mayor grado en todas las medidas de centralidad); debido a esto, una red presenta mayor índice de centralidad si los vértices individuales varían más de la su máxima centralidad, una mayor variación de este puntaje produce una red más centralizada. 
+
+**El porcentaje de centralización** puede ser calculada como la variación en los grados de los vértices respecto al máximo disponible en la red dividido por el máximo grado de variación que es posible en una red del mismo tamaño. 
+
+La **variación** se define como la diferencia absoluta entre el puntaje de centralidad de los vértices y el máximo puntaje de centralidad (grado de un vértice) entre dicha red de nodos. 
+
+así podemos expresar la variación total como: $\sum(\text {max }V_n-V_n),\text {siendo } V_n \text { el grado de cada vertice}$   
+
+y el cociente de centralización se expresa: $\huge \frac{\sum(\text {max }V_n-V_n)}{max V_n}$
+
+los resultados varían entre 1 y 0 ; la obtención de la unidad indica máxima variación de la totalidad menos uno de los vértices, los valores que descienden hasta 0 indican una menor centralización de la red, en el valor más bajo indica que no existe centralización, por lo tanto, todos los vértices son igualmente centrales. Dado que en redes direccionadas el número de vecinos puede variar se recomienda trabajar con redes no direccionadas en aspectos de la realidad social donde las relaciones sea bidireccionales. 
+
+### Closeness centrality
+
+Volviendo al concepto de distancia. Decimos que una persona es alcanzable si hay un camino (path) entre el primer y el último vértice. La forma de referenciar el número de pasos en el camino más corto es llamado *geodesic*, así, la **distancia desde el vértice $u$ al vértice $v$ es del tamaño del geodesic entre $u$ a $v$**.
+
+Con este concepto de distancia podemos medir un **nuevo índice de centralidad considerando las distancias en lugar del grado** . Así la medida de *closeness centrality* de un vértice es el número total de los demás vértices dividido por la suma de todas las distancias entre el vértice y todos los demás vértices. A su vez el cociente socio céntrico de *closeness centralitation*  es la suma de las variaciones en closeness centrality de los vértices dividido por la máxima variación posible del puntaje de closeness centrality en una red del mismo tamaño (mismo número de vértices). Debido a que en una red direccionada un vértice es imposible de alcanzar al otro salvo que dicha red sea fuertemente conectada, se recomienda trabajar con redes no direccionadas. 
+### Betweenness centrality
+Las anteriores medidas de centralidad están basadas en la "alcanzabilidad" de un actor al interior de una red. Un enfoque diferente vendría de la asunción de que una persona es más central si es más importante como un intermediario en una red de comunicación, esto viene a responder la pregunta de en qué extensión una persona controla el flujo de información.  Por tanto, un actor **que está situado en el geodesic entre muchos pares de vértices es muy importante para el flujo de información dentro de la red**. La medida de *betweennnes centrality*  de un vértice es la proporción de todas las geodesics (sin contar que empiezan o terminan en el vértice medido) entre pares de otros vértices que incluye este vértice en su geodesic. 
+En una medida socio-céntrica *betweennnes centralitation* es la variación en el *betweennnes centrality* de los vértices dividido por la máxima variación en *betweennnes centrality* puntaje en una red del mismo tamaño. Un máximo puntaje  *betweennnes centrality* indica que si el vértice central desaparece entonces todos los geodesic quedan destruidos. En cambio obtener 0 indicaría en que no existe mediación entre un par de vértices 
+### Eigenvector centrality 
+Esta medida de centralidad asume que un vértice es más central si tienes más relaciones directas , y especialmente si estos vértices con los que existen vínculos directos son más centrales. La anterior abstracción emerge de la creencia en que es importante conocer más personas , en especial, las mejores personas. La medida de **Eigenvector centrality** de un vértice es una extensión para la cual sus vértices conectados cuentan con un alto valor en Eigenvector centrality. En una media socio céntrica el **Eigenvector centralitation** indica la variación en el Eigenvector centrality de los vértices dividido por el máxima variación en Eigenvector centrality puntaje posible en una red del mismo tamaño. 
+
+Al aplicar esta medida a una red direccionada se derivan dos conceptos adicionales: *hubs* como vértices que son importantes enviadores, y *autoridades* como vértices que son importantes recibidores. En Pajek el investigador determina el número de hubs y autoridades que serán seleccionadas. En una red no dirigida no existe una distinción entre hubs y autoridades, por lo que sus resultados (como .vec) son idénticos. 
+### Assortativity 
+
+Producto de un artículo publicado por M.E.J Newman, aduce que los actores con un alto grado de vecinos tienden a estar conectados con actores con un alto grado de vecinos. mientras que las personas con un bajo grado de tienden a estar conectados con personas con un bajo grado de vecinos. Este fenómeno es llamado *degree Assortativity* y toma valores entre 1 para la máxima correlación y -1 para la correlación inversa. La conceptualización de estar relacionado, en preferencia, con alguien similar, en análisis de redes, está dividido en dos conceptos: Assortativity cuando la similaridad se da con respecto a una propiedad numérica de un actor; y *homophily* cuando la similaridad se da respecto a una propiedad categorial de los vértices. 
+
+La similaridad se puede entender como una asociación , y entre variables numéricas se requieren otras mediciones que el cálculo de la similaridad entre variables categoriales. 
+
+A la similaridad entre dos variables numéricas entre actores conectados  se conoce como *Assortativity coeficiente*, e indica la correlación entre una o dos propiedades numéricas en los vértices que están directamente conectados. Los resultados toman valores entre 1 para indicar una  Assortativity positiva, es decir, una relación (alto-alto) ; y -1 para indicar una relación negativa (alto-bajo), este último es útil para medir relaciones de simbiosis asimétrica.     
+
+En redes no direccionadas el cálculo de la Assortativity  usará la misma propiedad numérica de ambos vértices que están conectados; así un par de vectores conectados tendrán una relación de intercambio bidireccional. En cambio, para redes direccionadas podemos distinguir entre actores enviadores y actores receptores, donde un vértice que envía está relacionado (y conectado) con el que recibe, pero no necesariamente en viceversa; así en el grado podemos distinguir entre input y output, en un vector habrán un número de vecinos diferente diferentes para cada vértice dependiendo de la dirección de los otros vectores incidentes limitando el número de relaciones para la correlación, y en dos vectores , uno de ellos toma la posición de envidador y otro el de receptor.
+
+En Pajek, existe una excepción para este cálculo:  una propiedad categorial (.vec) dicotómica puede ser usada y Pajek la interpretará como tal. Si la categoría no es dicotómica Pajek la tratará como propiedad numérica. 
+
+
+## Bridge and Brokerage
+
+
+
+
+
+

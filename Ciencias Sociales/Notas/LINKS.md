@@ -23,6 +23,12 @@ Ghidra : https://github.com/NationalSecurityAgency/ghidra/releases?page=1
 REDES : https://revistes.uab.cat/redes/index
 
 visualizater: https://socnetv.org
+
+federación de concejos de Colombia: https://fenacon.com.co/concejos/#TOC-En-donde-ubicamos-dentro-de-la-admi
+
+inquiry into inquiry: https://inquiryintoinquiry.com/
+
+oku: https://ok.ru/video/3162096208519
 ## links seguimiento presupuestal 
 
 > Plan operativo anual de inversiones POAI : https://www.medellin.gov.co/es/centro-documental/plan-operativo-anual-de-inversiones-poai/

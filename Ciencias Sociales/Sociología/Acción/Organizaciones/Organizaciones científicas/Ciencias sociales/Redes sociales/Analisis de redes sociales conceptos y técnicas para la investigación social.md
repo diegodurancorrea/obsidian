@@ -21,7 +21,7 @@ No obstante, en la literatura especializada existen varias concepciones del conc
 + Estrechamente ligada a la anterior concepción, la perspectiva metodológica paradigmática directamente asume esta única forma de posibilidad societal; medir la relación y el contenido transaccional de una red social revelaría la propia estructura social de la organización. Los conceptos matemáticos son traducidos para describir una realidad objetiva sobre lo que *realmente está pasando en una organización*. 
 + Ligado a la ejecución de proyectos, esta perspectiva teórica intenta aprovechar la evidencia empírica para proporcionar estrategias que hagan que la organización en cuestión tomo *relevancia* para el entorno.  
 
-El texto evita decantarse por una perspectiva en particular y enfatiza en los aspectos compartidos por cada una de las perspectivas, es decir, todas asumen la existencia de vínculos y que los vínculos unes a partes diferentes unas de otras. Desde este postulado una red es: **un conjunto de vínculos entre un conjunto de elementos sociales**. los vínculos existen para el *transporte* de materia , energía e información. 
+El texto evita decantarse por una perspectiva en particular y enfatiza en los aspectos compartidos por cada una de las perspectivas, es decir,==todas asumen la existencia de vínculos y que los vínculos unen a partes diferentes entre si== . Desde este postulado una red es: **un conjunto de vínculos entre un conjunto de elementos sociales**. los vínculos existen para el *transporte* de materia , energía e información. 
 
 ### 4 características del ARS
 

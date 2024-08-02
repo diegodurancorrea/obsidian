@@ -205,4 +205,6 @@ Así se toma en cuenta el hecho de que los sistemas sólo se pueden formar en  
 - la 'personificación' como la dependencia reproductiva de un sistema social de los atributos de un sistema psíquico
   
 
+# Capítulo 4 (acción y comunicación)
+
 
