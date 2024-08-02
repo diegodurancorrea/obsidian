@@ -237,6 +237,6 @@ En Pajek, existe una excepción para este cálculo:  una propiedad categorial (.
 
 
 
-
+ 
 
 
