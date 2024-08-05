@@ -231,12 +231,48 @@ A la similaridad entre dos variables numéricas entre actores conectados  se con
 En redes no direccionadas el cálculo de la Assortativity  usará la misma propiedad numérica de ambos vértices que están conectados; así un par de vectores conectados tendrán una relación de intercambio bidireccional. En cambio, para redes direccionadas podemos distinguir entre actores enviadores y actores receptores, donde un vértice que envía está relacionado (y conectado) con el que recibe, pero no necesariamente en viceversa; así en el grado podemos distinguir entre input y output, en un vector habrán un número de vecinos diferente diferentes para cada vértice dependiendo de la dirección de los otros vectores incidentes limitando el número de relaciones para la correlación, y en dos vectores , uno de ellos toma la posición de envidador y otro el de receptor.
 
 En Pajek, existe una excepción para este cálculo:  una propiedad categorial (.vec) dicotómica puede ser usada y Pajek la interpretará como tal. Si la categoría no es dicotómica Pajek la tratará como propiedad numérica. 
-
-
 ## Bridge and Brokerage
 
+Los vínculos de una persona y nuestros son importantes en una red social, el análisis de redes descubrió que la clase de este vínculo es más importante que el número total de vínculos. Existen personas que ayudan a 'puentear' huecos estructurales, como los que existen en las redes de comunicación informal donde un actor puede conectar dos sub grupos poco conectados entre si.
 
+### Bridges and Bi component 
 
- 
+Los vínculos sociales son importantes para la difusión de información (si estamos en un organización toma más importancia la importancia de las estructuras informales), asumiendo esto podemos (y debemos) preguntarnos acerca de si existen posiciones en la red vitales para la difusión o si son usadas estas posiciones para beneficio personal
 
+Podemos decir que una línea es un puente si al 'cortarse' o desaparecer se genera una componente aislado; por tanto, un *puente* es una línea que una vez removida aumenta el número de componentes de una red. Por otro lado, remover un vértice de una red significa que el vértice y todas las líneas incidentes con el vértice son removidas de la red, se le llama *cut vertex* o *articulation point* al vértice cuya eliminación incrementa el número de componentes de una red. 
+
+#### Bi component
+ Un bi componente es simplemente un componente de tamaño mínimo tres y máximo sin un *cut vertex*. Dentro de cada bi componente cada actor recibe información de , por lo menos, dos fuentes diferentes, existiendo por lo menos dos paths hacia el vértice. Puede ser una sub red débilmente conectada de una red que en su conjunto total no podría considerarse un bi componente, esto se debe a que un bi componente no contiene cut vertex si se observa sólo al interior de él e se ignora el resto de la red. Los cut vertex son buenos indicadores de los bordes de un bi componente o puentes. 
+
+Siguiendo la teoría *la fuerza de los vínculos débiles* podemos interpretar estos como puentes ya que atraviesan las fronteras grupales. Ser puente es sólo un proxy de sus oportunidades de ser un puente en una red. No obstante, el investigador es quien debe decidir que interpretar como vínculo débil en su investigación. 
+
+En Pajek es posible encontrar los bi componentes de una red y los resultados varían respecto del número mínimo que ingresos como número mínimo en el tamaño del bi componente, Si indicamos un valor mínimo de 3 solo se reportarán los cut vertex que conectan dos o más bi componentes. Por otro lado, si indicamos un valor de 2 se reportarán todos los bi componentes y puentes. Los resultados se guardarán en el apartado de jerarquía ya que un sólo vértice puede pertenecer a varios bi componentes. 
+
+Puede surgir la pregunta de porque existen un bi componente de tamaño dos, esto se debe a que intermedia entre dos bi componentes. Al interior de un bi componente no pueden existir puentes, esto se debe a que un bi componente lo conforma la máxima sub red posible donde se cumpla la condición de la no existencia de un cut vertex, sólo en un puente , es decir, entre una linea que uno dos vértices de bi componentes distintos, el número de vértices no podría aumentar sin que aparezca un cut vertex. 
+
+### Ego network y constraint 
+
+Los puentes y los cut vertex son mediadas socio céntricas que observar la totalidad de la red. No obstante, el *ego centered approach* se enfoca en la medición de una persona o actor en la red y sus posibilidades de intermediar entre otras personas (bróker) 
+
+Para analizar las relaciones de intercambio (o su posibilidad) se usan las triadas, que es la red más pequeña que tiene dos personas o más e puede iluminar los vínculos al interior de un grupo. Con base a teorías psicológicas y sociológicas se reconoce que una conexión completa de tres personas (o sea, un cliqué) derivan en comportamientos grupales mas que individuales, todos ellos se comportan similarmente al compartir normas e información. No obstante, si esta conexión no es completa puede desarrollarse una *tertius strategy* que consiste en inducir y explotar una competición o rivalidad entre otros dos actores que no están directamente conectados, en esta situación son aprovechados los *estructural holes* entre los vértices no conectados dando un control sobre el flujo o corriente de una red. 
+
+Por otra parte, para evitar crear y caer en *estructural holes*, existe una *constraint* (limitación) que significa que no puedes remover ningún vínculo sin crear un *hueco estructural* alrededor de si, por tanto, estamos obligados a mantener sus vínculos. 
+
+Una red egocéntrica, necesaria para calcular la intermediación personal, de un vértice contiene este vértice, sus vecinos y todas las líneas entre los vértices seleccionados. Con esta disposición de la red se analiza la red como un conjunto de triadas , y por cada triada podemos determinar si 'limita' a ego o si, por el contrario, contiene un hueco estructural que puede ser explotado. Como resultado se indicará que una baja 'limitación' indica la existencia de varios agujeros estructurales y viceversa. 
+
+¿Cómo se definiría esta 'limitación' o *diadic constraint*?  Sobre un vértice $u$ ejercida por un vínculo entre vértices $u$ y $v$  es la medida en que $u$ tiene más y más fuertes vínculos con vecinos que están fuertemente conectados con el vértice $v$ . Esta es la idea conceptual detrás del estricto cálculo; para conocer las variables del cálculo es importante abordar el concepto de *fuerza proporcional*, este se define con respecto a un vínculo con respecto a todos los vínculos de una persona , es computado como el valor de la línea que representa el vínculo, dividido por la suma de valores de todos las líneas incidentes con una persona, ==el cálculo del valor de la línea es especialmente importante cunado este valor representa cantidades o distancias==.  Este cálculo es la simple indicación de la importancia o exclusividad de un vínculo. Como resultado Pajek arrojará , sin importar la naturaleza de la red recibida, una red simple directa y que contiene sólo arcos bidireccionales con el valor de aportación de un nodo a otro nodo. Una vez tenemos esto podemos calcular el  *diadic constraint* a través del cuadrado de la suma de la inversión más la proporción diádica de 'limitación' entre todos los vértices que cumplen la condición de limitación para el nodo que 'invierte'
+
+Luego del cálculo en cada línea queda impreso su *diadic constraint* con cada nodo incidente, para conocer que nodos están más limitados que todos en su conjunto podemos calcular el *agregado de limitación* que indica la suma de todos los valores de *diadic constraint* de una persona, toma valores entre 1 y 0, un mayor valor indica menor libertad para remover una línea y viceversa. Esta medida en Pajek sale como una archivo .vec
+
+Las líneas directas directas entre vecinos de ego aumentan la coacción, por lo que analizar la densidad entre ellos nos daría una idea de lo limitado que está un actor, a esta mediada se la conoce como *densidad de red personal* que no es más que la densidad de todos los vértices incidentes de ego entre ellos, sin contar con ego, un proporción de las líneas existentes entre las líneas posible
+
+En Pajek un sólo comando computa la fuerza proporcional de los vínculos, la diadic constraint y la limitación agregada, este es el *structural holes* que devuelve múltiples archivos.
+
+### Afiliaciones y Brokerage roles
+
+Dentro de una red social el cálculo de bi componentes , puentes , oportunidades o limitaciones de intermediar es posible , y es esperable, que sea aplicable a un grupo social amplio para detectar esos puntos importantes que median entre otros sub grupos más pequeños. No obstante, también se pueden extender estos análisis al interior de un grupo en particular para conocer las 'limitaciones' de los nodos al interior del grupo, esta medida puede indicar que tan posible es que un liderazgo al interior del grupo sea remplazado, para ello el nodo que lo remplazaría debe tener un limitación más baja y los nodos que u actores que harán el cambio deben jugar el *tertius strategy* entre el nodo a remplazar y el nodo que lo va a remplazar, estos dos nodos cruciales no pueden estar directamente conectados. Las red debe ser procesada para que no existe ninguna línea entre grupos, luego se aplica de nuevo el comando de *structural holes* y se obtienen los mismos archivos. 
+
+En una red con una división de grupos ya establecida es posible establecer roles al interior de la misma según su posición y partición correspondiente. Para el establecimiento de roles se parte de una triada que no constituya un cliqué, una triada donde una persona $v$ media entre una persona $v$ y una persona $w$ puede mostrar **cinco patrones** de roles en la afiliación diferentes, estos son : 1) coordinador, broker itinerante,  representative, gatekeeper, iliasion. (luego insertar explicación de cada uno)
+
+Los resultados del análisis de roles de una red (o actor particular, el resultado devuelve la cantidad de veces que cumple un rol) puede ser comparado con otras características para determinar si ciertas tipos de actores o tipos de relación social desarrollan tipos particulares de *brokerage roles*
 
