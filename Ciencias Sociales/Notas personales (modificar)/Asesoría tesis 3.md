@@ -13,4 +13,4 @@ Al final de la sesión, luego de exponer la compleja racionalización en la cons
 
 1) Observar como se toman decisiones la administración sobre el uso del espacio (suelo) cuando la marcación del código no propiedad es seleccionada 
 2) Construir categorías analíticas (particiones) para comprender mejor el fracaso o el éxito de una triple sincronización de los códigos. 
-3) Completar la estrategia metodológica y presentarla en otra asesoría lo más rápido posible , ya que en este tiempo sólo se avanzo en la comprensión teórica de la racionalidad presupuestal y la diferenciación funcional de la administración. 
+3) Completar la estrategia metodológica y presentarla en otra asesoría lo más rápido posible , ya que en este tiempo sólo se avanzo en la comprensión teórica de la racionalidad presupuestal y la diferenciación funcional de la administración.  
