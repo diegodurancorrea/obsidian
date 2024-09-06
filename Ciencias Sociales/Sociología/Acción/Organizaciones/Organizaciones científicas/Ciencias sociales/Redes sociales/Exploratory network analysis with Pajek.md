@@ -275,4 +275,48 @@ Dentro de una red social el cálculo de bi componentes , puentes , oportunidades
 En una red con una división de grupos ya establecida es posible establecer roles al interior de la misma según su posición y partición correspondiente. Para el establecimiento de roles se parte de una triada que no constituya un cliqué, una triada donde una persona $v$ media entre una persona $v$ y una persona $w$ puede mostrar **cinco patrones** de roles en la afiliación diferentes, estos son : 1) coordinador, broker itinerante,  representative, gatekeeper, iliasion. (luego insertar explicación de cada uno)
 
 Los resultados del análisis de roles de una red (o actor particular, el resultado devuelve la cantidad de veces que cumple un rol) puede ser comparado con otras características para determinar si ciertas tipos de actores o tipos de relación social desarrollan tipos particulares de *brokerage roles*
+# Part 4 : ranking
+## Genealogías y citaciones 
+### genealogías 
+==El tiempo es responsable de un tipo especial de asimetría en una relación social porque ordena los eventos y generaciones de una forma irreversible==, la identidad social y la posición en una estructura social es parcialmente fundada en ancestros comunes, ya sea en una cuestión intelectual como las citaciones como en un enlace biológico. Una tradición puede ser definida por un **común conjunto de ancestros , por un reenlace estructural o por co citación en largos periodos de tiempo**. 
+
+En el manejo de redes genealógicas estas toman la nomenclatura de **ore graph** donde los *arcos siguen el flujo de tiempo*. Existen dos tipos de líneas que indican dos clases de 'familia': familia de hijos u orientación y familia de esposa o procreación. Cuando importamos esta base de datos familiares, usualmente en formato GEDCOM, Pajek genera diferentes vectores y particiones que corresponden con cada uno de las personas en la red. A partir de toda la información disponible podemos , por ejemplo, obtener medidas con los clúster de hermanos , con los particiones de hombres y mujeres, con las ramas o linajes , con los descendientes  y con el cálculo de geodesics. Algunas conceptos o categorías de la teoría del parentesco pueden ser encontrados con el uso inteligente de matrices multiplicativas, siendo la propia genealogía una matriz. 
+
+Uno de los conceptos centrales en la investigación de grupos o secciones cohesionadas al interior de una genealogía son los *reenlaces estructurales*, esta concepto remite al fenómeno en que las familias se casan más de una vez en el curso del tiempo, indicando si existen matrimonios de sangre o no; este factor endógamo  es un indicativo de cohesión social al interior de la genealogía.
+
+Para distinguir en una red ore graph entre semi-ciclos que representan enlaces estructurales y aquellos que no fue desarrollado un nuevo tipo de red: parentage graph o P graph.  En un P graph cada vértice es una pareja o un soltero , por lo tanto, se reduce significativamente el número total de vértices y , debido a la eliminación de la línea entre esposos y que no existen arcos separados de padres a hijos, la red es acíclica. En un definición formal decimos que un **tree** es un grafo conectado que no contiene semi-ciclos, varios de estos grafos , siguiendo la metáfora, conformarían un **bosque**.  En Pajek existe la medición *relinking index* para medir el nivel de enlace, la medición arroja un valor que puede variar entre 0 y 1, indicando, respectivamente, mínimo reenlace y máximo reenlace. 
+
+En Pajek la manipulación de complejas redes genealógicas transita a través de funciones de partición por segmento, binarización y extracción. No obstante, para facilitar la manipulación de los datos se insta a usar herramientas  distintas a Pajek. 
+### citaciones 
+
+Las redes de citaciones pueden develar tendencias, cambios y grupos especializados en el conjunto de publicaciones científicas disponibles en un sistema que transforma conocimiento o información científica. En este capítulo se aborda una técnica especial para análisis de citas con un enfoque en el flujo de tiempo llamado *main path analysis*. Las más importantes citaciones constituyen uno o más caminos principales que son probablemente el andamiaje de una tradición investigativa. El main path analysis calcula la **medida en la cual una particular citación o artículo es necesario para unir artículos**, esta medida de la 'necesidad'  se mide en el *peso transversal* de cada artículo o citación. 
+
+Esta es una medida que funciona en una *red direccionada acíclica* la cual , para efectos de nuestro análisis, clasifica los vértices en: vértices fuente para aquellos vértices que contienen cero *indegree*  y los vértices sink como aquellos con cero *outdegree*. Una vez se identifican los vértices sink y fuente puede calcularse el peso transversal del vértice o arco como la **proporción de todos los caminos entre todos los caminos entre los vértices (fuente-sink) que contiene o interviene el vértice al que se le calculará el peso transversal**. 
+El peso de un vértice puede formularse así: $\huge\frac{\text{número de caminos que pasan por el vértice}}{\text{total caminos desde la fuente hasta el sink}}$ Donde cada valor de línea de un camino entre un nodo y otro se formula como: $\huge\frac{n}{\text{Total de caminos desde el vértice hasta todos los sink}}$ , no obstante, si dos caminos pasan por la misma línea direccionada (arco) entonces la línea duplica su valor, así el valor $n$ toma el valor de los caminos que pasan por un arco.
+
+Por lo tanto, en una red de citaciones, **el camino principal es el camino desde un vértice fuente a un vértice sink con el mayor peso transversal en sus arcos y vértices**. 
+
+==Una vez ya se ha calculado el peso transversal de vértices y arcos en una red de citaciones== , podemos extraer el *main path* usando algunos métodos propuestos e integrados en Pajek:
+
+1) *Forward local main path search*: se selecciona vértices fuentes a los que inciden con arcos del mayor peso, se repite este proceso hasta alcanzar un sink vértice
+2) *Backward local main path search*:  se selecciona uno o más sink vértices que inciden con arcos y vértices del mayor peso más en sentido contrario a la dirección de la línea, se repite este proceso hasta alcanzar las fuentes
+3) *Key-route local main path search*:  Seleccionamos un limitado número de arcos (por ejemplo diez). Estos son los arcos o vértices con el mayor peso transversal. Los arcos seleccionados son llamados key-routes y no necesitan incidir ni con vértices fuente o sink. Para cada key-routes encontramos el camino principal desde un vértice fuente al key-routes y desde el key-routes al vértice sink. El resultado consiste en el camino principal obtenido por todos los key-routes. 
+
+Estos tres métodos definidos son llamados *local main path methods* porque al ejecutarlos buscamos **sólo localmente para el actual arco en cada paso, sólo chequeamos arcos que son incidentes con el actual vértices (cualquiera sea el método de selección) y con la correcta dirección (también definido por el método)**
+
+En contraste con los métodos de búsqueda local , el global main path method busca los caminos con la mayor suma total de pesos transversales en toda la red. Algunos métodos globales ofrecidos por Pajek son: 
+
+1) *Estándar global main path*: es el camino desde la fuente al sink vértice con la mayor suma general de pesos transversales en cada arco y vértice por donde pasa el camino. También a esta medida se le conoce como *critical path method* (CPM) 
+2) *Key-routes global main path*: Empezamos con algunos arcos como key-routes, para cada key-routes buscamos el camino principal que contiene el key-routes desde el vértice fuente hasta el vértice sink con el mayor peso transversal general de la red. Aunque es usual seleccionar algunos arcos (citaciones) con el mayor peso transversal son seleccionados como key-routes, esto no es necesario.
+
+Si queremos extraer un componente de camino principal en la red de citaciones podemos seguir los siguientes pasos, se elige un valor de corte entre 0 y 1, para luego remover todos los arcos de la red con un peso transversal menor a este valor seleccionado. Repetimos este proceso hasta encontrar el valor más bajo que , a su vez, produce un componente que conecta, al menos, un vértice fuente con un vértice sink. 
+
+Como consideración metodológica Pajek ofrece la 'normalización' como una medición que no afecta el camino principal extraído de la red de citaciones con los pesos transversales ya computados, sino sólo modifica el rango y la variación entre esos pesos transversales. Otro asunto que merece ser considerado al final de cada análisis: la elección de los artículos incluidos en la base de datos restringe el número y tamaño de las tradiciones investigativas que pueden ser encontradas, se concluye que una red de citaciones es virtualmente incompleta. Por último, en el cálculo de cada medida Pajek pregunta sobre el nivel de tolerancia, este corresponde a una modificación al valor de corte, por lo que una mayor tolerancia significa disminuir este valor de corte.
+
+Ver summary 
+
+
+
+
+
 

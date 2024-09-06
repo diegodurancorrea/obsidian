@@ -108,32 +108,46 @@ las bases de datos asociadas a la disposición de los nodos es la siguiente:
 | --------------------- | --------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Damian Perez Arrojave | no aprecio                        | Juan Ramón Jiménez Lara | "Por medio del cual se promueve el apoyo a hogares de paso, albergues o<br>refugios de animales domésticos en el Distrito Especial de Ciencia<br>Tecnología e Innovación de Medellín" |
 
-
-
-
-
-
 # alcances
-
 Ahora una vez tenemos la base de datos construida. ¿Qué podemos decir de la construcción social del espacio? 
 + La correspondencia entre la política y la administración
 + El peso de los proyectos y, en caso de construcción social del espacio, observar hacia donde está dirigida
 + El éxito de un acuerdo y el acuerdo entre ponentes
-
 ### identidad y perfiles
-
 Al principio tenía una intuición que podría resumirla así: 
-
 + la identidad de los perfiles puede ser observada en plataformas
 + debido al complex performance se adopta como identidad corporativa un perfil exitoso
 + el perfil exitoso orienta las decisiones organizacionales 
-
 Sobre esto se pueden decir varias cosas: el perfil organizacional se encuentra en la literatura actual como 'marca', es difícil conocer de donde vienen tanta duplicación (su origen) , y parece que no existe una coordinación. No obstante, la forma como se describe el cuerpo político que sostiene la distinción simbólica Medellín (le da forma) tendrá relevancia en el contenido de la 'marca'. Esta auto descripción toma la forma de lo que hemos hecho, lo que  estamos haciendo y lo que queremos hacer, es decir, se adopta la racionalidad fin/medio propia de la programación, su identidad son sus programas. Un trabajo que nos acerca a esta temática es [[Medallo En El Mapa]]
-
-
-
 ## revisión
-
 Aclarar el sentido objetual, el oportunismo y el traspaso objetual
 el código de la administración o sistema político, y su posible doble código
+# Actualización 1/09/2024
 
+(para agilizar las ideas no agregaré las fuentes en la mayoría de casos)
+
+Una de las tareas pendientes a identificar era la de los códigos que hacen posible la distinción entre una organización y otra, en específico, la corporación administrativa de un consejo municipal. Esos códigos , siguiendo la  definición que podemos encontrar en [[Poder|el libro sobre el medio simbólicamente generalizado del poder]] es uno donde la codificación necesariamente tiene como referencia a la sociedad, por tal, no podemos usar esta clase de códigos primarios o secundarios para referirnos a una organización concreta, más estas organizaciones pueden operar y especializarse sobre ellas. ¿Cómo entonces podemos diferenciar estos dos organizaciones?
+
+La respuesta resulta sólo después de dar un par de asunciones: 1) la constitución existe como conjunto de premisas que crean , regulan y dan forma al estado moderno , y  2) los derechos fundamentales están inscritos en la constitución en su función de garantizar, a pesar de la diferenciación funcional, una integración universal. 
+
+Luego, solo podemos conocer la forma en la que se diferencian estas dos organizaciones respecto a su función establecida en la constitución; esta no es más que una función administrativa, más que por argumentos de saber común dado que todos sabemos que el consejo efectivamente funciona, es por la programación condicional de una unidad territorial  al momento de cumplir los lineamientos de legalidad y derechos fundamentales.
+
+La función administrativa del consejo está bien establecida: generar, regular , debatir proyectos de acuerdo. El carácter vinculante de  de esta operación también está establecida en la constitución, las posibilidades que puede tener la administración sin contar con un proyecto de acuerdo también está establecido en la constitución. Una vez existe este sustrato medial las operaciones de la organización se resuelven en : aprobado / no aprobado. No obstante, en todo el proceso de generación de la operación están integradas otras operaciones simultaneas que influencian en las operaciones de la organización, estas son : el oportunismo político y la participación. 
+
+Dado que todo se desprende de las disposiciones constitucionales la medialidad que sostiene  el éxito comunicativo es la legalidad. una legalidad que establece los mecanismos formales del poder  y resuelve todas sus combinaciones, es decir, permanece estructuralmente resuelto. a continuación una disposición tentativa de las codificación: 
+
+
+|         | Aprobado | no aprobado | legal | ilegal | Vinculante |
+| ------- | -------- | ----------- | ----- | ------ | ---------- |
+| Decreto |          |             | x     |        | x          |
+| Acuerdo | x        |             | x     |        | x          |
+
+Hasta ahora he expuesto las ideas de una forma desordenada, intentaré de agruparlas por lo que seré abstracto.  La  identidad de una organización administrativa no es posible que se resuelva acudiendo a la medialidad de los medios simbólicamente generalizados como el poder y los códigos secundarios de legalidad debido a que estos hacen referencia a la sociedad y , en tanto medios, pueden ser empleados universalmente. La actual operación de una organización de la administración sucede en la forma de una cadena de poder que para guardar su medialidad y superar la barrera de la interacción restringe su tematización a un conjunto de premisas decididas, las organizaciones acopladas a la administración hacen referencia hacia estas premisas para orientar sus acciones, esta operación está acompañada de otras interpenetraciones de organizaciones políticas pero esto también está decidido en las premisas decididas. En el caso de la unidad  territorial en Colombia la organización administrativa ha tematizado en un derecho fundamental la participación ciudadana, y ha dividido la administración en dos organizaciones acopladas en un acto administrativo: el acuerdo municipal.  La programación autónoma de la administración depende condicionalmente de la Constitución y cada organización de la administración se encuentra especializada en cada una de las funciones establecidas allí, el consejo de la ciudad en la toma de decisiones sobre los acuerdos municipales y la alcaldía en la toma de decisiones instrumentales sobre la base de una complejidad reducida. Sobre el consejo la premisa constitucional de participación ciudadana presiona el desarrollo de específicas técnicas para responder a una creciente presión de democratización, a su vez, el cercano punto de contacto entre las organizaciones políticas y la administración del consejo operaciones paralelas como el oportunismo pueden suceder. La división administrativa  acontece mediante la medialidad del poder formal y se mantiene en esta, las decisiones del consejo en la programación son de aceptación o rechazo y las decisiones del alcalde son de decreto o acuerdo. Por tanto, en un representación lineal de estas distinciones la aceptación o rechazo del proyecto de acuerdo está embebida en la decisión del alcalde , decisión asimismo embebida, como condición de posibilidad,  en los programas condicionales de la constitución. Cada posible combinación que pueda presentarse ya está resuelto estructuralmente, garantizando la legalidad de todas las operaciones. Cada una de las operaciones de la administración  existe  en la racionalidad de la administración para garantizar la función, ya vimos que estas están delimitadas por la medialidad del poder, la organización y las premisas constitucionales; la división administrativa no  agota en la premisa constitucional su existencia, sólo despliega una condición de posibilidad para otras funciones, tentativamente podemos aducir …  
+### Una operación especial: los proyectos de inversión y el cálculo presupuestal
+
+Si bien es cierto que las operaciones de la administración son cientos de miles. Sólo nos interesa un tipo especial de programación: los proyectos de inversión. En la racionalidad de de la administración Colombiana esta clase de proyectos está delimitada en su planteamiento , aprobación y ejecución. Las disposiciones legales del EOP garantiza que no exista una apropiación en este rubro sin la existencia de una aprobación que legalice el movimiento presupuestal. Las operaciones de la administración para generar estos proyectos luego serán indicados en mayor precisión. 
+### Una actualización metodológica: proyectos de acuerdo, los proyectos de inversión , los contratos y categorías adicionales 
+
+Para responder a esta actualización en materia metodológica debemos tener presente los proyectos de inversión y su relación con los proyectos de acuerdo.  los proyectos de acuerdo y los acuerdos que pretendan modificar las partidas presupuestales para gastos en relación con un gasto de inversión o gasto social tendrán que iniciar un proceso para la inscripción en el banco de programas y proyectos de inversión.  Aquí podemos hacer una partición entre aquellos proyectos que : son la creación de una estrategia con cargo al presupuesto existente, una estrategia con presupuesto por definir (se espera un traslado presupuestal), y una  estrategia que modifica o crea un proyecto de inversión.  En todos podemos discernir categorías que nos permitan hablar de construcción social del espacio  como de su tematización 
+
+Sólo en este último caso podemos ir más allá, ya para este caso podemos tener acceso al código del POAI y , a través de este , podremos acceder a un contrato donde podemos conocer : estado del proceso , régimen de contratación, fuente de financiación, objeto del contrato (lugar, comuna , barrio)
