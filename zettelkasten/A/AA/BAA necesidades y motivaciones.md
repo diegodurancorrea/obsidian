@@ -14,3 +14,6 @@ En [[AAA guerra]] se argumenta la no disposición natural a la guerra, a estas d
 4) Las referencias hacia la necesidad garantizan su propia justificación, y la percepción o expectativa de su saciedad se convierten en una necesidad 
 
 Debe existir un límite de la motivación en base a una referencia de necesidad, y sospecho que este límite se encuentra en **una doble referencia simultanea entre impulsos fisiológicos  y los mecanismos sociales asociados a su satisfacción**, esto no significa que una persona no pueda usar el medio simbólicamente generalizado para argumentar la compra del IPhone 11 , en todo caso, flexibilizará  los impulsos fisiológicos orgánicos a un mero sentimentalismo, *hay que observar que tan exitosa son estas formas tan alejadas de lo estrictamente orgánico para otro observador o interlocutor que siempre podrá actualizar la referencia desde la necesidad hacia el capricho*  
+
+
+nota de extensión (¿es posible una acción sin motivación? ¿existen tantas motivaciones como sistemas de referencia? ¿Cómo ingresa a nuestra semántica una motivación?)
