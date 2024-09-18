@@ -1,0 +1,4 @@
+  - [ ] Ordenar en carpetas toda la información en referencia a: 1) información empírica 2) fuentes bibliográficas a utilizar a) leyes b) acuerdos municipales 3) nuevas información sobre temas de interés en drive
+  - [ ] Actualizar mis referencias en Mendelay
+  - [ ] subir todos mis resumenes al obsidian/git 
+  - [ ] Preparar la próxima ponencia y la nueva actualización (propiedad/ no propiedad) (POT)

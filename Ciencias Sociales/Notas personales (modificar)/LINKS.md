@@ -29,6 +29,8 @@ federación de concejos de Colombia: https://fenacon.com.co/concejos/#TOC-En-don
 inquiry into inquiry: https://inquiryintoinquiry.com/
 
 oku: https://ok.ru/video/3162096208519
+
+kevin german: https://kevingerman.de/contact/
 ## links seguimiento presupuestal 
 
 > Plan operativo anual de inversiones POAI : https://www.medellin.gov.co/es/centro-documental/plan-operativo-anual-de-inversiones-poai/
