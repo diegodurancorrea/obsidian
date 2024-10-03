@@ -1,4 +1,3 @@
-
 # La administración en la teoría de sistemas
 
 Para dar respuesta al problema de una administración más compleja debemos referirnos al cúmulo de teoría generada y , a partir de sus presupuestos y avances, derivar una aplicación para un caso en particular. El caso en particular es el consejo de Medellín , como se apunta en la [[Asesoría tesis 2|asesoría 2]]; en ella se preguntó por el lugar del consejo de Medellín dentro de la administración pública dado su 'papel' poco relevante en la toma final de decisiones, más en precisión, en la adjudicación ( luego de un complicado proceso racionalizado) de contratos. 
