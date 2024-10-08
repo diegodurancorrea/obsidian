@@ -8,8 +8,11 @@
 - [ ] Reseñar la moral para Durkheim 
 - [x] Reseñar Comunicación política, a un tuit de la democracia
 - [ ] Reseñar algunos artículos sobre legislación (consejo y presupuesto)
+- [ ] Reseñar corporeidad y experiencia musical
+- [ ] Reseñar comunicación hacia afuera
 ## lecturas 
 - [ ] Desarrollar el mapa conceptual del libro *introducción a la teoría de la sociedad de Niklas Luhmann*
+- [ ] Avanzar en 'hombres invisibles : una representación de la masculinidad en la ficción latinoamericana'
 ## Semillero
 - [ ] Para el siguiente viernes desarrollar una presentación en Canva para la presentación de la ponencia del día 15 de octubre  
 - [ ] Preparar una ponencia para latinnovación sobre legislación Colombiana respecto al espacio social 
