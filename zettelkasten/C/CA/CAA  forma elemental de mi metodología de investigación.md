@@ -37,4 +37,3 @@ La relevancia del cálculo de distinciones es la propia observación de sus oper
 
 
 no olvidar la identidad [[You and your profile]] como un proceso reflexivo auto descriptivo 
-#### forma elemental del espacio en la teoría
