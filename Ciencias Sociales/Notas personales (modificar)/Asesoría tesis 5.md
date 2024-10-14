@@ -5,7 +5,7 @@ Nombre_documento: Asesoría tesis 5
 "tipo:": Anotación
 ---
 
-Esta asesoría tuvo lugar el día 8 de octubre del 2024. En ella fue una continuación de [[Asesoría tesis 4]] y una exposición de [[CAA  forma elemental de mi metodología de investigación]] donde expuse someramente la metodología general de recolección de datos inmediatamente anterior al proceso de captura de datos. En términos generales mi esquema de diadas fue aprobado por Byron , aunque me indicó algunas adiciones importantes en la categorización de las  particiones que indicaré a continuación. 
+Esta asesoría tuvo lugar el día 8 de octubre del 2024. En ella fue una continuación de [[Asesoría tesis 4]] y una exposición de [[AAC  forma elemental de mi metodología de investigación]] donde expuse someramente la metodología general de recolección de datos inmediatamente anterior al proceso de captura de datos. En términos generales mi esquema de diadas fue aprobado por Byron , aunque me indicó algunas adiciones importantes en la categorización de las  particiones que indicaré a continuación. 
 
 1) en proyectos de acuerdo: (aprobado/desaprobado) 
 2) en proponente: (votos)(partido político)

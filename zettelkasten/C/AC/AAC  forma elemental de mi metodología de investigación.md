@@ -1,11 +1,10 @@
 ---
 "Fecha_creacion:": 2024-10-02
 "Ultima_modificacion:": 2024-10-02
-"Nombre_documento:": CAA  forma elemental de mi metodología de investigación
+"Nombre_documento:": AAC forma elemental de mi metodología de investigación
 "Tipo_de_nota:": nota larga
 "trabajo asociado:": pregrado
 ---
-
 Esta reflexión debe definir, con el material 'empírico' recolectado hasta este momento , y los desarrollos teóricos y metodológicas hasta ahora realizados, **una metodología general como el paso inmediatamente anterior al momento de captura de información**. 
 
 La construcción metodológica y teórica producida hasta este momento son las siguientes: [[Nota; aclaración sistémica de la figura del consejo]], [[Nota ; definición metodológica de redes sociales en redes sociales]] , [[Nota; definición diada entre la administración pública y sus grupos de interés]], [[Nota; definición de la diada entre la política , el público de la política y la administración]], y  [[Asesoría tesis 3]], [[Asesoría tesis 4]]. Estos sólo los que están disponibles en Obsidian, existen otros varios en otros formatos. 
@@ -35,5 +34,18 @@ Por último tenemos el **calculo de distinciones** que nos ayuda observar cómo 
 
 La relevancia del cálculo de distinciones es la propia observación de sus operaciones con sus distinciones y las múltiples estrategias que se utilizan según cada selección marcada, así , como se verá, las *actuaciones urbanísticas* se diferencian cualitativamente según cómo sea marcada la *propiedad*. 
 
-
 no olvidar la identidad [[You and your profile]] como un proceso reflexivo auto descriptivo 
+
+### definiendo una metodología para el oportunismo
+
+**1 exposición del problema** : nuestra decisión se debe a que debemos  definir si el aprecio o desprecio a un acuerdo lo sacamos de los ponentes o de las votaciones en plenaria.
+
+**1 Resolución del problema**: una de las alternativas que se me ocurren es tener en cuenta ambas, para una sólo tenemos que referirnos a los metadatos producidos por Web Scraping y la otra a los videos en YouTube donde se constatará la votación del concejal en la página de esta entidad.  
+
+
+
+
+
+ 
+
+
