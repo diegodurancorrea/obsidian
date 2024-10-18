@@ -43,9 +43,6 @@ no olvidar la identidad [[You and your profile]] como un proceso reflexivo auto 
 **1 Resolución del problema**: una de las alternativas que se me ocurren es tener en cuenta ambas, para una sólo tenemos que referirnos a los metadatos producidos por Web Scraping y la otra a los videos en YouTube donde se constatará la votación del concejal en la página de esta entidad.  
 
 
-
-
-
  
 
 
