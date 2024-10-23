@@ -11,6 +11,7 @@
 - [ ] Reseñar comunicación hacia afuera
 - [x] Reseñar que es un embedding
 - [ ] Reseñar capítulo sobre difusión de Pajek 
+- [ ] Reseñar la figura del consejo (**urgente**)
 ## lecturas 
 - [ ] Desarrollar el mapa conceptual del libro *introducción a la teoría de la sociedad de Niklas Luhmann*
 - [ ] Avanzar en 'hombres invisibles : una representación de la masculinidad en la ficción latinoamericana'

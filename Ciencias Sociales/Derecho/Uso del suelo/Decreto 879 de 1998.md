@@ -7,7 +7,7 @@
 "autor:": Presidencia
 "Link:": 
 ---
-sobre la aplicación de los planes parciales 
+sobre la aplicación del POT 
 # capítulo 1
 Donde se define la obligatoriedad de la implementación de los POT en todos los municipios del país (artículo 1) y se establecen las prioridades que deben estar presentes en el POT. Una vez establecido el POT todas las licencias u otras disposiciones de menor nivel deberán regirse por éste. 
 # Capítulo 2

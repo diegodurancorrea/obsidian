@@ -30,16 +30,9 @@ Etapas para la formulación y adopción de los planes parciales. Para la formula
 
 Unidades de actuación urbanística del plan parcial
 
-Artículo 18. Unidad de actuación urbanística. Es el área conformada por uno o varios inmuebles explícitamente delimitada en las normas que
-desarrolla el plan de ordenamiento territorial que debe ser urbanizada o construida como una unidad de planeamiento con el objeto de
-promover el uso racional del suelo, garantizar el cumplimiento de las normas urbanísticas y facilitar la dotación con cargo a sus propietarios de
-la infraestructura de transporte, los servicios públicos domiciliarios y los equipamientos colectivos, mediante reparto equitativo de las cargas y
-beneficios, conforme con lo previsto en el Capítulo V de la Ley 388 de 1997.
-Delimitada la respectiva unidad de actuación urbanística en los términos que se reglamentan en el Capítulo VI del presente Título, para el
-desarrollo de cada unidad se deberá obtener una única licencia de urbanización o contar con la aprobación de un único proyecto urbanístico
-general en los términos del artículo 42 del Decreto 564 de 2006 o la norma que lo adicione, modifique o sustituya.
-Parágrafo. Los planes de ordenamiento territorial y los planes parciales podrán determinar el desarrollo o construcción prioritaria de inmuebles
-que conformen unidades de actuación urbanística.
+Artículo 18. Unidad de actuación urbanística. Es el área conformada por uno o varios inmuebles explícitamente delimitada en las normas que desarrolla el plan de ordenamiento territorial que debe ser urbanizada o construida como una unidad de planeamiento con el objeto de promover el uso racional del suelo, garantizar el cumplimiento de las normas urbanísticas y facilitar la dotación con cargo a sus propietarios de la infraestructura de transporte, los servicios públicos domiciliarios y los equipamientos colectivos, mediante reparto equitativo de las cargas y beneficios, conforme con lo previsto en el Capítulo V de la Ley 388 de 1997.
+
+Delimitada la respectiva unidad de actuación urbanística en los términos que se reglamentan en el Capítulo VI del presente Título, para el desarrollo de cada unidad se deberá obtener una única licencia de urbanización o contar con la aprobación de un único proyecto urbanístico general en los términos del artículo 42 del Decreto 564 de 2006 o la norma que lo adicione, modifique o sustituya. Parágrafo. Los planes de ordenamiento territorial y los planes parciales podrán determinar el desarrollo o construcción prioritaria de inmuebles que conformen unidades de actuación urbanística.
 # título 3
 ## Capítulo 1 
 

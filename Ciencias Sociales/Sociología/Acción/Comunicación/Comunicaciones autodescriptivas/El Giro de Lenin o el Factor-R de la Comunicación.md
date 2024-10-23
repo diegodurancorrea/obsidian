@@ -36,7 +36,7 @@ Hasta el momento sólo hemos abordado los procesos de indicación y de objeción
 ```
 A través del establecimiento de $r$ como la *identidad* del argumento, como consenso base, esta forma se transforma en su propia esfera de distinción. En esta proceso de reentrada, el valor $e$ permanece desconocido hasta que se actualice la forma, el factor $r$ es lo suficientemente amplio para soportar las distinciones a su interior, la forma del factor $r$ puede repetirse tanto como sea posible, garantizando, en su dimensión social, el mantenimiento del proceso comunicativo mientras se sostenga $r$ como distinción basal.
 ```lof font-family: Chalkduster; font-size: 20px
-f :: = :: ((m)u)
+f :: = :: (m)u
 F :: = :: (f[0])r$0 :: Gráfico 5
 ```
 
