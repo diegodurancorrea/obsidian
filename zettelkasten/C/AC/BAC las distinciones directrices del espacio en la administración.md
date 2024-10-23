@@ -36,7 +36,10 @@ El plan de ordenamiento contempla tres componentes: *general*, *componente urban
 ::POT/normas urbanisticas =::((((normas estructurales[0])normas generales)normas complementarias)suelo$0)
 
 
-::Accion urbanistica =::((((clasificacion[0])programacion)diseno)suelo$0)  
+
+
+
+::Accion urbanistica =::((((clasificacion[0])programacion)ejecucion)suelo$0)  
 
 ```
 Diferenciar entre acción urbanística del POT tiene sentido cuando entendemos que cualquier tipo de intervención (urbana, administrativa) puede subsistir sin la necesidad de acompañar sus operaciones sin el código de la legalidad. No obstante, la formalidad del poder requiere de una operación de acoplamiento y esta es la *expresa dependencia de la acción urbanística del POT* [^11]; desde este momento estas dos distinciones corren en paralelo.  
@@ -54,6 +57,9 @@ Con la aparición de las normas estructurales  podemos indagar en la legislació
 
 
 ::Clasificacion del suelo=::(proteccion[0])((((urbano)(suburbano[1])rural$1)de expansion urbana) POT$0)
+
+
+
 
 
 ::Clasificacion del espacio=::(((publico[0])privado) POT$0)
@@ -94,6 +100,8 @@ POT , se debe garantizar la consulta democrática en todo el proceso[^17] [^22]:
 1) oficina de planeación de la alcaldía coordinará la formulación , conformación del consejo consultivo de ordenamiento 
 2) Concertarse con las autoridades ambientales y metropolitanas que tengan jurisprudencia 
 3) Presentado al concejo luego de recibir aval del Consejo territorial de Planeación
+
+
 para el Plan parcial: 
 1) se presenta a la oficina de planeación para su estudio(formulación revisión)
 2) concertación con las autoridades ambientales(concertación y consulta)
@@ -119,6 +127,7 @@ las cargas correspondientes al costo de infraestructura se recuperará mediante 
 3) participación en plusvalía 
 4) impuesto predial 
 5) cualquier otro sistema
+
 Aquí también se podrá determinar que las *inversiones públicas* efectuadas por el POT y los instrumentos de planeación que las desarrollan puedan ser recuperadas a través de instrumentos como *valorización, participación en plusvalía o compensaciones*
 
 ### curadores y licenciamiento
