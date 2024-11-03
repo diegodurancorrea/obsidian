@@ -1,4 +1,6 @@
+Activación office : https://www.guiahardware.es/activar-office-gratis/
 
+Leo Conrad (Story and Structure: A complete guide): https://www.leonconrad.com/lawsofform
 
 https://katex.org/docs/supported # KaTeX The _fastest_ math typesetting library for the web.
 
