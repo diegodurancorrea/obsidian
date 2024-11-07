@@ -1,0 +1,11 @@
+{
+  "accentColor": "#f7a6a6",
+  "cssTheme": "Prism",
+  "translucency": false,
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "snippet"
+  ]
+}

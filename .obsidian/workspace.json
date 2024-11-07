@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "20bc3c556d338060",
+    "type": "split",
+    "children": [
+      {
+        "id": "822aa9f5d83705ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb3c5ffe8fcb6d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Ciencias Sociales/Musicología/Cibernética/Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bdebc0b96aab4b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6182becb9d403b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54612ac2df3dc48c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0d6c94a6198c83f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: analis",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dac91adcb2ec96f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "bc49306dadca9a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2be6c97c3212f084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8fa30ecf5c359a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/Ciencias Sociales/music.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for music"
+            }
+          },
+          {
+            "id": "727393dfa45d9c66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian/Ciencias Sociales/music.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from music"
+            }
+          },
+          {
+            "id": "7f4c2c176336afc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3241772abb6f59d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian/Ciencias Sociales/Musicología/Cibernética/Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression"
+            }
+          },
+          {
+            "id": "ba92c43b93191238",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "8e45e949056561a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "0bb3c5ffe8fcb6d9",
+  "lastOpenFiles": [
+    "obsidian/To Do.md",
+    "obsidian/Ciencias Sociales/Antropología/Identidad/Música/Corporeidad y experiencia musical.md",
+    "obsidian/Ciencias Sociales/Musicología/Cibernética/Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression.md",
+    "obsidian/Ciencias Sociales/Sociología/Acción/Acción, autopoiesis y entendimiento comunicativo.md",
+    "obsidian/Ciencias Sociales/Sociología/Acción/interacción.md",
+    "obsidian/Ciencias Sociales/Sociología/Semillero CSC/Apuntes para el capítulo sobre redes sociales.md",
+    "obsidian/Ciencias Sociales/Sociología/Semillero CSC/Apuntes sobre la definición de inteligencia colectiva.md",
+    "obsidian/Ciencias Sociales/Sociología/Semillero CSC/Prospects and Challenges for the Computational Social Sciences.md",
+    "obsidian/Ciencias Sociales/Sociología/Semillero CSC/La modelización y simulación computacional como metodología de investigación social..md",
+    "obsidian/Ciencias Sociales/Sociología/Semillero CSC/For a heterodox computational social science.md",
+    "obsidian/Ciencias Sociales/Notas personales (modificar)/Nota; definición diada entre la administración pública y sus grupos de interés.md",
+    "obsidian/Ciencias Sociales/Notas personales (modificar)/Nota ; definición metodológica de redes sociales en redes sociales.md",
+    "obsidian/Ciencias Sociales/Notas personales (modificar)/LINKS.md",
+    "obsidian/Ciencias Sociales/Notas personales (modificar)/Asesoría tesis 3.md",
+    "obsidian/Registro.md",
+    "obsidian/Ciencias Sociales/Comunicación social/comunicación política digital/Comunicación política por Twitter , a un tuit de la democracia.md",
+    "obsidian/Ciencias Sociales/Musicología/Cibernética",
+    "obsidian/Ciencias Sociales/Musicología",
+    "obsidian/zettelkasten/C/AC/BAC las distinciones directrices del espacio en la administración.md",
+    "obsidian/Ciencias Sociales/Sociología/Acción/Organizaciones/Organizaciones científicas/Ciencias sociales/Redes sociales/Exploratory network analysis with Pajek.md",
+    "obsidian/Ciencias Sociales/Sociología/Acción/Organizaciones/Organizaciones científicas/Ciencias sociales/Redes sociales/Analisis de redes sociales conceptos y técnicas para la investigación social.md",
+    "obsidian/Ciencias Sociales/Derecho/Presupuestal Colombiano/Bases para la Gestión el Sistema Presupuestal Territorial.md",
+    "obsidian/Ciencias Sociales/Notas/Nota; escritura del capítulo de ARS para el semillero.md",
+    "obsidian/Ciencias Sociales/Notas/Nota; sobre el parentesco y la posibilidad de la consanguinidad social como único determinante del tabú del incesto.md",
+    "obsidian/Ciencias Sociales/Notas/LINKS.md",
+    "obsidian/Ciencias Sociales/Notas/Asesoría tesis 2.md",
+    "obsidian/Ciencias Sociales/Notas/Idea de libro; RECOMENDACIÓN.md",
+    "obsidian/Ciencias Sociales/Notas/Nota ; aclaración sobre el poder como medio.md",
+    "obsidian/Ciencias Sociales/Sociología/Acción/Organizaciones/Organizaciones científicas/Ciencias sociales/Teoría de los sistemas sociales autopoiéticos/Sociología/Sistema legal",
+    "obsidian/Ciencias formales/Lógica y Programación/Matemática/Constantes matemáticas",
+    "obsidian/Ciencias formales/Lógica y Programación/Matemática",
+    "obsidian/Ciencias Sociales/Sociología/Acción/Organizaciones/Organizaciones científicas/Ciencias de la información/Tendencias/Manipulación",
+    "obsidian/Ciencias Sociales/Sociología/Acción/Organizaciones/Organizaciones científicas/Ciencias de la información/Tendencias",
+    "obsidian/Ciencias Sociales/Antropología/Grupos  poblacionales/Jóvenes",
+    "obsidian/Ciencias Sociales/Antropología/Grupos  poblacionales",
+    "obsidian/Ciencias Sociales/Sociología/Acción/Comunicación/Sentido/Distinciones espaciales/Distinciones sociales",
+    "Imagenes/Pasted image 20240412150914.png",
+    "Imagenes/Pasted image 20240412124154.png",
+    "Imagenes/Pasted image 20240319001804.png",
+    "Imagenes/Pasted image 20240204004057.png",
+    "Imagenes/Pasted image 20240216133245.png"
+  ]
+}
