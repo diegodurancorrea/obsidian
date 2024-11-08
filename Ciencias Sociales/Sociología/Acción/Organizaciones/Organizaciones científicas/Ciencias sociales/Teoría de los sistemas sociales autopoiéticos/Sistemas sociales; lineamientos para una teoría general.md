@@ -1,10 +1,11 @@
 ---
-Fecha_creacion:: 2024-07-06
-Ultima_modificacion:: NaN
-Nombre_documento:: Sistemas sociales; lineamientos para una teoría general
-Tipo_documento:: Libro 
-tipo:: Reseña larga
-autor:: Niklas Luhmann
+"Fecha_creacion:": 2024-04-11
+"Ultima_modificacion:": 2024-11-07
+"Nombre_documento:": Sistemas sociales; lineamientos para una teoría general
+"Tipo_documento:": Libro
+"tipo:": Reseña larga
+"autor:": NIklas Luhmann
+"Link:":
 ---
 
 
@@ -263,3 +264,4 @@ Los arqueólogos verán en una cerámica la cultura pre colombina, nosotros vemo
 
 
 
+d
