@@ -12,6 +12,7 @@
 - [x] Reseñar que es un embedding
 - [ ] Reseñar capítulo sobre difusión de Pajek 
 - [ ] Reseñar la figura del consejo como está en el pdf del DNP(**urgente**)
+- [ ] Releer y reseñar el artículo Sociedad, sentido, religión: basados en la autorreferencia
 ## lecturas 
 - [ ] Desarrollar el mapa conceptual del libro *introducción a la teoría de la sociedad de Niklas Luhmann*
 - [ ] Avanzar en 'hombres invisibles : una representación de la masculinidad en la ficción latinoamericana'
@@ -19,7 +20,7 @@
 	- [ ] segundo capítulo
 	- [ ] tercer capítulo
 - [ ] terminar libro exploratory social network whit pajek 
-- [ ] Releer y comparar Sociología Política de Luhmann con mis notas sobre ese libro  
+- [ ] Releer y comparar Sociología Política de Luhmann con mis notas sobre ese libro  (escuchar el video en YouTube asociado)
 ## Semillero
 - [x] Para el siguiente viernes desarrollar una presentación en Canva para la presentación de la ponencia del día 15 de octubre  
 - [x] Presentar nuestra ponencia en el 1 simposio de ciencias sociales computacionales 
