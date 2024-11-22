@@ -1,3 +1,7 @@
+Curso idiomas (manual de consulta para hispano hablantes): https://www.curso-de-portugues.com/
+
+cursos de ofimática: https://dostinhurtado.com/site/Categoria/cursos/curso-excel-avanzado/#google_vignette
+
 Activación office : https://www.guiahardware.es/activar-office-gratis/
 
 Leo Conrad (Story and Structure: A complete guide): https://www.leonconrad.com/lawsofform
