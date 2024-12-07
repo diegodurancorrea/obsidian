@@ -1,0 +1,10 @@
+---
+Fecha_creacion:: 2024-11-29
+Ultima_modificacion:: 2024-11-29
+Nombre_documento:: CBA la binarización de la codificación en la tematización
+Tipo_de_nota:: nota corta 
+trabajo asociado:: personal
+---
+Inspirado en el resumen [[A TEORIA DOS SISTEMAS DE LUHMANN E A LINGUAGEM MUSICAL|sobre el lenguaje musical]] advierto de una idea que a mi parecer debe quedar aislada para ser correctamente comprendida, más sin la pretensión de verla como una novedad teórica que yo introduzco.
+Un código es un *un sistema de elementos simbólicos indisolubles que tienen un correlato en otro sistema simbólico*, la codificación 'duplica la realidad' cuando usamos codificaciones, una vez que las usamos nuestros elementos están simultáneamente en dos o más lugares, aquello que está escrito está en lo fonético y viceversa; la duplicación de la palabra 'casa' está en los signos lingüísticos que formas la grafía 'casa', lo mismo sucede con su reverso ontológico, la ausencia de 'casa' está indicado en la grafía 'no casa'. Partir de esta postura nos acerca al punto de esta nota: **para la estabilización de una tematización debe existir una binarización que (al menos hasta donde entiendo) sólo es posible con una codificación**. En el caso vinculado e ignorando las complejidades de la música, podemos ejemplificarlo a continuación. La tematización tal como es presentada en [[Sistemas sociales; lineamientos para una teoría general#capítulo VII|la teoría de sistemas]] es un sistema con un contenido concreto (los sonidos que oímos) y que hace posible discriminar aportaciones; ¿Cómo entonces una operación puede discriminar? *indicando la aportación en referencia a uno de los dos lados de la duplicación del contenido concreto*, la aportación cae en alguno de estos dos lados. La aceptación de una comunicación emerge entonces de una coincidencia de dos duplicaciones, una de la tematización que inaugura los dos lados respecto al contenido concreto y una de la aportación que puede coincidir en el anverso como reverso ontológico ('hablaré de música' o 'No es una discusión sobre física').         
+
