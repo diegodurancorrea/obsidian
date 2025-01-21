@@ -28,7 +28,10 @@ La moderna búsqueda de autonomía y progreso individual de Graciliano, son los 
 
 # Capítulo 4 
 
-El cuerpo masculino, o sea, la relación que tiene el cuerpo masculino con la masculinidad es el foco en este capítulo donde el autor se concentra en los *cachorros*  y en *Andrés carne de res* como las dos obras literarias que prestan atención en aquella parte oculta u obviada de la masculinidad.  En el caso de Cuéllar en los 'cachorros' el accidente que él tuvo con una  
+El cuerpo masculino, o sea, la relación que tiene el cuerpo masculino con la masculinidad es el foco en este capítulo donde el autor se concentra en los *cachorros*  y en *Andrés carne de res* como las dos obras literarias que prestan atención en aquella parte oculta u obviada de la masculinidad. En el caso de Cuéllar en los 'cachorros' el accidente que él tuvo con una  
+# Capítulo 5 y 6 
+
+En estos capítulos el autor  indaga heterogéneamente en las relaciones que tienen los hombres con su propia expresividad emocional objetivada en una idea de mujer y con las expresividad manifestada en otros que comparten la masculinidad. En *métase mi prieta* la autora indaga en la vida de un maquinista de tren que ha construido una estrecha relación con el tren que maneja, es a través de esta relación dura y tosca que Pancho se da valor a sí mismo, lleno de aceite, calor, sudor y extensas jornadas de trabajo, combate mano a mano con sus compañeros de trabajo; la modernidad llega con las nuevas tecnologías ferroviarias.     
  
 
 
