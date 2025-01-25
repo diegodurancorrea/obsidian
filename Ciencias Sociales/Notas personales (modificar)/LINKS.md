@@ -37,6 +37,8 @@ inquiry into inquiry: https://inquiryintoinquiry.com/
 oku: https://ok.ru/video/3162096208519
 
 kevin german: https://kevingerman.de/contact/
+
+Noticia licencias urbanísticas: https://www.elcolombiano.com/medellin/medellin-y-sus-problemas-con-la-construccion-sin-licencias-OF23268565
 ## links seguimiento presupuestal 
 
 > Plan operativo anual de inversiones POAI : https://www.medellin.gov.co/es/centro-documental/plan-operativo-anual-de-inversiones-poai/

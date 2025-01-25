@@ -7,7 +7,7 @@
 - [ ] Reseñar la moral para Durkheim 
 - [x] Reseñar Comunicación política, a un tuit de la democracia
 - [ ] Reseñar el artículo que trata sobre la facultad presupuestal del consejo
-- [ ] Reseñar corporeidad y experiencia musical
+- [x] Reseñar corporeidad y experiencia musical
 - [ ] Reseñar comunicación hacia afuera
 - [x] Reseñar que es un embedding
 - [ ] Reseñar capítulo sobre difusión de Pajek 
@@ -18,7 +18,7 @@
 - [ ] Avanzar en 'hombres invisibles : una representación de la masculinidad en la ficción latinoamericana'
 	- [x] primer capítulo
 	- [x] segundo capítulo
-	- [ ] tercer capítulo
+	- [x] tercer capítulo
 - [ ] terminar libro exploratory social network whit pajek 
 - [ ] Releer y comparar Sociología Política de Luhmann con mis notas sobre ese libro  (escuchar el video en YouTube asociado)
 ## Semillero
@@ -31,7 +31,7 @@
 	- [x] Implementación de Notebook LM 
 	- [x] construcción del modelo de base de datos UML 
 	- [x] Web Scraping de SIMU
-	- [ ] Transformar la base de datos EXCEL en archivo .NET (Pajek)
+	- [x] Transformar la base de datos EXCEL en archivo .NET (Pajek)
 - [x] Definir los elementos con los que se trabajará el oportunismo político
 - [ ] Ordenar en carpetas toda la información en referencia a: 1) información empírica 2) fuentes bibliográficas a utilizar a) leyes b) acuerdos municipales 3) nuevas información sobre temas de interés en drive
 - [ ] Avanzar en la obtención de datos del DANE sobre la expedición de licencias urbanísticas
