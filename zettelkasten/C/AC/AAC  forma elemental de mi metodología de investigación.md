@@ -44,6 +44,9 @@ no olvidar la identidad [[You and your profile]] como un proceso reflexivo auto 
 
 ### definiendo la base de datos
 
+# Actualización 30/01/2025
+
+## El problema de la sincronicidad en la codificación
 
  
 

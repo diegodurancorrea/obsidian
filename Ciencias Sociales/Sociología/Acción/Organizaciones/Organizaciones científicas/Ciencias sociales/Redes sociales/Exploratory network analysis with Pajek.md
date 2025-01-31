@@ -314,7 +314,10 @@ Si queremos extraer un componente de camino principal en la red de citaciones po
 Como consideración metodológica Pajek ofrece la 'normalización' como una medición que no afecta el camino principal extraído de la red de citaciones con los pesos transversales ya computados, sino sólo modifica el rango y la variación entre esos pesos transversales. Otro asunto que merece ser considerado al final de cada análisis: la elección de los artículos incluidos en la base de datos restringe el número y tamaño de las tradiciones investigativas que pueden ser encontradas, se concluye que una red de citaciones es virtualmente incompleta. Por último, en el cálculo de cada medida Pajek pregunta sobre el nivel de tolerancia, este corresponde a una modificación al valor de corte, por lo que una mayor tolerancia significa disminuir este valor de corte.
 
 Ver summary 
+# Part 5 Modeling:
 
+## Block Modeling
+## Random Graph Models 
 
 
 

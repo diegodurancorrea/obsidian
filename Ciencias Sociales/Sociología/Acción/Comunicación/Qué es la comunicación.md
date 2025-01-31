@@ -7,7 +7,6 @@ tipo:: Reseña larga
 autor:: Niklas Luhmann
 ---
 
-
 ## ¿Qué es la comunicación?
 
 Esta es la principal pregunta de este pequeño texto de seis páginas lleno de síntesis. Lo primero que tenemos que tener en mente es el asunto disciplinar en que se enmarca el abordaje teórico que aborda la comunicación: A través de una inspección del quién en la comunicación podemos empezar a esclarecer la cuestión. Para que el objeto de estudio sociológico pueda distinguirse del objeto de estudio psicológico, este último debe ser el entorno del primero, es decir, el sujeto debe ser entendido como el entorno  condicionante de la comunicación que está en todas las operaciones sociales inevitables. Comunicación y conciencia se separan teóricamente y con ello, los objetos de estudios independientes (clausurados en su propia operación: solo la conciencia es consciente y sólo la comunicación puede comunicar), aunque , en realidad, se encuentran interpenetradas en el sentido como coevolución de los sistemas sociales.
