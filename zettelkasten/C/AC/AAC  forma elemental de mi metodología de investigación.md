@@ -46,7 +46,23 @@ no olvidar la identidad [[You and your profile]] como un proceso reflexivo auto 
 
 # Actualización 30/01/2025
 
-## El problema de la sincronicidad en la codificación
+Hagamos un repaso general de las ideas abordadas hasta el momento: para responder a la pregunta acerca de *como la administración pública toma decisiones respecto al espacio social* (aún debemos concretizar una propuesta teórica sobre el espacio social) hemos indicado que debemos enfocarnos en las operaciones de la administración que pueden tener relevancia para esta pregunta. Así hemos enfocado nuestra atención en las formas activas y restrictivas de las operaciones (programación condicional y programación orientada a fines) en las que la administración tematiza el espacio: las operaciones del consejo (proyectos de acuerdo) y los gastos de inversión de la alcaldía (proyectos de inversión); la ubicación del consejo dentro de la administración es otro tema a abordar por aparte, por ahora nos basta indicar que los médium de sentido donde estamos ante una conjunción de ambas organizaciones para la generación de:  proyectos de acuerdo, plan de desarrollo y POT. Cada uno de estos elementos producidos por el sistema alteran la legalidad (acciones urbanísticas), la política (gastos de inversión y proyectos de inversión) y la economía (contratación y recaudo) 
+#### las redes .NET y sus alcances
+Para medir los proyectos de acuerdo se propuso un esquema de ARS donde descomponemos su racionalidad en sus partes constitutivas: proponentes, acuerdos y contratos. Mediante esta red conoceremos las *condiciones que hacen exitoso o fracasado un proyecto de acuerdo* (depende de las cualidades que analizamos)
+
+Para medir más en profundidad las condiciones que hacen un proyecto de acuerdo políticamente viable creamos una red de aprecio teniendo una cualidad agregativa entre los concejales (la que sea) y su voto positivo o negativo respecto al proyecto de acuerdo. 
+
+Para medir las comunicaciones políticas en la comunicación digital y conocer alguna relación entre éstas y las operaciones del concejo construimos una red en base a una 'bola de nieve' cuyo comienzo son los perfiles de los concejales.
+##### Usos del topic modeling 
+sobre la totalidad de los proyectos de acuerdo generados, entre los exitosos y los fracasados. el interés está en rebelar las distinciones más importantes en éstos, conocer que distinciones son más exitosas, y su estas apuntan a un espacio social.  
+
+Sobre la totalidad de los twittees que scrapeamos , diferenciarlos en diferentes categorías y observar diferencias en el discurso. 
+
+#### El problema de la sincronicidad en la codificación
+El acoplamiento estructural y matrix 3x3 
+#### Medir el fracaso y lo que nos quiere decir
+
+El POT trae consigo sus propias distinciones con las que observa el espacio, y al hacerlo, lo crea y dota de sentido. No obstante, las distinciones con las que se observa el espacio sólo existen desde el sistema que las produce y se enfrenta a ser constantemente decepcionadas, y en Medellín sucede en el 90% de las llamadas 'acciones urbanísticas'. Para responder a esto tenemos las bases de datos sobre información catastral del DANE y de la secretaría de ... 
 
  
 
