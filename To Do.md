@@ -41,6 +41,8 @@
 		- [x] De todos las fases del proyecto
 		- [ ] Por fase según requerimientos de la pregunta de investigación
 	- [ ] Grafo de perfiles en X 
+- [ ]   Implementar la librería de lectura de PDF con ayuda de emmbedings 
+- [ ] Pensar en alguna medida en la que podamos pensar incluir los Blockmodels  
 - [ ] Construir una pequeña guía para la construcción del primer borrador escrito de mi trabajo de grado
 - [ ] Construir un .md en Obsidian donde organizo toda la bibliografía asociada al trabajo de grado por sección y por tema 
 - [ ] Ordenar en carpetas toda la información en referencia a: 1) información empírica 2) fuentes bibliográficas a utilizar a) leyes b) acuerdos municipales 3) nuevas información sobre temas de interés en drive
@@ -58,4 +60,4 @@
 - [ ] Descargar y usar en local algún modelo de LLM (aumentado con RAG)
 - [x] Subir todas los resúmenes hechos en otros interfaces a Obsidian (drive,local) y , por ende, al git 
 - [x] Actualizar mi CV 
-
+- [ ] Ejecutar aquella librería de ORC (con estrella en Github) para la lectura de los PDF 

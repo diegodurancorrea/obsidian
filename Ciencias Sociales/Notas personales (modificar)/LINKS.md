@@ -1,6 +1,9 @@
+A Python Package for Stochastic Block Model Inference: https://github.com/funket/pysbm/tree/master
 Curso idiomas (manual de consulta para hispano hablantes): https://www.curso-de-portugues.com/
 
 cursos de ofimática: https://dostinhurtado.com/site/Categoria/cursos/curso-excel-avanzado/#google_vignette
+
+Next society institute: https://ksu.lt/en/departments/next-society-institute/
 
 Activación office : https://www.guiahardware.es/activar-office-gratis/ y https://www.youtube.com/watch?v=cg5ZP59cHKc , https://hackmd.io/@cositas/office
 
