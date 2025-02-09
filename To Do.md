@@ -17,7 +17,7 @@
 - [ ] Desarrollar el mapa conceptual del libro *introducción a la teoría de la sociedad de Niklas Luhmann*
 - [ ] Leer introducción a la antropología de las religiones (los capítulos antropológicos) de Brian Morrinson
 - [x] Terminar 'hombres invisibles : una representación de la masculinidad en la ficción latinoamericana'
-- [ ] terminar libro exploratory social network whit pajek 
+- [x] terminar libro exploratory social network whit pajek 
 - [ ] Leer 'teorías sistémicas de la comunicación' de  Baeker 
 - [ ] Leer artículo 'Inclusión y exclusión en el sistema de arte de Luhmann'
 - [ ] Releer y comparar Sociología Política de Luhmann con mis notas sobre ese libro  (escuchar el video en YouTube asociado)
@@ -25,6 +25,7 @@
 - [x] Para el siguiente viernes desarrollar una presentación en Canva para la presentación de la ponencia del día 15 de octubre  
 - [x] Presentar nuestra ponencia en el 1 simposio de ciencias sociales computacionales 
 - [x] Preparar una ponencia para latinnovación sobre legislación Colombiana respecto al espacio social 
+- [ ] Nuevo proyecto del semillero 2025: Convocatoria de nuevos integrantes y nuevo proyecto asociado de prueba: construir borrador
 ## Trabajo de grado
 - [x] Diseñar para el martes 8 de octubre una metodología definitiva de captura de información 
 - [x] Avanzar en la construcción de base de datos reticular
@@ -41,7 +42,8 @@
 		- [x] De todos las fases del proyecto
 		- [ ] Por fase según requerimientos de la pregunta de investigación
 	- [ ] Grafo de perfiles en X 
-- [ ]   Implementar la librería de lectura de PDF con ayuda de emmbedings 
+- [x]   Implementar la librería de lectura de PDF con ayuda de emmbedings 
+	- [ ] resultados: funciona pero mi máquina no da la talla 
 - [ ] Pensar en alguna medida en la que podamos pensar incluir los Blockmodels  
 - [ ] Construir una pequeña guía para la construcción del primer borrador escrito de mi trabajo de grado
 - [ ] Construir un .md en Obsidian donde organizo toda la bibliografía asociada al trabajo de grado por sección y por tema 
@@ -61,3 +63,5 @@
 - [x] Subir todas los resúmenes hechos en otros interfaces a Obsidian (drive,local) y , por ende, al git 
 - [x] Actualizar mi CV 
 - [ ] Ejecutar aquella librería de ORC (con estrella en Github) para la lectura de los PDF 
+### (Código) Proyectos personales 
+- [ ]  Crear una pequeña librería de interacción entre Pajek y una base de datos relacional
