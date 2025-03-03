@@ -8,7 +8,10 @@
 "Link:": https://revistamad.uchile.cl/index.php/RMAD/article/view/47267/49290
 ---
 
-En este artículo exploraremos a profundidad la siguiente tesis que presumiblemente tomamos como verdadera: ... 
+En este artículo exploraremos a profundidad la siguiente tesis que presumiblemente tomamos como verdadera: *el conjunto de posibles mensajes, así como el mensaje que será seleccionado de ese conjunto (contexto), debe ser construido por los participantes de la comunicación*. 
+
+
+
 
 
  

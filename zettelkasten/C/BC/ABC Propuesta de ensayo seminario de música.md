@@ -26,3 +26,17 @@ Cómo, entonces, esta serie de comparaciones y reflexiones responde a la pregunt
 [[Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression]]
 [[A TEORIA DOS SISTEMAS DE LUHMANN E A LINGUAGEM MUSICAL]]
 [[Sistemas sociales; lineamientos para una teoría general#Capítulo 4 (acción y comunicación)]]
+[[Teorías sistémicas de la comunicación]]
+[[El caos creativo]]
+[[Música e Identidad Nacional Colombiana; Un Análisis]]
+[[Identidades narrativas y música]]
+[[Posludio; Música popular, identidad, resistencia y tanto ruido (para tan poca furia)]]
+
+
+
+```lof
+((( lenguaje [1] ) ruido) medium de enlace$1) informacion  :: Gráfico 1
+
+```
+
+ambos con desarrollos distintos , como medios con posibilidades y alcances distintos que se empiezan a diferenciar más y más, uno con imitación (esta mímesis se relaja en la identidad de la oferta de sentido)
