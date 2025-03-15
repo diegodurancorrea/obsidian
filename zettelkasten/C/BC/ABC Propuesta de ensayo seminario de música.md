@@ -22,21 +22,23 @@ Paralelamente reflexionaremos sobre aquellos elementos que semánticamente son s
 Cómo, entonces, esta serie de comparaciones y reflexiones responde a la pregunta acerca de sí la música es comunicación. La respuesta está en la diferencia, en la diferencia en lo que *funcionalmente* se describe en cada concepto. Además se pretende llegar a una conceptualización de la música más adecuada, que integre satisfactoriamente su relación con la comunicación, si es una forma especial de ella o es una descripción social sobre sonidos. Al final del ensayo final esperaré responder a esta pregunta sistemáticamente. 
 
 # Bibliografía 
-[[Corporeidad y experiencia musical]]
-[[Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression]]
-[[A TEORIA DOS SISTEMAS DE LUHMANN E A LINGUAGEM MUSICAL]]
-[[Sistemas sociales; lineamientos para una teoría general#Capítulo 4 (acción y comunicación)]]
-[[Teorías sistémicas de la comunicación]]
-[[El caos creativo]]
-[[Música e Identidad Nacional Colombiana; Un Análisis]]
-[[Identidades narrativas y música]]
-[[Posludio; Música popular, identidad, resistencia y tanto ruido (para tan poca furia)]]
+[[Corporeidad y experiencia musical]] ya
+[[Cybernetic Phenomenology of Music, Embodied Speculative Realism, and Aesthetics-Driven Techné for Spontaneous Audio-Visual Expression]] ya
+[[A TEORIA DOS SISTEMAS DE LUHMANN E A LINGUAGEM MUSICAL]] parcialmente ta
+[[Sistemas sociales; lineamientos para una teoría general#Capítulo 4 (acción y comunicación)]] parcialemte ya
+[[Teorías sistémicas de la comunicación]] ya 
+[[EL CAOS CREATIVO; FIESTA Y MÚSICA COMO OBJETOS DE DECONSTRUCCIÓN Y HERMENÉUTICA PROFUNDA. UNA PROPUESTA SOCIOLÓGICA]] no
+[[Música e Identidad Nacional Colombiana; Un Análisis]] no
+[[Identidades narrativas y música]] ya
+[[Posludio; Música popular, identidad, resistencia y tanto ruido (para tan poca furia)]] no
+[[Música e identidad]] ya
 
 
 
-```lof
-((( lenguaje [1] ) ruido) medium de enlace$1) informacion  :: Gráfico 1
+``` lof font-family: Chalkduster; font-size: 20px
+Musica :: = :: ((( lenguaje [1] ) ruido) medium de enlace , comunicacion $1)   
 
 ```
+
 
 ambos con desarrollos distintos , como medios con posibilidades y alcances distintos que se empiezan a diferenciar más y más, uno con imitación (esta mímesis se relaja en la identidad de la oferta de sentido)

@@ -1,3 +1,5 @@
+Editor Web MarkDown: https://stackedit.io
+
 Revista MAD (sociología) : https://revistamad.uchile.cl/index.php/RMAD/index
 
 A Python Package for Stochastic Block Model Inference: https://github.com/funket/pysbm/tree/master
