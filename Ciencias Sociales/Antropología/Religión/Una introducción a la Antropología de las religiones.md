@@ -18,10 +18,12 @@ El pensamiento marxista, sin entrar en consideración de sus corrientes y tradic
 
 # La religión como teodicea
 
+# La tradición antropológica
 
+# Religión: Significado y Función
  
 # Footnotes
 
 [^1]: No deja de llamar la atención que la comunicación religiosa se desarrolle en el terreno más allá de lo auto evidente que puede conferir la observación de causalidad de primera mano: allí las referencias no tienen problema de ser adjudicadas, para más profundidad referirse al [[Sociedad, sentido, religión; basados en la autorreferencia]]. 
 [^2]: Esta es un diferencia con la teoría de sistemas … 
-[^3]: Es interesante este punto que inaugura la [[Cuál es el caso y qué se esconde detrás del mismo|sociología crítica]], que , por otra parte, parece una consecuencia de no conceder la autonomía a la super estructura: cualquier fenómeno ideológico que no haga explícito su relación con la reproducción del actual modo de producción se le adjudicará alguna relación relevante. Este tipo de observaciones son imposibles de evitar una vez se comprende la *comunicación* como síntesis de selecciones: siempre se podrá preguntar por la contingencia , su sospechoso silencio o su estratégica denuncia, la ausencia o presencia funcionan igualmente como *motivos* al señalar su contingencia, sólo basta sumar una función lo suficientemente convincente (que sea evidente su dependencia, por ejemplo, la dependencia de las leyes del estado de unas fuerzas armadas que demandan recursos para su mantenimiento) para hacer match.  
+[^3]: Es interesante este punto que inaugura la [[Cuál es el caso y qué se esconde detrás del mismo|sociología crítica]], que , por otra parte, parece una consecuencia de no conceder la autonomía a la super estructura: cualquier fenómeno ideológico que no haga explícito su relación con la reproducción del actual modo de producción se le adjudicará alguna relación encubierta relevante. Este tipo de observaciones son imposibles de evitar una vez se comprende la *comunicación* como síntesis de selecciones: siempre se podrá preguntar por la contingencia , su sospechoso silencio o su estratégica denuncia, la ausencia o presencia funcionan igualmente como *motivos* al señalar su contingencia, sólo basta sumar una función lo suficientemente convincente (que sea evidente su dependencia, por ejemplo, la dependencia de las leyes del estado de unas fuerzas armadas que demandan recursos para su mantenimiento) para hacer match.  
