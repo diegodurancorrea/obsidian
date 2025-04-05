@@ -1,8 +1,8 @@
 ## INMEDIATO
-- [ ] Terminar DOSE (religiones)
-- [ ] Dejar listo cuestionario (religiones)
+- [x] Terminar DOSE (religiones)
+- [x] Dejar listo cuestionario (religiones)
 - [ ] Avanzar en el artículo del semillero
-- [ ] preparar encuentro con Byron 
+- [x] preparar encuentro con Byron 
 ## reseñas 
 - [ ] Reseñar las normas desde una perspectiva sociológica 
 - [ ] Reseñar la comunicación digital 
