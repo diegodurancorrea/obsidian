@@ -13,6 +13,7 @@ Ignorando otros tipos de orientaciones que acuden a diferentes dimensiones del s
 El sistema político Colombiano ha producido expectativas normativas respecto al *espacio* que *administra formalmente*, y pueden observarse en[^4]:  [[Decreto 879 de 1998]], [[Decreto 2181 de 2006]] y [[Ley 388 de 1997]]. ¿Cuáles son las distinciones directrices del espacio? empecemos discernir esta cuestión apoyándonos en el cálculo de distinciones. Así , por ejemplo, ya tenemos una primera distinción iremos actualizando según vayan incorporándose otros elementos: 
 
 ```lof font-family: Chalkduster; font-size: 20px
+
 (espacio)   
 ```
 En el artículo 1 se introduce el *ordenamiento territorial* como una forma del ejercicio de la autonomía territorial del municipio y en el artículo 2 se establece los principios del ordenamiento territorial: *La función social y ecológica de la propiedad* , *La prevalencia del interés general sobre el particular*, *La distribución equitativa de las cargas y los beneficios*. Estos principios son indicativos y aún no trazan distinciones claras sobre el espacio. Según el artículo 5 el ordenamiento es una **acción** *político administrativa y planificación física concertada […]  del territorio bajo su jurisdicción*, el proceso de ordenamiento se desarrollará a continuación, pero ya introduce algunas distinciones:

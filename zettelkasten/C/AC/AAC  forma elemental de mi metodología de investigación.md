@@ -19,7 +19,7 @@ Una vez 'adentro' de la administración usaremos ARS para seguir las relaciones 
 
 ![[ARS de la figura del consejo]]
 
-una vez construida esta base de datos reticular *¿ Qué podemos conocer con ARS en las relaciones estructurales de las operaciones de esta organización acoplada al sistema político?* dado que la red toma la forma de un árbol direccionado acíclico podemos efectuar el cálculo de los **pesos transversales**  puede ayudar a comprender que nodos individuales o agregados y los caminos que se desprenden de ellos son los más importantes para la toda la red que representa el proceso racionalizado de decisión. 
+una vez construida esta base de datos reticular *¿ Qué podemos conocer con ARS en las relaciones estructurales de las operaciones de esta organización acoplada al sistema político?* dado que la red toma la forma de un árbol direccionado acíclico podemos efectuar el cálculo de los **pesos transversales**  puede ayudar a comprender que nodos individuales o agregados y los caminos que se desprenden de ellos son los más importantes para  toda la red que representa el proceso racionalizado de decisión. 
 
 Otros tipos de cálculo posible hace uso intensivo de las *particiones* de los nodos para establecer relaciones de correlación entre la categoría de un nodo y la categoría del otro nodo con el que está relacionado; tentativamente propongo las siguientes pares de categorías a analizar:
 1) relación 2 -3 según temática seleccionada 

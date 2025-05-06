@@ -17,10 +17,17 @@ En su juventud de adscripción hegeliana y luego crítico materialista, **Feuerb
 El pensamiento marxista, sin entrar en consideración de sus corrientes y tradiciones, desarrolla el concepto de **ideología** como *formas en que los hombres se hacen conscientes de las contradicciones y conflictos de la vida material e intentan resolverlo*; dentro de la ideología se desarrollan complejas y artificiosas explicaciones jurídicas, filosóficas y religiosas de la *explotación histórica*. Ni la ideología ni la religión son un fenómeno autónomo[^2], necesitan una base material sobre la que poder desarrollarse super estructuralmente, esto no significa que la ideología sea una mera pintura, ésta tiene inmensa relevancia social, no obstante, es la tarea del filósofo marxista demostrar cómo detrás de la apariencia de una razonable formulación jurídica del derecho de propiedad (derechos humanos) se esconde la verdadera *intención* del **capital** de defender su propia existencia, a saber, la reproducción de la explotación y la acumulación capitalista[^3]. Así, bajo este modelo interpretativo marxista, la religión cumple una doble función: por una parte estimula la *solidaridad de clase* entre aquello que se acompañan en las actividades religiosas , y por otra parte la *integración social* al demandar conductas morales que ayudan al mantenimiento del orden social; la religión como alivio y como imposición es vista como un *pegamento social* que es *vehículo y encubridor* de los intereses de clase.
 
 # La religión como teodicea
-
+análisis socio histórico de Max weber 
 # La tradición antropológica
+evolucionismo y funcionalismo durkheiniano 
 
 # Religión: Significado y Función
+
+En este apartado Brian Morris va a tratar las formas generales en que el pensamiento religioso, o lo que se va tornando lo analíticamente lo mismo: el **pensamiento simbólico**, en general, es comprendido por el pensamiento social, en un primer momento le bastará con referenciar sus nombres: intelectualismo, funcionalismo, simbolismo y estructuralismo. 
+
+Para iniciar con una parte de la tradición que hace un interesante hincapié en la *función* Morris introduce las ideas de Lucien Lévy-Bruhl que siendo filósofo se interesó por las formas del pensamiento indígena, su interés se concentró en comparar las formas de pensamiento etnografiadas, y describió en esta línea el pensamiento primitivo como uno de carácter místico que ocupa todo el espacio en las representaciones colectivas que condiciona la psicología individual. Lévy-Bruhl toma la interesante vía de concebir la psicología individual como una  realidad supeditada a un tipo de *realidad simbólica colectiva* omni-abarcante que **homogeniza todas las representaciones sociales**.  La idea , hasta aquí implícita, de un universo único simbólico, va acompañada de una concepción de las sociedades tradicionales como si éstas constantemente viviesen en el *plano místico de la realidad*, es decir, su observación de los fenómenos circundante sólo acudiría a categorías místicas y, en cierto sentido, desconocidas para un tratamiento que llamaríamos de sentido común, en efecto, la evidencia etnográfica apunta a la vivencia de la cotidianidad social apartada del plano religioso, si acaso sólo pequeños eventos puntuales en ellos, más bien esta postura nos lleva al mito del **primitivo piadoso** incapaz de pensar fuera de la esfera de la superstición. 
+
+Evans Pritchard será especialmente crítico con  
  
 # Footnotes
 
