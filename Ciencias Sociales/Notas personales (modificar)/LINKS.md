@@ -1,3 +1,5 @@
+librería extractor PDF: https://docling-project.github.io/docling/examples/minimal/
+
 Editor Web MarkDown: https://stackedit.io
 
 Revista MAD (sociología) : https://revistamad.uchile.cl/index.php/RMAD/index

@@ -43,17 +43,9 @@ En las sociedades simples esta diferenciación es escasa: aún no se ha alcanzad
 ### POLÍTICA Y ADMINISTRACIÓN
   
 En los modelos politológicos de la relación entre política y administración existen varios modelos que, a pesar de su limitación, nos ayudan a entender la relación entre esta diferenciación interna: "Sobre la base de este fundamento de una organización homogénea de sentido, la relación de política y administración se expone de dos maneras diferentes: mediante la distinción entre arriba y abajo; y mediante la distinción entre fin y medio. (pág. 105)". Esto quiere decir que las decisiones existen porque pasan por dos procesos, estos dos procesos son los ya mencionados decisión sobre problemas y decisión sobre los problemas; a su vez se corresponde con la distinción entre motivación y acción, necesaria para garantizar la legitimidad y un aumento de los rendimientos. este tema lo dejaremos como asumido. no será tocado de nuevo.  ambos procesos existen en tanto puedan garantizar su función las cuales son: **" La acción política sirve, en lo esencial, para reducir la complejidad  de las posibilidades de la sociedad con tal amplitud como para que pueda  decidirse de forma vinculante y sin el riesgo de una resistencia importante. La administración se ocupa, por el contrario, de la realización de lo políticamente posible y necesario mediante la elaboración de decisiones  vinculantes, y ello según el criterio de unas premisas de decisión ya establecidas** (hoy, por lo general, decididas de modo positivo ( page 111)
-
-  
-
 ## MODELO ANALÍTICO DEL SISTEMA POLÍTICO
 
-  
-
 El modelo a continuación es un modelo analítico del sistema político para sociedades funcionalmente diferenciadas.  En este tipo de sociedades los niveles más elementales e interiores de concreción están en el nivel de los roles:  "Sus sistemas pueden solo  consistir en roles, no en personas. Así, de hecho, son los roles los que configuran el sustrato de nuestro modelo de sistema." (page 115) Siendo esto así, "Constituye un presupuesto esencial de este orden el que las estructuras de los roles y de los programas se recubren los unos a los otros al menos aproximativamente, pues ambos niveles sostienen la diferenciación y, por tanto, la complejidad del orden  en su conjunto. A partir de estos niveles que sostienen la complejidad, las personas concretas son posteriormente movilizadas y son ideologizadas en torno a valores abstractos. Todo ello para que puedan ajustarse a las exigencias de una sociedad compleja en alto grado. En detalle, nuestro modelo distingue el sistema político (en rectángulos) de su entorno (en círculos) "  (pág. 116) . "Para el mantenimiento de la autonomía y de la eficacia funcional de   los sistemas parciales, así como del ciclo de influencia entre ellos, no solamente resulta exigible una formación funcional-estructural de subsistemas. La diferenciación  debe ir más allá y debe comprender también el   proceso de elaboración de información según criterios sociales, temporales y objetivos. Deben desbrozar y despejarse roles, fronteras de entrada  y salida y niveles de sentido; y en este quedar separados han de ser estabilizados artificialmente" ( pág. 127)
-
-  
-
 ### ADMINISTRACIÓN
 
 #### FUNCIÓN Y DIFERENCIACIÓN DINÁMICA   DEL SISTEMA ADMINISTRATIVO
