@@ -11,7 +11,7 @@
 
 Los Concejos municipales cumplen un papel fundamental en cada una de las etapas de la gestión pública local: la planeación, la ejecución, el seguimiento, la evaluación, el control y la rendición de cuentas. Su papel está orientado principalmente a velar por el cumplimiento de los fines del Estado (desarrollo, garantía de derechos y libertades fundamentales y democracia)
 
-# Planeación
+# Planeación 
 Durante la planeación, el municipio **prevé y decide las acciones** que adelantará para alcanzar el futuro deseado y posible, utilizando de manera eficiente y racional los recursos disponibles. La planeación comprende tres faces interrelacionadas entre si: 
 
 + Planeación estratégica : logro de los objetivos estratégicos que dan origen a los fines del estado 
@@ -44,25 +44,21 @@ el artículo 40 de la ley 152 de 1994 contempla la posibilidad de que el plan de
 **La Ley 1469 de 2011** :determina que mediante la figura de “Macroproyectos de Interés Social Nacional”, es decir, mediante decisiones administrativas y actuaciones urbanísticas para la ejecución de Operaciones Urbanas Integrales, se podrán agilizar procesos de habilitación de suelo urbanizable e incrementar la escala de producción de vivienda en los municipios
 
 ##### procedimiento del plan de ordenamiento territorial 
-+ formulación
-+ aprobación de la CAR y/o concertación con la junta metropolitana (art. 24, Ley 388 de 1997)
-+ Convocatorias públicas para discusión (la consulta democrática deberá (art. 24,
-Ley 388 de 1997)garantizase en todas las fases del POT: diagnóstico, formulación, seguimiento y evaluación )
-+ Conceptos y recomendaciones del Concejo Territorial de planeación(art. 24,
-Ley 388 de 1997)
-+ Aprobación del concejo o el alcalde por decreto(art. 24,
-Ley 388 de 1997)
-		+ el alcalde dispone de un mes para realizar los ajustes pertinentes y enviarlos al concejo municipal o distrital para su aprobación (art. 25, Ley 388 de 1997)
-		+ El concejo tiene tres meses para aprobarlo, de lo contrario puede ser aprobado vía decreto (art. 8, Decreto 4002 de 2004)
++ Formulación
++ Aprobación de la CAR y/o concertación con la junta metropolitana (art. 24, [[Ley 388 de 1997]])
++ Convocatorias públicas para discusión (la consulta democrática deberá (art. 24,[[Ley 388 de 1997]])garantizase en todas las fases del POT: diagnóstico, formulación, seguimiento y evaluación ) [[Ley 388 de 1997]]  recomendaciones del Concejo Territorial de planeación(art. 24, [[Ley 388 de 1997]])
++ Aprobación del concejo o el alcalde por decreto(art. 24,[[Ley 388 de 1997]])
+	+ el alcalde dispone de un mes para realizar los ajustes pertinentes y enviarlos al concejo municipal o distrital para su aprobación (art. 25, [[Ley 388 de 1997]])
+	+ El concejo tiene tres meses para aprobarlo, de lo contrario puede ser aprobado vía decreto (art. 8, Decreto 4002 de 2004)
 
-Según el artículo 5 del Decreto 4002 de noviembre 30 de 2004, por el cual se reglamentan los artículos 15 y 28 de la Ley 388 de 1997. En el artículo 7, Procedimiento para aprobar y adoptar las revisiones, indica que todo proyecto de revisión y modificación del Plan de Ordenamiento Territorial o de alguno de sus contenidos se someterá a los mismos trámites de concertación, consulta y aprobación previstas en los artículos 24 y 25 de la Ley 388 de 1997.  
+Según el artículo 5 del Decreto 4002 de noviembre 30 de 2004, por el cual se reglamentan los artículos 15 y 28 de la [[Ley 388 de 1997]]. En el artículo 7, Procedimiento para aprobar y adoptar las revisiones, indica que todo proyecto de revisión y modificación del Plan de Ordenamiento Territorial o de alguno de sus contenidos se someterá a los mismos trámites de concertación, consulta y aprobación previstas en los artículos 24 y 25 de la [[Ley 388 de 1997]].  
 ##### Revisión del POT 
 se podrá revisar los contenidos del POT por parte del concejo sólo por iniciativa del alcalde y si estos componentes hayan vencido su vigencia. art. 5, Decreto 4002 de 2004)
 en circunstancias de excepcionalidad cuando: hay una declaratoria de desastre o calamidad pública y/o resultados de estudio técnicos detallados sobre riesgo
-### planeación operativa
+## planeación operativa
 Consiste en la organización y definición detallada de acciones que deben realizar las unidades o dependencias de la administración municipal para dar cumplimiento al plan de desarrollo municipal. Esta fase cuenta con dos instrumentos: 
 + Plan de acción 
-+ Banco de programas y proyectos de inversión municipal
++ Banco de programas y proyectos de inversión municipal 
 ## Planeación financiera
 El concejo debe expedir es estatuto orgánico de presupuesto municipal y las vigencias futuras, así como debatir el presupuesto anual de rentas y gastos (Artículo 32, Ley 136 de 1994; y artículo 12, Ley 819 de 2003). La planeación financiera consiste en la definición del uso de los recursos disponibles y esperados conforme a los objetivos, metas , programas y proyectos establecidos en el plan de desarrollo; esta etapa se encuentra íntimamente relacionada con la etapa de ejecución del plan de desarrollo y se materializa en: el plan financiero, el plan operativo anual de inversiones y el presupuesto general de rentas y gastos. 
 
@@ -98,9 +94,9 @@ Es un conjunto de herramientas dirigido a organizar la información financiera e
 
 son mecanismos que permiten a la administración municipal asumir obligaciones que afectan presupuestos de próximas vigencias, previa autorización del Concejo Municipal. Existen las vigencias futuras ordinarias y excepcionales (las que no cuentan con apropiación en el presupuesto de la vigencia en la que se concede la autorización)
 
-+ no deben superar el periodo de gobierno en curso 
-+ los proyectos que esperan ser ejecutados con las vigencias futuras se encuentran incluidos en el plan de desarrollo y que sus costos de mantenimiento y/o administración no excedan su capacidad de endeudamiento
-+ el monto máximo de vigencias futuras, el plazo y las condiciones de las mismas sean coherentes con las metas plurianuales del marco fiscal de mediano plazo
+1) no deben superar el periodo de gobierno en curso 
+2) los proyectos que esperan ser ejecutados con las vigencias futuras se encuentran incluidos en el plan de desarrollo y que sus costos de mantenimiento y/o administración no excedan su capacidad de endeudamiento
+3) el monto máximo de vigencias futuras, el plazo y las condiciones de las mismas sean coherentes con las metas plurianuales del marco fiscal de mediano plazo
 
 el presupuesto una vez aprobado puede ser sometido a cambios tales como: 
 + adición
@@ -124,7 +120,7 @@ El concejo expide estos lineamientos de la contratación basados en los siguient
 + responsabilidad
 + transparencia 
 + economía 
-
+l
 ## Control político
 
 

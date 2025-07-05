@@ -14,7 +14,7 @@ Los planes parciales no podrán, en ningún caso, ==modificar la clasificación 
 
 **Plan parcial**: Es el instrumento mediante el cual se desarrollan y complementan las disposiciones de los planes de ordenamiento territorial, para áreas determinadas del suelo urbano y para las áreas incluidas en el suelo de expansión urbana, además de las que deban desarrollarse mediante unidades de actuación urbanística, macroproyectos u otras operaciones urbanas especiales, de acuerdo con las autorizaciones emanadas de las normas urbanísticas generales, en los términos previstos en la Ley 388 de 1997.
 
-Es importante esta disposición por nos acerca a la forma a como se tematiza, mediante distinciones, el espacio de una unidad territorial, a sí tenemos que el **uso suelo**. Modificado por el Decreto Nacional 4065 de 2008. Es la destinación asignada al suelo por el plan de ordenamiento territorial o los instrumentos que lo desarrollen o complementen, de conformidad con las actividades que se puedan desarrollar sobre el mismo. Los usos pueden ser *principales, compatibles, complementarios, restringidos y prohibidos*.
+Es importante esta disposición porque nos acerca a la forma a como se tematiza, mediante distinciones, el espacio de una unidad territorial, a sí tenemos que el **uso suelo**. Modificado por el Decreto Nacional 4065 de 2008. Es la destinación asignada al suelo por el plan de ordenamiento territorial o los instrumentos que lo desarrollen o complementen, de conformidad con las actividades que se puedan desarrollar sobre el mismo. Los usos pueden ser *principales, compatibles, complementarios, restringidos y prohibidos*.
 # Título 2
 
 ## capítulo 1
