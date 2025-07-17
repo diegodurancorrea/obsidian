@@ -1,3 +1,6 @@
+
+Pregrado sociología computacional UFLO: https://gastonbecerra.github.io/sociologia-uflo/
+
 librería extractor PDF: https://docling-project.github.io/docling/examples/minimal/
 
 Editor Web MarkDown: https://stackedit.io
@@ -61,3 +64,6 @@ Noticia licencias urbanísticas: https://www.elcolombiano.com/medellin/medellin-
 > Auditores ciudadanos: https://auditoresciudadanos.dnp.gov.co/Principal
 
 > Mapa Inversiones : https://mapainversiones.dnp.gov.co
+
+> datos concejo: https://www.elcolombiano.com/antioquia/los-movimientos-politicos-y-los-debates-del-concejo-de-medellin-de-cara-a-2021-EA14639296
+
