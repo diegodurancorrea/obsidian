@@ -45,7 +45,7 @@ Pajek habilita varios comandos para lograr una mejor visualización, estos son l
 
 ## atributtes and relations
 
-Una parte importante, aunque añadida, de las redes sociales, es su capacidad para combinar los datos relacionales con atributos no relacionales que mejorar las interpretaciones estructurales. Los atributos son las propiedades de los actores que no están basados en su posición estructural al interior de una red social
+Una parte importante, aunque añadida, de las redes sociales, es su capacidad para combinar los datos relacionales con atributos no relacionales que mejorar las interpretaciones estructurales. ==Los atributos son las propiedades de los actores que no están basados en su posición estructural al interior de una red social==
 ### Particiones
 Estos atributos cuantitativos son llamados particiones por Pajek y se definen como la **clasificación que guarda las características discretas de los vértices**, consiste en un número defino de clases que pueden, a través de la extracción de sub redes, reducir su tamaño o complejidad. las particiones, a nivel de archivo, pueden describirse como una lista de números enteros asociados a una lista de vectores; es probable que el orden de estos enteros corresponde con el grado ordinal de la variable, esto depende del investigador. La integración de los atributos es relevante porque permite constatar se existe una correlación entre estos y las características estructurales. 
 
@@ -81,7 +81,7 @@ Además de los cálculos, podemos transformar nuestros vectores en particiones; 
 La estadística ofrece técnicas para describir y comparar ==atributos== , de tal manera que si las relaciones estructurales pueden ser convertidas en atributos, estos, a su vez, pueden ser incluidos en análisis estadísticos. En esta línea, los vértices agregados mediante particiones permiten las aplicaciones de las tradicionales medidas estadísticas agregativas. Por tanto, las particiones y los vectores que guardan en si características estructurales de los vértices son el puente entre los análisis de redes sociales y la estadística. 
 
 # Part 2: Cohesión 
-Las redes revelan quién está conectado y quien no lo, que organizaciones están conectadas y otras no. La hipótesis que se asume estriba en que las personas que encajan o coinciden en sus características sociales tienden a interactuar más frecuentemente; y las personas que interactúan con frecuencia con frecuencia compartirán una común actitud o identidad. 
+Las redes revelan quién está conectado y quién no lo, que organizaciones están conectadas y otras no. La hipótesis que se asume estriba en que las personas que encajan o coinciden en sus características sociales tienden a interactuar más frecuentemente; y las personas que interactúan con frecuencia con frecuencia compartirán una común actitud o identidad. 
 
 las interacciones sociales son la base de la solidaridad, las normas compartidas, la identidad y la acción colectiva; las personas que interactúan se consideran a sí mismo como grupo sociales. A estas concesiones densas se les llama sub grupos cohesionados y se asume que están unido por más de una relación, se espera que las personas similares interactúen más entre si que entre desiguales, a esto se llama principio de homofilia. 
 
@@ -101,11 +101,11 @@ Para medir el grado en Pajek se recomiendo *simetrizar* la red, lo que significa
 
 A las **partes conectados** de una red se la llama **componentes**, de esta forma los grupos aislados pueden ser considerados sub grupos cohesionados en un primer vistazo. 
 
-Para definir los componentes de una red debemos abordar conceptos que hacen precisión sobre la forma en que un par de vértices están conectados. Aquí debemos tener en mente el concepto de *walk* y *semi-walk*, ambos surgen de la pregunta acerca de cómo un vértice puede conectar con otro. Un *semi-walk* de un vértice ``a``  hacia otro ``b`` se define como la secuencia de líneas tal que el vértice final de una línea sea el vértice inicial de la siguiente línea donde la secuencia comienza en un vértice ``a`` y termina en un vértice ``b``. Un *walk* añade una condicional: se respeta la dirección de la línea. 
+Para definir los componentes de una red debemos abordar conceptos que hacen precisión sobre la forma en que un par de vértices están conectados. Aquí debemos tener en mente el concepto de *walk* y *semi-walk*, ambos surgen de la pregunta acerca de cómo un vértice puede conectar con otro. Un *semi-walk* de un vértice $a$  hacia otro $b$ se define como la secuencia de líneas tal que el vértice final de una línea sea el vértice inicial de la siguiente línea donde la secuencia comienza en un vértice $a$ y termina en un vértice $b$. Un *walk* añade una condicional: se respeta la dirección de la línea. 
 
 No obstante, estas definiciones admiten soluciones infinitas porque no hay infinitas posibilidades de ir de un punto a otro. Por lo tanto, para eliminar la redundancia del *walk* y *semi-walk* debemos recurrir a otro concepto: *semi-path*  y *path*. 
 
-un *semi path* es un *semi walk* en donde ningún vértice entre el primero y el último vértice de un *semi walk*ocurre más de una vez; de la misma forma un *path* es  un *walk* donde ningún vértice entre el primero y el último vértice ocurre más de una vez. 
+un *semi path* es un *semi walk* en donde ningún vértice entre el primero y el último vértice de un *semi walk* ocurre más de una vez; de la misma forma un *path* es  un *walk* donde ningún vértice entre el primero y el último vértice ocurre más de una vez. 
 
 Una red, por lo tanto, está conectado (débilmente) si cada uno de las vértices están conectados hacia todos los demás por , por lo menos, un *semi path*. En cambio, un componente fuerte existe en la medida en que un par de vértices estén conectados por un *path*. Un componente débil es la máxima sub grupo conectado débilmente, en cambio, un componente fuerte es la máxima sub grupo conectado fuertemente. El adjetivo máximo significa que la sub red abarca todos los vértices de tal manera que cualquier añadido alteraría esta propiedad. 
 
@@ -117,10 +117,10 @@ Una vez aplicado el comando en Pajek se devuelve una partición que permite iden
 
 Para identificar los cores se usan los grados de los vértices que están conectados; en un clúster los vértices tienen un particular mínimo grado dentro de él. Estos clúster son los llamados K core y la K representa el mínimo grado de cada vértice en el core. Se recomiendo el uso de los K cores en redes no direccionadas debido a la complejidad explicativa. 
 
-Los K cores están anidados, es decir, si existe un vértice con un K core mayor a uno , significa que ese vértice también pertenece a un K core igual a uno. Los sub grupos K en los K cores pueden no estar conectados, esto hace posible remover los K cores de una red hasta que esta se 'rompa' en componentes aislados y relativamente densos entre ellos 
+Los K cores están ==anidados==, es decir, si existe un vértice con un K core mayor a uno , significa que ese vértice también pertenece a un K core igual a uno. Los sub grupos K en los K cores pueden no estar conectados, esto hace posible remover los K cores de una red hasta que esta se 'rompa' en componentes aislados y relativamente densos entre ellos 
 ##### Una definición paso a paso
 
-la definición formal de K core es **la máxima sub red en la cual cada vértice tiene , por lo menos, un grado de k dentro de la sub red**. Esto es cierto, no obstante, surge la pregunta de como se forman los componentes y si esto no cae en la arbitrariedad. Por ello es necesario una definición más descriptiva, así, **un sub grupo K core no está conformado por todos los nodos incidente de cada vértice en el grupo sino por todos los nodos incidentes que cumplan con la condición de compartir un grado mínimo y que, por lo menos, los nodos adyacentes que hacen que el primer vértice cumpla su grado mínimo, a su vez, cumplan con la misma condición**. De lo contrario, el nodo adyacente no será tomado en cuenta para aumentar el grado del vértice analizado. 
+la definición formal de K core es **la máxima sub red en la cual cada vértice tiene , por lo menos, un grado de k dentro de la sub red**. Esto es cierto, no obstante, surge la pregunta de como se forman los componentes y si esto no cae en la arbitrariedad. Por ello es necesario una definición más descriptiva, así, **un sub grupo K core no está conformado por todos los nodos incidente de cada vértice en el grupo sino por todos los nodos incidentes que cumplan con la condición de compartir un grado mínimo y que, por lo menos, los nodos adyacentes que hacen que el mencionado primer vértice cumpla su grado mínimo, a su vez, cumplan con la misma condición**. De lo contrario, el nodo adyacente no será tomado en cuenta para aumentar el grado del vértice analizado. Vale decir que el grado mínimo de un sub grupo equivale al máximo valor k posible dentro del subgrupo. 
 
 #### Cliques y sub redes completas 
 
