@@ -27,6 +27,8 @@ debemos indicar el porcentaje temático que dio cada proyecto de acuerdo (80% te
 
 Luego de ejecutado el scrapeo con los perfiles iniciales, y repetir este proceso tres veces, construimos una red de 222032 perfiles, con 340686 líneas en total, compuesto enteramente por líneas direccionadas, es decir, líneas que hacen distinguible la diferencia entre seguir y ser seguido por un perfil. La red cuenta con una densidad de 0.00000691%, y presenta un grado promedio de 3,06
 
+[Gráfica de la red. Completado]
+
 Gracias a la existencia de las líneas direccionadas podemos preguntarnos acerca de qué perfiles reciben para sí la mayor atención, es decir, quienes concentran más elecciones de ‘seguir’. La centralidad de los perfiles garantiza que la información que puedan comunicar sea alcanzada por una mayoría de los nodos, y aumenta la posibilidad en que tal información pueda orientar la propia opinión sobre un acontecimiento.  
 
 [gráfico con los perfiles de mayor centralidad]
