@@ -64,3 +64,8 @@ También podemos copiar **propiedades** de un nodo hacia otros nodos con *doc no
 CREATE (n{property:'Propiedad'})
 CREATE (m{property: n.property}) // copiamos la propiedad de n
 ```
+
+```cypher fold title:copy_node ln:true 
+CREATE (n{property:'Propiedad'})
+CREATE (m{property: n.property}) // copiamos la propiedad de n
+```
