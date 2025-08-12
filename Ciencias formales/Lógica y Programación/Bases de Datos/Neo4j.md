@@ -61,6 +61,48 @@ return n // sólo nodos n con relación outward con m
 También podemos copiar **propiedades** de un nodo hacia otros nodos con *doc notation*
 
 ```cypher fold title:copy_node ln:true 
-CREATE (n{property:'Propiedad'})
+CREATE (n{property:"Propiedad"})
 CREATE (m{property: n.property}) // copiamos la propiedad de n
+```
+
+Podemos filtrar nuestros match a través de la sentencia *return*
+
+```cypher unfold title:filter_node ln:true 
+MATCH (n)-->[r]-->(m)
+RETURN Type(r) // retorna el nombre de todas las relaciones 
+
+MATCH (n)-->[r]-->(m)
+RETURN DISTINCT m // retorna todos los valores ùnicos de m 
+
+MATCH (n{property:'property'})-->[r:LABEL]-->(m)
+RETURN Type(r) // retorna el nombre de todas las relaciones 
+
+MATCH (n{property:'property'})-->[r:LABEL]-->(m)
+RETURN PROPERTY r // retorna la propiedad del nodo r  
+
+MATCH (n:PERSON{property:'property'})-->[r:LABEL]-->(m)
+RETURN PROPERTY r // retorna la propiedad del nodo r  
+
+MATCH p = (n)-->[r:PERSON]-->(m)<--[r:ACTOR]-->(o)
+RETURN RELATIONSHIP(p)  // retorna en formato lista todos la informaciòn de las relaciones   
+// Or operation con | 
+MATCH  (n)-->[r:PERSON|ACTOR|WOMEN]-->(m)<--[r:ACTOR]-->(o)
+RETURN type (r)  // el atributo que encontró
+
+```
+
+Podemos **crear nuevas relaciones** entre nodos ya existentes: 
+
+```cypher unfold title:filter_node ln:true 
+MATCH (n{property:"property_1"});
+MATCH (z{property:"property_2"});
+CREATE (n)-->[r:NEWLINE]-->(z)
+```
+
+Podemos usar la sentencia  **OPCION** para no romper el código cuando estamos buscando relaciones que no tenemos certeza de su existencia, aunque permite mayor flexibilidad en los *querys* , no está diseñado para seleccionar múltiples nodos, por tanto, se recomienda una sintaxis línea por línea. 
+
+```cypher unfold title:opcional_node ln:true 
+OPTIONAL MATCH (n{property:"property_1"}) // si no coincide continua la siguiente sentencia
+OPTIONAL MATCH (n)-->(m) // si no coincide continua la siguiente sentencia
+RETURN n.property, m.property
 ```
