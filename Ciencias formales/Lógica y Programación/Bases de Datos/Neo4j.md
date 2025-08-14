@@ -65,12 +65,12 @@ CREATE (n{property:"Propiedad"})
 CREATE (m{property: n.property}) // copiamos la propiedad de n
 ```
 
-<<<<<<< HEAD
+
 ```cypher fold title:copy_node ln:true 
 CREATE (n{property:'Propiedad'})
 CREATE (m{property: n.property}) // copiamos la propiedad de n
 ```
-=======
+
 Podemos filtrar nuestros match a través de la sentencia *return*
 
 ```cypher unfold title:filter_node ln:true 
@@ -112,4 +112,5 @@ OPTIONAL MATCH (n{property:"property_1"}) // si no coincide continua la siguient
 OPTIONAL MATCH (n)-->(m) // si no coincide continua la siguiente sentencia
 RETURN n.property, m.property
 ```
->>>>>>> b4fbd8b109aa93616654fbada1b15e82b1094f9c
+
+
