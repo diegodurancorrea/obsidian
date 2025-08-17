@@ -19,12 +19,11 @@ El sistema político Colombiano ha producido expectativas normativas respecto al
 En el artículo 1 se introduce el *ordenamiento territorial* como una forma del ejercicio de la autonomía territorial del municipio y en el artículo 2 se establece los principios del ordenamiento territorial: *La función social y ecológica de la propiedad* , *La prevalencia del interés general sobre el particular*, *La distribución equitativa de las cargas y los beneficios*. Estos principios son indicativos y aún no trazan distinciones claras sobre el espacio. Según el artículo 5 el ordenamiento es una **acción** *político administrativa y planificación física concertada […]  del territorio bajo su jurisdicción*, el proceso de ordenamiento se desarrollará a continuación, pero ya introduce algunas distinciones:
 
 ```lof font-family: Chalkduster; font-size: 20px
-::unidad territorial =:: (((territorio[0])espacio)jurisdiccion$0)   
+::unidad territorial =:: ((territorio[0])(espacio)jurisdiccion$0)   
 
 ```
 Las *acciones* propias del ordenamiento territorial están estructuralmente resueltas en unas pocas pretensiones: 1) *la definición de las actividades asociadas al suelo*, lo que requiere de una subdivisión en partes más pequeñas de la categoría *territorios* , 2) la formación de unas estrategias y/o *programación* para orientar las *intervenciones* en búsqueda de *desarrollo*[^5]. Respecto a la primera pretensión el artículo 7.1 introduce la obligatoria reglamentación de distinguir entre áreas: *urbana* , *rural* , *de expansión urbana* , y respecto a la segunda la necesaria integración entre el *ordenamiento territorial* y el *plan de desarrollo*. Más adelante se especifica la *naturaleza* de la *acción ordenadora* como **acción urbanística**, la cual carece de contenido jurídico más deben estar *contenidas o autorizadas* en el *plan de ordenamiento territorial* , además de *sustentarse en estudios jurídicos, ambientales, de servicios públicos, o los demás que se requieran para garantizar el conocimiento pleno del territorio y su viabilidad financiera*[^6].  Antes de entrar de lleno en el plan de ordenamiento territorial actualicemos nuestro cálculo de distinciones. 
 ```lof font-family: Chalkduster; font-size: 15px  
-
 ::Ordenamiento territorial =::(((accion urbanistica[0])acto administrativo)unidad territorial$0)  
 
 ```
@@ -140,6 +139,52 @@ Se entiende como **actuación urbana integral** el desarrollo de programas y pro
 la ejecución de las **actuaciones urbanas integrales** se desarrollarán mediante **macroproyectos urbanos**
 
 todos los terrenos baldíos del área urbana se entenderán de propiedad de la administración de la unidad territorial
+### ilustraciones para la tesis
+```lof
+Ordenamiento:: =::(territorio)
+
+(Clasificacion)ProgramacionOrdenamiento:: =::(territorio)
+
+(Clasificacion[0])(Programacion)$0
+```
+
+```lof font-family: Chalkduster; font-size: 8px  
+
+::Ordenamiento territorial =::(((accion urbanistica[0])(acto administrativo)POT$0)Unidad Territorial) 
+
+
+::Clasificacion Suelo =:: ((Urbano)(expansion urbana)(Rural(Sub urbano)))Proteccion
+
+
+::Modelo de ocupacion =:: (Centralidades)(Transversalidades Naturales)(Rio y afluentes)(area rural integrada)(borde rural diverso)(Zona de media ladera heterogenea)(corredor del rio) 
+
+::Propiedad =:: (Publico)Privado
+
+::Usos Suelo Urbano =:: (areas de baja mixtura)(areas de media mixtura)(areas de alta mixtura)
+
+::Usos Suelo Rural =:: (Forestal protector)(Forestal productor)(Agropecuario)(Agricola)(Agroforestal)(Mineria en transicion)(Mixto urbano rural)(Servicios e industria)(dotacional y servicios)
+
+::Proteccion =::(Areas protegidas)(Areas de interes estrategico)(Areas de interes recreativo y paisajistico)
+
+::Sub urbano =:: (Parcelacion de vivienda Campestre)(Centros poblados rurales)(Suelo sub urbano)(Localizacion de equipamiento)
+
+::Tratamiento Rural =:: (Conservacion)(Actividades rurales sostenibles)(Restauracion actividades rurales)(Transicion a proteccion)(Consolidacion suburbana 1)(Consolidacion suburbana 2)(Consolidacion suburbana 3)(Consolidacion suburbana 4)(Mejoramiento integral)(area preservacion de infraestructura)
+
+::Tratamiento Urbano =:: (area preservacion de infraestructura)(Conservacion patrimonial)(Conservacion Urbanistica)(Conservacion areas BIC)(Consolidacion Urbana 1)(Consolidacion Urbana 2)(Consolidacion Urbana 3)(Consolidacion Urbana 4)(Consolidacion Urbana 5)(Desarrollo en suelo Urbano)(Desarrollo en suelo expansion)(mejoramiento integral en suelo urbano)(Mejoramiento integral en suelo de expansion)(renovacion urbana)
+
+::Alturas =:: (no aplica)((1)(2)(3)(4)(5)(6)(8)(20)Numero Pisos)(Altura Variable 1)(Altura Variable 2)(Altura Variable 3)
+
+:: Amenazas y Riesgos Naturales =:: (Movimientos en Masa)(Inundaciones)(Avenida torrencial)
+
+:: Amenazas y Riesgos Naturales =:: ((mitigable[0])(No mitigable)Amenaza y Riesgos Naturales$0)
+
+:: Movimiento en Masa =:: (Amenaza Alta)(Amenaza Media)(Amenaza Baja)(Amenaza muy baja)
+
+:: Inundaciones =:: (Amenaza Alta)(Amenaza Media)(Amenaza Baja)(Amenaza muy baja)
+
+:: Avenidas torrenciales =:: (Amenaza Alta)
+
+```
 # Footnotes
 
 [^1]: Tanto los conceptos de organización como de medio simbólicamente generalizados son asumidos, considero inane hacer el esfuerzo de plantear esta nota como el capítulo de mi trabajo de grado; pero si es un importante avance, más técnico que expresivo

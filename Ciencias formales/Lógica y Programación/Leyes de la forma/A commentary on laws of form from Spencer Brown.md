@@ -49,6 +49,8 @@ Como componente final de estos comentarios abordaremos la noción de *re entry*.
 ```lof
 f::=::((((.. a)b)a)b)
 ::=::((f < a >)b)
+(([0])$0)
+
 ```
 
 A través de esta función podemos construir ondas que van alternando estados con cada iteración, este tipo de oscilaciones indican simplemente cambios, y la superposición de ondas iterativas pueden producir pequeños pulsos cortos en la extensión de un gran pulso dominante, en las interferencias, en los cruces del límite, encontramos una primera aparición del tiempo como cualidad implícita en la lógica de la auto referencialidad[^2], los demás operadores y operandos lógicos se construyen a partir de la relación lógica entre estas distinciones.  
