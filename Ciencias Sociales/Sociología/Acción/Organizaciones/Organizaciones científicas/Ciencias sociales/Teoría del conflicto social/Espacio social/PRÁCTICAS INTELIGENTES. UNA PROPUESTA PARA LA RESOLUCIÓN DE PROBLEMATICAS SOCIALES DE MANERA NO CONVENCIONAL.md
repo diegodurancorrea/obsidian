@@ -1,9 +1,9 @@
 ---
-Fecha_creacion:: 2024-03-23
-Ultima_modificacion:: NaN
+"Fecha_creacion:": 2024-03-23
+"Ultima_modificacion:": NaN
 Nombre_documento: PRÁCTICAS INTELIGENTES. UNA PROPUESTA PARA LA RESOLUCIÓN DE PROBLEMATICAS SOCIALES DE MANERA NO CONVENCIONAL
-tipo:: Reseña corta
-autor:: DANIELA LÓPEZ TANGARIFE
+"tipo:": Reseña corta
+"autor:": DANIELA LÓPEZ TANGARIFE
 ---
 
  

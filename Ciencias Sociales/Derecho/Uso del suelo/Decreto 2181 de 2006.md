@@ -4,8 +4,8 @@
 "Nombre_documento:": Decreto 2181 de 2006
 "Tipo_documento:": Legislación
 "tipo:": Reseña larga
-"autor:": Presidencia 
-"Link:": 
+"autor:": Presidencia
+"Link:": https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=20809
 ---
 decreto que complementa la ley [[Ley 388 de 1997]]
 # título 1 disposiciones generales 

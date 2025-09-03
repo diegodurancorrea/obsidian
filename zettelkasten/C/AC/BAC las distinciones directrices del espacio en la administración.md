@@ -148,12 +148,14 @@ Ordenamiento:: =::(territorio)
 (Clasificacion[0])(Programacion)$0
 ```
 
-```lof font-family: Chalkduster; font-size: 8px  
+```lof font-family: Chalkduster; font-size: 10px  
 
 ::Ordenamiento territorial =::(((accion urbanistica[0])(acto administrativo)POT$0)Unidad Territorial) 
 
 
-::Clasificacion Suelo =:: ((Urbano)(expansion urbana)(Rural(Sub urbano)))Proteccion
+::Clasificacion Suelo =:: (Urbano)(expansion urbana)(Rural(Sub urbano))
+
+::Clasificacion Suelo =:: ((Proteccion[0])(No Proteccion)Clasificacion Suelo$0)
 
 
 ::Modelo de ocupacion =:: (Centralidades)(Transversalidades Naturales)(Rio y afluentes)(area rural integrada)(borde rural diverso)(Zona de media ladera heterogenea)(corredor del rio) 
@@ -172,7 +174,13 @@ Ordenamiento:: =::(territorio)
 
 ::Tratamiento Urbano =:: (area preservacion de infraestructura)(Conservacion patrimonial)(Conservacion Urbanistica)(Conservacion areas BIC)(Consolidacion Urbana 1)(Consolidacion Urbana 2)(Consolidacion Urbana 3)(Consolidacion Urbana 4)(Consolidacion Urbana 5)(Desarrollo en suelo Urbano)(Desarrollo en suelo expansion)(mejoramiento integral en suelo urbano)(Mejoramiento integral en suelo de expansion)(renovacion urbana)
 
+::Aprovechamiento del Suelo =:: (Alturas)(Indice Construccion)(Densidad Habitacional)
+
 ::Alturas =:: (no aplica)((1)(2)(3)(4)(5)(6)(8)(20)Numero Pisos)(Altura Variable 1)(Altura Variable 2)(Altura Variable 3)
+
+::Indice Construccion =:: (no aplica)(0.1 - 1.0)(1.1 - 2.0)(2.1 - 3.0)(3.1 - 4.0)(4.1 - 5.0)
+
+::Densidad Habitacional =:: (baja)(media - baja)(media - alta)(alta)
 
 :: Amenazas y Riesgos Naturales =:: (Movimientos en Masa)(Inundaciones)(Avenida torrencial)
 
@@ -183,6 +191,21 @@ Ordenamiento:: =::(territorio)
 :: Inundaciones =:: (Amenaza Alta)(Amenaza Media)(Amenaza Baja)(Amenaza muy baja)
 
 :: Avenidas torrenciales =:: (Amenaza Alta)
+
+:: Intervencion Prioritaria =:: (nuevos desarrollos habitacionales en suelo urbano y de expansion)(renovacion y reconversion urbana)(Mejoramiento y consolidacion de barrios)(Mejoramiento de veredas y centros poblados)(Reasentamiento integral poblacion)
+
+:: Intervencion Estrategica =:: (MEDrio)(MEDborde urbano rural)(Transversalidades la Iguana y Santa Elena)
+
+
+::Programacion =:: (Procedimiento)Planeacion
+
+::Procedimiento =:: (Parcelacion)(Construccion)(Urbanizacion)
+
+::Planeacion =:: ((Tercer nivel)Segundo nivel)
+
+::Segundo nivel =:: (Macroproyectos)(Proyectos Urbanos Integrales del ambito ladera)(Distritos rurales campesinos)
+
+::Tercer nivel =:: (Planes parciales)(Planes de legalizacion y regulacion urbanistica)(Planes maestros)(Unidades de planificacion rural) (Planes especiales de manejo y proteccion del patrimonio PEMP)
 
 ```
 # Footnotes
