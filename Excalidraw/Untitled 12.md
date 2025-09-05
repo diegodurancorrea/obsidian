@@ -5,7 +5,7 @@ Elegía del muérdago
 quizá un salvavidas de una cuita del pasado?
 Ni eso. Ni nada. Ni de lo que hablas existe aquí.
 
-Debajo de las telas embridadas por presión,
+Debajo de las telas, embridadas por presión,
 sujetas a mi mano, resiste en un puño violento:
 un pulso aún bombeante del ritmo izquierdo,
 que cruje  y golpea, enojado con aliento de león.
