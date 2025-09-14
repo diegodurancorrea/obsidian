@@ -59,3 +59,74 @@ for x, y in result:
 
 ### Metadata
 
+Son los objetos de python que *representan conceptos como tablas y columnas* , no así los datos; tenemos una colección para manejar nuestras tablas llamado **MetaData object**, las tablas pueden referirse a otras tablas guardados en otras colecciones, aunque se recomiendo manejar una sola colección para toda la aplicación. 
+
+```python fold title:meta_data.py  ln:true
+# declaramos el MetaData Object 
+from sqlalchemy import MetaData , Table , Column, Interger, String , Foreigkey 
+metadata_obj = MetaData()
+
+# declaramos un objeto tabla
+user_table = Table( "user_account",
+     metadata_obj,
+     Column("id", Integer, primary_key=True),
+     Column("name", String(30)),
+     Column("fullname", String),)
+     
+# podemos acceder a las columnas acudiendo a la clase padre Table
+user_table.c.name
+user_table.c.keys()
+user_table.primary_key() # muestra la llave primaria de la tabla
+
+# declaramos un segundo objeto tabla
+book_table = Table ( "book_register", 
+	metadata_obj,
+	Column('id' , Integer, primary_key = True)
+	Column("user_id", ForeignKey("user_account.id"), nullable=False)) # añadimos constraint statements 
+
+#invocamos el método create_all() para DDL (data definition language)
+metadata_obj.create_all(engine)
+
+```
+
+SqlAlchemys testea la existencia de cada tabla antes de emitir **create** statements, y las crea en un orden adecuado para evitar conflictos con sentencias *constraints*. Para revertir el proceso usamos el método `MetaData.drop_all()`. 
+
+Podemos emplear ORM para construir *declarative tables*  a través de **ORM mapped class** —con un estilo más sucinto o pythonista—, una clase mapeada es cualquier clase que queramos crear con atributos de clase que serán referidos a una tabla de la base de datos, hay pocas formas en las que esto puede lograrse, una de ellas es llamada *declarativa*  que permite *definir clases y la metadata de la tabla* a la vez—podemos consultar otros tipos de mapear una clase  [aqui](https://docs.sqlalchemy.org/en/20/orm/declarative_tables.html#orm-declarative-mapped-column-type-map)—
+
+~~~ python fold title:declarative_base.py 
+# metadata object se encuentra al interior de la ORM construcción
+from sqlalchemy.orm import DeclarativeBase
+
+class Base(DeclarativeBase):
+    pass
+    
+#accedemos a metadata
+Base.metadata
+Base.registry # mapper congiguration unit in SQLAlchemy ORM 
+
+from typing import List
+from typing import Optional
+from sqlalchemy.orm import Mapped
+from sqlalchemy.orm import mapped_column
+from sqlalchemy.orm import relationship
+
+class User(Base):
+#método __init__ implícito que proporciona argumentos posicionales kwards
+    __tablename__ = "user_account"
+    id: Mapped[int] = mapped_column(primary_key=True)
+    name: Mapped[str] = mapped_column(String(30))
+    fullname: Mapped[Optional[str]]
+    addresses: Mapped[List["Address"]] = relationship(back_populates="user")
+    def __repr__(self) -> str:
+        return f"User(id={self.id!r}, name={self.name!r}, fullname={self.fullname!r})"
+
+class Address(Base):
+    __tablename__ = "address"
+    id: Mapped[int] = mapped_column(primary_key=True)
+    email_address: Mapped[str]
+    user_id = mapped_column(ForeignKey("user_account.id"))
+    user: Mapped[User] = relationship(back_populates="addresses")
+    def __repr__(self) -> str:
+        return f"Address(id={self.id!r}, email_address={self.email_address!r})"
+    
+~~~
