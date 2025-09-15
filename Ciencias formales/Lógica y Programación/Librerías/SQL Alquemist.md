@@ -91,7 +91,7 @@ metadata_obj.create_all(engine)
 
 SqlAlchemys testea la existencia de cada tabla antes de emitir **create** statements, y las crea en un orden adecuado para evitar conflictos con sentencias *constraints*. Para revertir el proceso usamos el método `MetaData.drop_all()`. 
 
-Podemos emplear ORM para construir *declarative tables*  a través de **ORM mapped class** —con un estilo más sucinto o pythonista—, una clase mapeada es cualquier clase que queramos crear con atributos de clase que serán referidos a una tabla de la base de datos, hay pocas formas en las que esto puede lograrse, una de ellas es llamada *declarativa*  que permite *definir clases y la metadata de la tabla* a la vez—podemos consultar otros tipos de mapear una clase  [aqui](https://docs.sqlalchemy.org/en/20/orm/declarative_tables.html#orm-declarative-mapped-column-type-map)—
+Podemos emplear ORM para construir *declarative tables*  a través de **ORM mapped class** —con un estilo más sucinto o pythonista—, una clase mapeada es cualquier clase que queramos crear con atributos de clase que serán referidos a una tabla de la base de datos, hay pocas formas en las que esto puede lograrse, una de ellas es llamada *declarativa*  que permite *definir clases y la metadata de la tabla* a la vez—podemos consultar otros tipos de mapear una clase  [aqui](https://docs.sqlalchemy.org/en/20/orm/declarative_tables.html#orm-declarative-mapped-column-type-map)— 
 
 ~~~ python fold title:declarative_base.py 
 # metadata object se encuentra al interior de la ORM construcción
@@ -130,3 +130,22 @@ class Address(Base):
         return f"Address(id={self.id!r}, email_address={self.email_address!r})"
     
 ~~~
+
+Para generar sentencias DDL en nuestra *base declarativa*  usamos el mismo método asociado a la clase MetaData. 
+
+~~~ python fold title:declarative_base_DDL.py
+Base.metadata.create_all(engine)
+~~~
+
+### table reflection
+
+forma de generar *table objects* automáticamente a través de una base de datos existente, es el proceso inverso de las *declarative tables*.  
+
+~~~ python fold title:table_reflection.py
+from sqlalchemy import MetaData 
+metadata_obj = MetaData()
+
+some_table = Table("some_table", metadata_obj, autoload_with=engine) # identificamos el nombre de la tabla existente y lo asociamos a una nueva tabla y el la colección metadata que lo almacena. 
+~~~
+
+# Trabajando con datos
