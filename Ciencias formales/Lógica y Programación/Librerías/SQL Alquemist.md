@@ -149,3 +149,5 @@ some_table = Table("some_table", metadata_obj, autoload_with=engine) # identific
 ~~~
 
 # Trabajando con datos
+Nuestra interacción con una base de datos siempre se da en términos de una *transacción*,  una donde Interactuamos con la base de datos a través de las representación que hacemos de ella en la *meta-data*. 
+
