@@ -5,7 +5,7 @@ Nombre_documento: SQL Alquemist
 tipo:: Librería
 autor:: Python
 ---
->El objetivo de este aprendizaje es integrar los archivos Pajek en un formato tabular compatible con las bases de datos SQL 
+5>El objetivo de este aprendizaje es integrar los archivos Pajek en un formato tabular compatible con las bases de datos SQL 
 
 SQLAlchemy es una librería en Python orientada hacia ORM (*objet relational mapping*) que se compone de dos diferentes API: **ORM** para mapear sesiones con la base de datos, y **CORE** establecer la conectividad y procesamiento directo de las consultas SQL  
 
@@ -150,4 +150,5 @@ some_table = Table("some_table", metadata_obj, autoload_with=engine) # identific
 
 # Trabajando con datos
 Nuestra interacción con una base de datos siempre se da en términos de una *transacción*,  una donde Interactuamos con la base de datos a través de las representación que hacemos de ella en la *meta-data*. 
+## Insert
 
