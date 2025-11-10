@@ -1,3 +1,4 @@
+Libro linux: https://github.com/FADL285/LINUX-BASICS-FOR-HACKERS-Book
 
 Pregrado sociología computacional UFLO: https://gastonbecerra.github.io/sociologia-uflo/
 

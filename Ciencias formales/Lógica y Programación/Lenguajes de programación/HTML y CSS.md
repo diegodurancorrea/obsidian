@@ -171,7 +171,12 @@ El **Responsive Design** adapta el diseño a diferentes tamaños de pantalla med
 
 ~~~css
 @media (min-width: 600px) {
-  .col { width: 50%; }
+	.contenedor{ 
+	max-width: 600px;
+	margin: 0 auto ; 
+	} 
+	
+	.col { width: 50% };
 }
 ~~~
 O cargando hojas de estilo específicas
