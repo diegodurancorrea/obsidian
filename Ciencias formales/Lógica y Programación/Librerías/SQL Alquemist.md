@@ -151,4 +151,109 @@ some_table = Table("some_table", metadata_obj, autoload_with=engine) # identific
 # Trabajando con datos
 Nuestra interacción con una base de datos siempre se da en términos de una *transacción*,  una donde Interactuamos con la base de datos a través de las representación que hacemos de ella en la *meta-data*. 
 ## Insert
+Cuando usamos el ORM para ejecutar *bulk operations*, es decir, una sola operación sobre un conjunto de datos, hacemos uso directamente de la función `insert()` 
+~~~ python title:insert.py
+from sqlalchemy import insert
+stmt= insert(user_table).values(name="spongebob", fullname="Spongebob Squarepants")
+~~~
+
+Si hacemos `print()` de `stmt` obtenemos:
+~~~sql
+INSERT INTO user_account (name, fullname) VALUES (:name, :fullname)
+~~~
+
+Para ejecutar nuestras sentencias `insert()`  usamos la habitual estructura que ya vemos en [[SQL Alquemist#Estableciendo la conexión|los capítulos anteriores]], de este forma: 
+~~~python
+with engine.connect() as conn:
+    result = conn.execute(stmt)
+    conn.commit()
+~~~
+
+Las sentencias `insert()` usualmente no devuelven ningún valor, sin embargo, si sólo introducimos un valor podemos acceder a valores por defecto al nivel de la columna utilizando `result.inserted_primary_key`. 
+### execute-many con insert
+
+La sentencia `insert()` genera automáticamente cláusulas de valores cuando no utilizamos el método `insert().values()` , constituyen sentencias `values` vacías si sólo las imprimimos. Si ejecutamos esta sentencia vacía compilará la cadena SQL en base a los parámetros que pasamos al método`connection.execute()` , de esta forma podemos ejecutar varias filas a la vez. 
+
+~~~python
+with engine.connect() as conn:
+    result = conn.execute(
+        insert(user_table),
+        [
+            {"name": "sandy", "fullname": "Sandy Cheeks"},
+            {"name": "patrick", "fullname": "Patrick Star"},
+        ],
+    )
+    conn.commit()
+~~~
+
+podemos pasar una lista de diccionarios para insertar los datos, dada la construcción automática de las cláusulas que compilan en cadenas las columnas y valores, sólo el primer diccionario de la lista **determina que columnas estarán en las cláusulas values**, dado que sólo puede hacer una sentencia `insert()` para todos los parámetros.  
+
+## select
+Tanto en Core como en ORM, la función `select()` genera una estructura `Select` que se utiliza para todas las consultas `SELECT`. Al pasarla a métodos como `Connection.execute()` en Core y `Session.execute()` en ORM, se emite una instrucción `SELECT` en la transacción actual y las filas resultantes están disponibles a través del objeto `Result` devuelto.
+
+De igual forma a las función `insert()` ejecutamos la sentencia de la siguiente forma 
+~~~python
+`from sqlalchemy import select
+stmt = select(user_table).where(user_table.c.name == "spongebob")
+print(stmt)
+~~~
+Los resultados arrojan un output de filas que puede ser iterado, en el caso de`Session.execute()` devuelve un objeto de la clase *nombre_tabla* que contiene los valores de cada fila. 
+
+para configurar nuestras sentencias `SELECT` en relación a columnas y tablas: 
+~~~python
+# CORE
+select(user_table) # selecciona todas las columnas de la tabla
+select(user_table.c.name, user_table.c.fullname) # utilizamos el accesor .c para determinar las columnas individuales a seleccionar
+select(user_table.c["name", "fullname"])# alternativa a la opción anterior
+# ORM 
+select(User)  # selecciona todas las columnas de la clase que mapea la tabla
+select(User.name, User.fullname) # utilizamos los atributos de clase para determinar las columnas individuales a seleccionar
+select(User.name,Address).where(User.id==Address.user_id).order_by(Address.id).all() # combinamos ambas clases 
+~~~
+
+en los casos en que necesitemos *injectar* expresiones SQL a nuestras sentencias podemos integrarlas satisfactoriamente a través de `text()` y  `literal_column` 
+~~~python
+#CORE
+stmt=select(text("'somephrase'"),user_table.c.name).order_by(user_table.c.name) # añadimos la expresión
+stmt=select(literal_column("'somephrase'").label("p"),user_table.c.name).order_by( user_table.c.name ) # con esta expresión podemos etiquetar la columna que puede ser referida en subsecuentes consultas
+~~~
+
+para filtrar usamos tanto la función `where` o `filter_by`, usamos los operadores de python para construir nuestras sentencias
+
+~~~python
+select(user_table).where(user_table.c.name == "squidward")
+select(user_table).where(user_table.c.name == "1_").where(user_table.c.name == "2_") # anidamos where para simular un AND
+select(address_table.c.email_address).where(
+...         user_table.c.name == "squidward",
+...         address_table.c.user_id == user_table.c.id,
+...     )# alternativa a la línea anterior 
+select(Address.email_address).where(
+...         and_(
+...             or_(User.name == "squidward", User.name == "sandy"),
+...             Address.user_id == User.id,
+...         )
+...     ) # utilizamos la función or_() y and_() para filtrar 
+~~~
+
+para ordenar y agrupar usamos tanto la función `order_by` o `group_by` o `having`, usamos los operadores de python para construir nuestras sentencias
+
+~~~python
+select(user_table).order_by(user_table.c.name)
+select(User).order_by(User.fullname.desc()) # en ORM tenemos la función .desc() y .asc()
+~~~
+
+QLAlchemy proporciona funciones SQL de forma abierta utilizando un espacio de nombres conocido como *func*.  Cuando usamos funciones agregadas en SQL, La cláusula GROUP BY es esencial, ya que permite particionar las filas en grupos donde se aplicarán funciones de agregación a cada grupo individualmente. Al solicitar columnas no agregadas en la cláusula COLUMNS de una instrucción SELECT, SQL requiere que todas estas columnas estén sujetas a una cláusula GROUP BY, ya sea directa o indirectamente, según una asociación de clave primaria. La cláusula HAVING se utiliza entonces de forma similar a la cláusula WHERE, con la diferencia de que filtra las filas según los valores agregados en lugar del contenido directo de la fila.
+~~~python
+select(User.name, func.count(Address.id).label("count"))
+...         .join(Address)
+...         .group_by(User.name)
+...         .having(func.count(Address.id) > 1) # agrupamos y filtramos 
+
+select(Address.user_id, func.count(Address.id).label("num_addresses"))
+...     .group_by("user_id")
+...     .order_by("user_id", desc("num_addresses"))# ordenamos la agrupación #CORE aliases
+>>> user_alias_1 = user_table.alias()
+#ORM aliases
+>>> address_alias_1 = aliased(Address) # sobre una clase mapeada
+~~~
 
