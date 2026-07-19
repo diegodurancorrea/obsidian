@@ -1,3 +1,5 @@
+Sebastian Olmos Nuñex: https://sebfelolmos.github.io/en/Publications/
+
 Drive matemáticas: https://drive.google.com/drive/folders/17-nC6EFoIkWDByvo-AgX4qH6DsQXL7oh?fbclid=IwY2xjawO4OI9leHRuA2FlbQIxMABicmlkETFVS0hKNUQ1Q256Z01RWHNac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHu3IGAKGDSd8XwCaI5zxIZYPgmn-XtrdiWeAAbks7nIlWBrtqhs5U3nngZoE_aem_5UcYWObcHydfEsYaNybW-w
 Libro linux: https://github.com/FADL285/LINUX-BASICS-FOR-HACKERS-Book
 
